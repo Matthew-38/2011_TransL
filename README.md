@@ -11,7 +11,7 @@ Dans une console Linux, saissez :
   $ python3 main.py
   
 La programme initialize dans le mode graphique, mais la console reste avec des informations de debugging. 
-Peut être que ceci marche aussi sur Windows.
+Ça marche aussi sous Windows avec Python 3
 
 # Fonctionalités
 
@@ -29,5 +29,3 @@ Fênetre principale pour saisir des textes. Langue cible peut être choisie en h
 5. C'est en mode Alpha - avec la console qui donne toute sorte de message de debugging. Ça n'aurait pas de sens pour ceux qui ne connaissent pas le code
 
 6. Tous les fichiers (dictionnaires, images) sont un peu malorganisés. 
-
-7. Je vais tester sur Windows pour voir si ça marche.
