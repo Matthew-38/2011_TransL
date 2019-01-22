@@ -1,0 +1,1597 @@
+# English-Esperanto translations created from the Universal dictionary at 2011-05-28T05:41:05-06:00
+# (c) Copyright 2011 by All free dictionaries project
+# ALL FREE DICTIONARIES PROJECT DISCLAIMS ALL
+# WARRANTIES WITH REGARD TO THESE TRANSLATIONS, INCLUDING ALL
+# IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO
+# EVENT SHALL ALL FREE DICTIONARIES PROJECT OR ANY OF ITS CONTRIBUTORS
+# BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES
+# OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR
+# PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE
+# OR OTHER ACTION, ARISING OUT OF OR IN CONNECTION
+# WITH THE USE OR PERFORMANCE OF THESE TRANSLATIONS.
+#
+# In other words there may be incorrect translations.
+# If you need to be sure never use these translations!
+#
+# French, German and Czech entries are added manually. The entries for
+# remaining languages are added automatically. Entries for these languages
+# are only experimental.
+#
+# You may not place this file on WWW, ftp and equivalent servers because
+# this file gets outdated very quickly. You may not distribute this file
+# with your dictionary applications without permission. You can contact
+# authors of the Universal dictionary at: http://dicts.info/contact.php
+#
+# This file is for personal use only. You may not distribute this file.
+#
+# New version of this file can be created at: http://www.dicts.info/uddl.php
+#
+
+ April ; Apr 	 aprilo 	 time 
+ Czech Republic 	 Ĉeĥio 	 country 
+ December ; Dec 	 decembro 	 time 
+ Earth ; earth ; world ; globe 	 Tero 	 nature 
+ English ; English language 	 Angla lingvo 	 language 
+ February ; Feb 	 februaro 	 time 
+ France ; French Republic 	 Francio 	 country 
+ Friday ; Fri 	 vendredo 	 time 
+ German ; High German ; German language 	 Germana lingvo 	 linguistics 
+ Germany ; Federal Republic of Germany ; Deutschland ; FRG 	 Germanio 	 country 
+ India ; Republic of India ; Bharat 	 Hindio 	 country 
+ Italy ; Italian Republic ; Italia 	 Italio 	 country 
+ January ; Jan 	 januaro 	 time 
+ Japan ; Nippon ; Nihon 	 Japanio 	 country 
+ July 	 julio 	 time 
+ June 	 junio 	 time 
+ Monday ; Mon 	 lundo 	 time 
+ Moon ; moon 	 luno 	 nature 
+ November ; Nov 	 novembro 	 time 
+ October ; Oct 	 oktobro 	 time 
+ Saturday ; Sabbatum ; Sat 	 sabato 	 time 
+ Spain ; Kingdom of Spain ; Espana 	 Hispanujo 	 country 
+ Sunday ; Lord's Day ; Dominicus ; Sun 	 dimancxo 	 time 
+ Thursday ; Th 	 jxauxdo 	 time 
+ United Kingdom ; UK ; U.K. ; Britain ; United Kingdom of Great Britain and Northern Ireland ; Great Britain 	 Britio 	 country 
+ United States ; United States of America ; America ; the States ; US ; U.S. ; USA ; U.S.A. 	 Usono 	 country 
+ Wednesday ; Midweek ; Wed 	 merkredo 	 time 
+ ability ; power 	 povo 	 abstract 
+ able 	 kapabla 	 adjective 
+ about ; almost ; most ; nearly ; near ; nigh ; virtually ; well-nigh 	 preskaux 	 adverb 
+ about ; around 	 cxirkaux 	 adverb 
+ above ; higher up ; in a higher place ; to a higher place 	 super 	 adverb 
+ abrupt ; precipitous ; sharp 	 abrupta 	 adjective 
+ accept ; take ; have 	 akcepti 	 verb 
+ accident 	 akcidento 	 transport 
+ account ; business relationship 	 kalkulo 	 business 
+ achieve ; accomplish ; attain ; reach 	 atingi 	 verb 
+ acid 	 acido 	 material 
+ acme ; height ; elevation ; peak ; pinnacle ; summit ; superlative ; meridian ; tiptop ; top 	 supro 	 abstract 
+ act ; deed ; human action ; human activity 	 ago 	 abstract 
+ act ; move 	 agi 	 verb 
+ action 	 ago 	 mathematics 
+ action 	 faro 	 mathematics 
+ action ; activity ; activeness 	 ago 	 mathematics 
+ actor ; histrion ; player ; thespian ; role player 	 aktoro 	 profession 
+ actress 	 aktorino 	 profession 
+ actually ; really 	 vere 	 adverb 
+ acuate ; acute ; sharp ; needlelike 	 akra 	 adjective 
+ ad ; advertisement ; advertizement ; advertising ; advertizing ; advert 	 reklamo 	 business 
+ add ; add together 	 aldoni 	 verb 
+ addition ; add-on ; improver 	 aldono 	 abstract 
+ address 	 adreso 	 abstract 
+ adept ; expert ; good ; practiced ; proficient ; skillful ; skilful 	 lerta 	 adjective 
+ adjacent ; next ; side by side 	 apuda 	 adjective 
+ adjective 	 adjektivo 	 linguistics 
+ admit ; acknowledge 	 koncedi 	 verb 
+ advantage ; reward 	 utilo 	 abstract 
+ advantage ; vantage 	 avantagxo 	 abstract 
+ advice 	 konsilo 	 communication 
+ after 	 post 	 adjective 
+ afternoon 	 posttagmezo 	 time 
+ again ; once again ; once more ; over again 	 ree 	 adverb 
+ against 	 kontraux 	 preposition 
+ age 	 aĝo 	 time 
+ agree ; hold ; concur ; concord 	 konsenti 	 verb 
+ agreement ; understanding 	 interkonsento 	 business 
+ ahead ; in front ; before 	 antaux 	 adverb 
+ aid ; assist ; assistance ; help 	 helpo 	 communication 
+ air 	 aero 	 nature 
+ airheaded ; dizzy ; empty-headed ; featherbrained ; giddy ; light-headed ; lightheaded ; silly 	 stulta 	 adjective 
+ airplane ; aeroplane ; plane 	 aeroplano 	 object 
+ airport ; airdrome ; aerodrome ; drome 	 aerodromo 	 city 
+ alive ; live 	 vivanta 	 adjective 
+ all 	 cxio 	 adjective 
+ alone ; lone ; lonely ; solitary 	 sola 	 adjective 
+ along 	 laux 	 adverb 
+ already 	 jam 	 adverb 
+ altitude ; height 	 alteco 	 abstract 
+ always ; ever ; e'er 	 ĉiam 	 adverb 
+ among ; amongst ; amid ; amidst 	 inter 	 preposition 
+ amount 	 nombro 	 abstract 
+ and 	 kaj 	 conjunction 
+ angle 	 angulo 	 mathematics 
+ animal ; animate being ; beast ; brute ; creature ; fauna 	 animala 	 nature 
+ announce ; denote 	 anonci 	 verb 
+ announcement ; proclamation ; annunciation ; declaration 	 proklamo 	 communication 
+ another ; some other 	 alia 	 adjective 
+ answer ; reply ; respond 	 respondi 	 verb 
+ answer ; reply ; response 	 respondo 	 communication 
+ ant ; emmet ; pismire 	 formiko 	 animal 
+ anteroom ; antechamber ; entrance hall ; hall ; foyer ; lobby ; vestibule 	 antauxcxambro 	 house 
+ any ; whatever ; whatsoever 	 ajna 	 adjective 
+ apartment ; flat 	 apartamento 	 society 
+ apparel ; wearing apparel ; dress ; clothes 	 kostumo 	 clothes 
+ apple 	 pomo 	 food 
+ approximately ; about ; close to ; just about ; some ; roughly ; more or less ; around ; or so 	 proksimume 	 adverb 
+ area ; expanse ; surface area 	 spaco 	 mathematics 
+ argue ; contend ; debate ; fence 	 disputi 	 verb 
+ argue ; reason 	 argumenti 	 verb 
+ argument ; statement 	 argumento 	 communication 
+ arm 	 brako 	 anatomy 
+ army ; regular army ; ground forces 	 armeo 	 society 
+ arrangement ; organization ; organisation ; system 	 organizado 	 society 
+ arrive ; make it ; get in ; go far 	 alveni 	 verb 
+ art ; fine art 	 arto 	 art 
+ artist ; creative person 	 artisto 	 profession 
+ ask ; inquire ; enquire 	 peti 	 verb 
+ aspect 	 aspekto 	 abstract 
+ assail ; assault ; set on ; attack 	 ataki 	 verb 
+ astute ; sharp ; shrewd 	 sagaca 	 adjective 
+ at 	 al 	 preposition 
+ attack ; onslaught ; onset ; onrush 	 atako 	 abstract 
+ attempt ; effort ; endeavor ; endeavour ; try 	 peno 	 abstract 
+ attention ; attending 	 atento 	 communication 
+ audio ; sound 	 sono 	 abstract 
+ aureate ; gilded ; gilt ; gold ; golden 	 ora 	 color 
+ authority ; authorization ; authorisation ; potency ; dominance ; say-so 	 aŭtoritato 	 society 
+ automatic 	 aŭtomata 	 adjective 
+ available 	 havebla 	 adjective 
+ avoid 	 eviti 	 verb 
+ awake 	 maldorma 	 adjective 
+ baby ; babe ; infant 	 infaneto 	 family 
+ back ; dorsum 	 dorso 	 anatomy 
+ bad 	 malbona 	 adjective 
+ bag 	 saketo 	 object 
+ bag ; handbag ; pocketbook ; purse 	 mansaketo 	 clothes 
+ bag ; traveling bag ; travelling bag ; grip ; suitcase 	 valizo 	 clothes 
+ balance 	 ekvilibro 	 physics 
+ ball 	 pilko 	 object 
+ bank 	 bordo 	 nature 
+ barbarous ; brutal ; cruel ; fell ; roughshod ; savage ; vicious 	 barbara 	 adjective 
+ base ; base of operations 	 bazo 	 society 
+ baseball ; baseball game 	 basbalo 	 sports 
+ basic 	 baza 	 adjective 
+ basket ; handbasket 	 korbo 	 object 
+ bath 	 bano 	 house 
+ bathroom ; bath 	 bancxambro 	 house 
+ be 	 esti 	 verb 
+ be ; live 	 vivi 	 verb 
+ beach 	 strando 	 nature 
+ beak ; bill ; neb ; nib ; pecker 	 beko 	 anatomy 
+ bear 	 porti 	 verb 
+ bear 	 urso 	 animal 
+ beat ; beat out ; crush ; shell ; trounce ; vanquish 	 venki 	 verb 
+ beautiful 	 bela 	 adjective 
+ because 	 ĉar 	 conjunction 
+ become ; go ; get 	 iĝi 	 verb 
+ bed 	 lito 	 house 
+ bedroom ; sleeping room ; sleeping accommodation ; chamber ; bedchamber 	 dormcxambro 	 house 
+ bee 	 abelo 	 animal 
+ beer 	 biero 	 food 
+ beginning ; commencement ; first ; outset ; get-go ; start ; kickoff ; starting time ; showtime ; offset 	 komenco 	 abstract 
+ beginning ; origin ; root ; rootage ; source 	 origino 	 transport 
+ behave ; acquit ; bear ; deport ; conduct ; comport ; carry 	 konduti 	 verb 
+ behind 	 malantaux 	 adverb 
+ being ; beingness ; existence 	 ekzistado 	 society 
+ believe 	 kredi 	 verb 
+ bell 	 sonorilo 	 object 
+ bend ; curve 	 sinuo 	 transport 
+ beside 	 apud 	 preposition 
+ besides ; too ; also ; likewise ; as well 	 ankaŭ 	 adverb 
+ bespeak ; betoken ; indicate ; point ; signal 	 indiki 	 verb 
+ better ; improve ; amend ; ameliorate ; meliorate 	 plibonigi 	 verb 
+ beverage ; drink ; drinkable ; potable 	 trinkajxo 	 food 
+ bicycle ; bike ; wheel ; cycle 	 biciklo 	 object 
+ bill ; account ; invoice 	 fakturo 	 business 
+ bill ; note ; government note ; bank bill ; banker's bill ; bank note ; banknote ; Federal Reserve note ; greenback 	 monbileto 	 business 
+ biology ; biological science 	 biologio 	 science 
+ bird 	 birdo 	 animal 
+ birthday 	 naskiĝtago 	 family 
+ bit ; chip ; flake ; fleck ; scrap 	 peco 	 object 
+ bite ; seize with teeth 	 mordi 	 verb 
+ bitter 	 amara 	 adjective 
+ black 	 nigra 	 adjective 
+ blade 	 klingo 	 object 
+ blessing ; approval ; approving 	 aprobo 	 communication 
+ blood 	 sango 	 anatomy 
+ blow 	 frapo 	 abstract 
+ blue ; bluish ; blueish 	 blua 	 color 
+ blueprint ; design ; pattern 	 desegno 	 object 
+ boat 	 boato 	 object 
+ bone ; os 	 osto 	 anatomy 
+ book ; volume 	 libro 	 object 
+ boot 	 boto 	 clothes 
+ boring ; deadening ; dull ; ho-hum ; irksome ; slow ; tedious ; tiresome ; wearisome 	 teda 	 adjective 
+ both 	 ambaux 	 adjective 
+ bottle 	 botelo 	 food 
+ box 	 kesteto 	 object 
+ boyfriend ; fellow ; beau ; swain ; young man 	 amisto 	 family 
+ brain ; encephalon 	 cerbo 	 anatomy 
+ branch 	 brancxo 	 nature 
+ bread ; breadstuff ; staff of life 	 pano 	 food 
+ break 	 rompi 	 verb 
+ breakfast 	 matenmangxo 	 food 
+ breast ; chest 	 brusto 	 anatomy 
+ brick 	 briko 	 house 
+ bridge ; span 	 ponto 	 object 
+ bright ; brilliant ; vivid 	 hela 	 adjective 
+ bring ; convey ; take 	 alporti 	 verb 
+ broken 	 rompita 	 adjective 
+ brother ; blood brother 	 frato 	 family 
+ brow ; forehead 	 frunto 	 anatomy 
+ brown ; brownish ; chocolate-brown ; dark-brown 	 bruna 	 color 
+ brush 	 broso 	 object 
+ brusque ; brusk ; curt ; short 	 bruska 	 adjective 
+ building ; edifice 	 domo 	 city 
+ bus ; autobus ; coach ; charabanc ; double-decker ; jitney ; motorbus ; motorcoach ; omnibus ; passenger vehicle 	 aŭtobuso 	 transport 
+ businessman ; man of affairs 	 negocisto 	 profession 
+ butter 	 butero 	 food 
+ buy ; purchase 	 aĉeti 	 verb 
+ by and large ; generally ; more often than not ; mostly 	 ĝenerale 	 adverb 
+ cake 	 kuko 	 food 
+ calculator ; reckoner ; figurer ; estimator ; computer 	 kalkulilo 	 device 
+ calendar month ; month 	 monato 	 time 
+ call ; telephone ; call up ; phone ; ring 	 alvoki 	 verb 
+ camera ; photographic camera 	 fotoaparato 	 object 
+ can ; tin ; tin can 	 ladskatolo 	 object 
+ capital 	 ĉefurbo 	 society 
+ capital ; capital letter ; uppercase ; upper-case letter ; majuscule 	 majusklo 	 linguistics 
+ capital ; working capital 	 kapitalo 	 business 
+ car ; auto ; automobile ; machine ; motorcar 	 aŭtomobilo 	 transport 
+ carbohydrate ; saccharide ; sugar 	 karbonhidrato 	 food 
+ card 	 karto 	 object 
+ cardinal ; central ; fundamental ; key ; primal 	 kardinala 	 adjective 
+ care ; attention ; aid ; tending 	 flegado 	 abstract 
+ castle 	 kastelo 	 city 
+ cat ; true cat 	 kato 	 animal 
+ catch ; grab ; take hold of 	 kapti 	 verb 
+ cause 	 kauxzo 	 abstract 
+ cell 	 ĉelo 	 anatomy 
+ cell ; jail cell ; prison cell 	 cxelo 	 society 
+ cellular telephone ; cellular phone ; cellphone ; cell ; mobile phone 	 poŝtelefono 	 device 
+ center ; centre ; middle ; heart ; eye 	 centro 	 mathematics 
+ center ; centre ; midpoint 	 centro 	 mathematics 
+ central 	 centra 	 adjective 
+ central ; telephone exchange ; exchange 	 telefoncentralo 	 society 
+ century 	 jarcento 	 time 
+ certain ; sure 	 certa 	 adjective 
+ chain 	 ĉeno 	 object 
+ chair 	 seĝo 	 house 
+ championship ; title 	 titolo 	 sports 
+ change ; alter ; modify 	 ŝanĝi 	 verb 
+ change ; alteration ; modification 	 ŝanĝo 	 abstract 
+ character ; grapheme ; graphic symbol 	 karaktro 	 linguistics 
+ charge 	 depago 	 business 
+ charge ; accuse 	 akuzi 	 verb 
+ charge ; complaint 	 akuzo 	 society 
+ charge ; electric charge 	 sxargajxo 	 nature 
+ cheap ; inexpensive 	 malmultekosta 	 adjective 
+ check ; bank check ; cheque 	 cxeko 	 business 
+ cheese 	 fromaĝo 	 food 
+ chemical ; chemic 	 kemia 	 adjective 
+ chemical ; chemical substance 	 kemiaĵo 	 material 
+ chemical element ; element 	 kemia elemento 	 material 
+ chemistry ; chemical science 	 kemio 	 science 
+ chest 	 kesto 	 object 
+ chief ; main ; primary ; principal ; master 	 ĉefa 	 adjective 
+ child ; kid ; youngster ; minor ; shaver ; nipper ; small fry ; tiddler ; tike ; tyke ; fry ; nestling 	 infano 	 family 
+ chin ; mentum 	 mentono 	 anatomy 
+ chocolate 	 ĉokolado 	 food 
+ choice ; selection ; option ; pick 	 elekto 	 abstract 
+ choose ; take ; select ; pick out 	 elekti 	 verb 
+ church ; church building 	 eklezio 	 city 
+ cinema ; movie theater ; movie theatre ; movie house ; picture palace 	 kino 	 city 
+ circle 	 rondo 	 mathematics 
+ city ; metropolis ; urban center 	 metropolo 	 society 
+ class ; form ; grade ; course 	 klaso 	 art 
+ classify ; class ; sort ; assort ; sort out ; separate 	 klasi 	 verb 
+ clean 	 pura 	 adjective 
+ clean ; make clean 	 purigi 	 verb 
+ clear 	 hela 	 adjective 
+ clock 	 horlogxo 	 device 
+ close ; shut 	 fermi 	 verb 
+ clothing ; article of clothing ; vesture ; wear ; wearable ; habiliment 	 vestoj 	 clothes 
+ cloud 	 nubo 	 nature 
+ club 	 klabo 	 object 
+ club ; social club ; society ; guild ; gild ; lodge ; order 	 gildo 	 society 
+ coal 	 karbo 	 material 
+ coat 	 palto 	 clothes 
+ coffee ; java 	 kafo 	 food 
+ cognition ; knowledge ; noesis 	 kognicio 	 education 
+ coil ; whorl ; roll ; curl ; curlicue ; ringlet ; gyre ; scroll 	 bobeno 	 object 
+ cold 	 malvarma 	 adjective 
+ cold ; common cold 	 malvarmumo 	 medicine 
+ coldness ; cold ; low temperature ; frigidity ; frigidness 	 malvarmo 	 nature 
+ collar ; neckband 	 kolumo 	 clothes 
+ color ; colour ; coloring ; colouring 	 koloro 	 art 
+ coloring material ; colouring material ; color ; colour 	 koloroj 	 art 
+ come ; come up 	 veni 	 verb 
+ committee ; commission 	 komisiono 	 society 
+ common ; mutual 	 komuna 	 adjective 
+ community 	 komunumo 	 society 
+ company ; companionship ; fellowship ; society 	 grupo 	 society 
+ compare 	 kompari 	 verb 
+ comparison ; comparing 	 komparo 	 abstract 
+ competition 	 konkurenco 	 business 
+ complete ; consummate 	 kompleta 	 adjective 
+ complete ; finish 	 fini 	 verb 
+ complimentary ; costless ; free ; gratis ; gratuitous 	 senpaga 	 adjective 
+ component ; constituent ; element ; factor ; ingredient 	 elemento 	 mathematics 
+ computer ; computing machine ; computing device ; data processor ; electronic computer ; information processing system 	 komputero 	 device 
+ concert 	 koncerto 	 art 
+ concluding ; final ; last ; terminal 	 fina 	 adjective 
+ condition ; status 	 kondiĉo 	 abstract 
+ confront ; face up ; face 	 defii 	 verb 
+ conscious ; witting 	 konscia 	 adjective 
+ consequence ; effect ; outcome ; result ; event ; issue ; upshot 	 konsekvenco 	 medicine 
+ construct ; build ; make 	 konstrui 	 verb 
+ contend ; fight ; struggle 	 batali 	 verb 
+ contest ; competition 	 konkurado 	 society 
+ continue ; go on ; proceed ; go along ; keep 	 dauxrigi 	 verb 
+ contract 	 kontrakto 	 business 
+ control ; command 	 komandi 	 verb 
+ controversy ; contention ; contestation ; disputation ; disceptation ; tilt ; argument ; arguing 	 disputo 	 mathematics 
+ cook 	 kuiradi 	 verb 
+ cook 	 kuiristo 	 profession 
+ cook ; fix ; ready ; make ; prepare 	 kuiri 	 verb 
+ copy 	 kopio 	 object 
+ copy ; re-create 	 kopii 	 verb 
+ correct ; right 	 gxusta 	 adjective 
+ cost 	 kosto 	 society 
+ cotton ; cotton fiber ; cotton wool 	 kotono 	 material 
+ cough 	 tusi 	 verb 
+ cough ; coughing 	 tuso 	 medicine 
+ council 	 koncilio 	 society 
+ country ; state ; land 	 ruro 	 society 
+ couple ; pair ; twosome ; twain ; brace ; span ; yoke ; couplet ; distich ; duo ; duet ; dyad ; duad 	 paro 	 number 
+ course ; course of study ; course of instruction ; class 	 kurso 	 education 
+ court ; tribunal ; judicature 	 tribunalo 	 society 
+ cow ; moo-cow 	 bovino 	 animal 
+ crack ; cleft ; crevice ; fissure ; scissure 	 fendeto 	 abstract 
+ crime ; offense ; criminal offense ; criminal offence ; offence ; law-breaking 	 krimo 	 society 
+ crude ; rough 	 kruda 	 adjective 
+ crush 	 pisti 	 verb 
+ cry ; outcry ; call ; yell ; shout ; vociferation 	 voko 	 communication 
+ cry ; weep 	 plori 	 verb 
+ culture ; civilization ; civilisation 	 kulturo 	 society 
+ cup 	 taso 	 food 
+ cup ; loving cup 	 pokalo 	 object 
+ cupboard ; closet 	 sxranko 	 house 
+ current 	 kuranta 	 adjective 
+ current ; electric current 	 fluo 	 nature 
+ current ; stream 	 fluo 	 nature 
+ curtain ; drape ; drapery ; mantle ; pall 	 kurteno 	 house 
+ curvature ; curve 	 kurbo 	 mathematics 
+ curve ; curved shape 	 kurbo 	 art 
+ customer ; client 	 kliento 	 business 
+ cut 	 trancxi 	 verb 
+ damage 	 difekti 	 verb 
+ damage ; harm ; impairment 	 damagxo 	 transport 
+ dance ; trip the light fantastic ; trip the light fantastic toe 	 danci 	 verb 
+ danger 	 danĝero 	 abstract 
+ dangerous ; unsafe 	 danĝera 	 adjective 
+ dark 	 tenebra 	 adjective 
+ data ; information 	 datumoj 	 communication 
+ date ; appointment ; engagement 	 rendevuo 	 relations 
+ date ; day of the month 	 dato 	 time 
+ daughter ; girl 	 filino 	 family 
+ day ; twenty-four hours ; twenty-four hour period ; 24-hour interval ; solar day ; mean solar day 	 tago 	 nature 
+ daze ; shock ; stupor 	 ŝoko 	 abstract 
+ dead 	 morta 	 adjective 
+ death 	 morto 	 nature 
+ decide ; make up one's mind ; determine 	 decidi 	 verb 
+ decision ; determination ; conclusion 	 decido 	 communication 
+ decoration ; ornament ; ornamentation 	 dekoro 	 object 
+ defense ; defence ; defense force ; defence force 	 defendo 	 abstract 
+ degree 	 grado 	 linguistics 
+ degree ; grade ; level 	 grado 	 linguistics 
+ delicate 	 delikata 	 adjective 
+ delicate ; fragile ; frail 	 fragila 	 adjective 
+ deliver 	 liveri 	 verb 
+ demeanor ; demeanour ; behavior ; behaviour ; conduct ; deportment 	 konduto 	 abstract 
+ democracy ; republic ; commonwealth 	 respubliko 	 society 
+ department ; section 	 sekcio 	 society 
+ dependable ; good ; safe ; secure 	 sekura 	 adjective 
+ deplorable ; distressing ; lamentable ; pitiful ; sad ; sorry 	 lamentinda 	 adjective 
+ depository financial institution ; bank ; banking concern ; banking company 	 banko 	 city 
+ describe ; depict ; draw 	 priskribi 	 verb 
+ design ; plan 	 plani 	 verb 
+ desire ; want 	 voli 	 verb 
+ desk 	 skribotablo 	 house 
+ despite 	 malgraŭ 	 preposition 
+ destruction ; devastation 	 detruo 	 abstract 
+ detail ; particular ; item 	 detalo 	 logistics 
+ detect ; observe ; find ; discover ; notice 	 trovi 	 verb 
+ develop 	 evolucii 	 verb 
+ development ; evolution 	 evoluo 	 nature 
+ deviation ; divergence ; departure ; difference 	 devio 	 mathematics 
+ dictionary ; lexicon 	 vortaro 	 linguistics 
+ die ; decease ; perish ; go ; exit ; pass away ; expire ; pass ; kick the bucket ; cash in one's chips ; buy the farm ; conk ; give-up the ghost ; drop dead ; pop off ; choke ; croak ; snuff it 	 morti 	 verb 
+ difference 	 diferenco 	 abstract 
+ different 	 alia 	 adjective 
+ difficult ; hard 	 malfacila 	 adjective 
+ difficulty 	 malfacileco 	 abstract 
+ direction 	 direkto 	 mathematics 
+ directly ; straight ; direct 	 rekte 	 adverb 
+ director ; manager ; managing director 	 direktoro 	 profession 
+ dirty ; dingy ; muddied ; muddy 	 malpura 	 adjective 
+ dirty ; soiled ; unclean 	 malpura 	 adjective 
+ discipline ; subject ; subject area ; subject field ; field ; field of study ; study ; bailiwick 	 disciplino 	 linguistics 
+ discussion ; give-and-take ; word 	 diskuto 	 communication 
+ disease 	 malsano 	 medicine 
+ displace ; fire ; give notice ; can ; dismiss ; give the axe ; send away ; sack ; force out ; give the sack ; terminate 	 maldungi 	 verb 
+ distance 	 distanco 	 mathematics 
+ diverse ; various 	 diversa 	 adjective 
+ diverseness ; diversity ; multifariousness ; variety 	 diverseco 	 art 
+ divide ; split ; split up ; separate ; dissever ; carve up 	 fendi 	 verb 
+ division ; partition ; partitioning ; segmentation ; sectionalization ; sectionalisation 	 divido 	 mathematics 
+ doctor ; doc ; physician ; MD ; Dr. ; medico 	 doktoro 	 profession 
+ dog ; domestic dog ; Canis familiaris 	 hundo 	 animal 
+ door 	 pordo 	 house 
+ doubt 	 dubi 	 verb 
+ doubt ; uncertainty ; incertitude ; dubiety ; doubtfulness ; dubiousness 	 dubo 	 communication 
+ down 	 suben 	 adjective 
+ down ; downwards ; downward ; downwardly 	 malsupren 	 adverb 
+ drawer 	 tirkesto 	 house 
+ drink ; imbibe 	 trinki 	 verb 
+ drive 	 stiri 	 verb 
+ drop ; drib ; driblet 	 guto 	 object 
+ dry 	 seka 	 adjective 
+ dry ; dry out 	 sekigi 	 verb 
+ dry ; dry out 	 sekigi 	 verb 
+ during 	 dum 	 preposition 
+ dust 	 polvo 	 material 
+ duty 	 devo 	 abstract 
+ dwelling ; home ; domicile ; abode ; habitation ; dwelling house 	 domo 	 house 
+ each 	 cxiu 	 adjective 
+ ear 	 orelo 	 anatomy 
+ earlier ; before 	 antaux 	 adverb 
+ early 	 frue 	 adjective 
+ early on ; early 	 frue 	 adverb 
+ earth ; ground 	 grundo 	 material 
+ east ; due east ; eastward ; E 	 oriento 	 logistics 
+ easy 	 facila 	 adjective 
+ eat 	 manĝi 	 verb 
+ economic 	 ekonomia 	 adjective 
+ economic ; economical 	 ekonomia 	 adjective 
+ economy ; economic system 	 ekonomio 	 business 
+ edge ; border 	 eĝo 	 mathematics 
+ education 	 edukado 	 society 
+ education ; instruction ; teaching ; pedagogy ; didactics ; educational activity 	 instruado 	 education 
+ effort ; elbow grease ; exertion ; travail ; sweat 	 peno 	 abstract 
+ egg 	 ovo 	 food 
+ eight ; 8 ; viii 	 ok 	 number 
+ eighth ; 8th 	 oka 	 number 
+ eighty ; 80 ; lxxx ; fourscore 	 okdek 	 number 
+ election 	 elekto 	 mathematics 
+ electric ; electrical 	 elektra 	 adjective 
+ elementary ; simple ; uncomplicated ; unproblematic 	 simpla 	 adjective 
+ elephant 	 elefanto 	 animal 
+ elevator ; lift 	 lifto 	 device 
+ encourage 	 kuraĝigi 	 verb 
+ end ; stop ; finish ; terminate ; cease 	 fini 	 verb 
+ end ; terminal 	 fino 	 abstract 
+ energy ; free energy 	 energio 	 nature 
+ engine 	 motoro 	 device 
+ engineering ; engineering science ; applied science ; technology 	 inĝenierarto 	 abstract 
+ enhance ; heighten ; raise 	 levi 	 verb 
+ enjoy ; bask ; relish ; savor ; savour 	 ĝui 	 verb 
+ enough ; plenty 	 suficxe 	 adverb 
+ enter ; come in ; get into ; get in ; go into ; go in ; move into 	 eniri 	 verb 
+ entertainment ; amusement 	 distraĵo 	 art 
+ entirely ; exclusively ; solely ; alone ; only 	 sole 	 adverb 
+ entitle ; title 	 titoli 	 verb 
+ envelope 	 koverto 	 object 
+ environment 	 medio 	 nature 
+ environment ; environs ; surroundings ; surround 	 cxirkauxajxo 	 nature 
+ equal 	 egala 	 adjective 
+ equally ; as ; every bit 	 kiel 	 adverb 
+ erstwhile ; former ; old ; onetime ; one-time ; quondam ; sometime 	 estinta 	 adjective 
+ especial ; exceptional ; particular ; special 	 speciala 	 adjective 
+ establish ; found ; plant ; constitute ; institute 	 fondi 	 verb 
+ estimate ; gauge ; approximate ; guess ; judge 	 taksi 	 verb 
+ estrus ; oestrus ; heat ; rut 	 seksardo 	 nature 
+ even 	 ecx 	 adverb 
+ even 	 para 	 adjective 
+ even ; fifty-fifty 	 ebena 	 adjective 
+ evening ; eve ; even ; eventide 	 vespero 	 time 
+ event 	 evento 	 abstract 
+ event ; case 	 okazo 	 abstract 
+ every 	 cxiu 	 adjective 
+ everything 	 cxio 	 pronoun 
+ examination ; exam ; test 	 ekzameno 	 communication 
+ example ; illustration ; instance ; representative 	 ekzemplo 	 communication 
+ exceed ; transcend ; overstep ; pass ; go past ; top 	 superi 	 verb 
+ excellent ; first-class ; fantabulous ; splendid 	 bonega 	 adjective 
+ exist ; be 	 ekzisti 	 verb 
+ exit ; go out ; get out ; leave 	 foriri 	 verb 
+ expect ; look ; await ; wait 	 atendi 	 verb 
+ experience 	 sperto 	 society 
+ expert 	 spertulo 	 profession 
+ explain ; explicate 	 ekspliki 	 verb 
+ express ; state 	 esprimi 	 verb 
+ expression ; look ; aspect ; facial expression ; face 	 rigardo 	 communication 
+ eye ; oculus ; optic 	 okulo 	 anatomy 
+ fabric ; cloth ; material ; textile 	 sxtofo 	 material 
+ face ; human face 	 vizaĝo 	 anatomy 
+ fact 	 fakto 	 abstract 
+ factory ; mill ; manufacturing plant ; manufactory 	 fabriko 	 city 
+ fail ; neglect 	 neglekti 	 verb 
+ fake ; false ; faux ; imitation ; simulated 	 falsa 	 adjective 
+ fall 	 fali 	 verb 
+ fall ; autumn 	 aŭtuno 	 nature 
+ false ; mistaken 	 erara 	 adjective 
+ family ; family unit 	 familio 	 family 
+ family ; household ; house ; home ; menage 	 familio 	 family 
+ far 	 fora 	 adjective 
+ farm 	 farmbieno 	 nature 
+ fast 	 rapida 	 logistics 
+ fat 	 dika 	 adjective 
+ fat 	 graso 	 material 
+ father ; male parent ; begetter 	 patro 	 family 
+ fatty ; fat 	 grasa 	 adjective 
+ fear 	 timi 	 verb 
+ fear ; fearfulness ; fright 	 timo 	 relations 
+ feather ; plume ; plumage 	 plumo 	 object 
+ feature ; characteristic 	 atributo 	 abstract 
+ feel ; experience 	 travivi 	 verb 
+ feel ; sense 	 palpi 	 verb 
+ feeling 	 sento 	 communication 
+ female 	 ina 	 adjective 
+ female ; female person 	 virino 	 society 
+ few 	 malmulta 	 adjective 
+ fiddling ; footling ; lilliputian ; little ; niggling ; piddling ; piffling ; petty ; picayune ; trivial 	 bagatela 	 adjective 
+ field 	 kampo 	 nature 
+ fifth ; 5th 	 kvina 	 number 
+ fifty ; 50 ; l 	 kvindek 	 number 
+ fight ; fighting ; combat ; scrap 	 batalado 	 abstract 
+ fill ; fill up ; make full 	 plenigi 	 verb 
+ find ; regain 	 trovi 	 verb 
+ finger 	 fingro 	 anatomy 
+ finish ; destination ; goal 	 celo 	 abstract 
+ fire ; flame ; flaming 	 flamo 	 nature 
+ firm ; house ; business firm 	 firmo 	 business 
+ firm ; solid 	 firma 	 adjective 
+ first ; firstly ; foremost ; first of all ; first off 	 unue 	 adverb 
+ fiscal ; financial 	 financa 	 adjective 
+ fish 	 fiŝo 	 animal 
+ five ; 5 ; v 	 kvin 	 number 
+ fix ; prepare ; set up ; ready ; gear up ; set 	 pretigi 	 verb 
+ fixed 	 fiksita 	 adjective 
+ flag 	 flago 	 object 
+ flat ; level ; plane 	 plata 	 adjective 
+ flight ; flying 	 flugo 	 transport 
+ floor ; flooring 	 planko 	 house 
+ floor ; level ; storey ; story 	 etagxo 	 house 
+ flower 	 floro 	 nature 
+ flush ; level ; even out ; even 	 niveli 	 verb 
+ fly 	 muŝo 	 animal 
+ fly ; wing 	 flugi 	 verb 
+ fold ; crease ; plication ; flexure ; crimp ; bend 	 falto 	 object 
+ follow 	 sekvi 	 verb 
+ following ; next 	 venonta 	 adjective 
+ food ; nutrient 	 nutraĵo 	 food 
+ foot ; human foot ; pes 	 piedo 	 anatomy 
+ football ; football game 	 piedpilko 	 sports 
+ footing ; basis ; ground 	 bazo 	 mathematics 
+ footstep ; pace ; step ; stride 	 pasxo 	 mathematics 
+ for 	 cxar 	 conjunction 
+ force ; forcefulness ; strength 	 forto 	 abstract 
+ foreign ; strange 	 eksterlanda 	 adjective 
+ forest ; wood ; woods 	 arbaro 	 nature 
+ forget 	 forgesi 	 verb 
+ forgive 	 pardoni 	 verb 
+ fork 	 forko 	 food 
+ form 	 formularo 	 society 
+ form ; shape ; cast 	 formo 	 art 
+ forty ; 40 ; xl ; twoscore 	 kvardek 	 number 
+ forward ; forwards ; frontward ; frontwards ; forrad ; forrard 	 antauxen 	 adverb 
+ four ; 4 ; iv 	 kvar 	 number 
+ fourth ; 4th ; quaternary 	 kvara 	 number 
+ fourth dimension ; time 	 tempo 	 physics 
+ frame 	 framo 	 object 
+ free 	 libera 	 adjective 
+ free ; liberate ; release ; unloose ; unloosen ; loose 	 liberigi 	 verb 
+ frequently ; often ; oftentimes ; oft ; ofttimes 	 ofte 	 adverb 
+ fresh 	 fresxa 	 adjective 
+ friend 	 amiko 	 family 
+ friendly 	 amika 	 adjective 
+ front 	 antauxa 	 adjective 
+ front ; front end ; forepart 	 antauxajxo 	 abstract 
+ fruit 	 frukto 	 food 
+ full 	 plena 	 adjective 
+ full ; total 	 totala 	 adjective 
+ fume ; smoke 	 fumi 	 verb 
+ function ; office ; part ; role 	 funkcio 	 mathematics 
+ function ; purpose ; role ; use 	 funkcio 	 linguistics 
+ function ; work ; operate ; go ; run 	 labori 	 verb 
+ furniture ; piece of furniture ; article of furniture 	 mebloj 	 house 
+ further ; farther 	 plue 	 adjective 
+ future 	 venonta 	 adjective 
+ future ; hereafter ; futurity ; time to come 	 estonteco 	 time 
+ gamble ; chance ; risk ; hazard ; take chances ; adventure ; run a risk ; take a chance 	 riski 	 verb 
+ game 	 ludo 	 mathematics 
+ game 	 ludo 	 sports 
+ garage 	 garaĝo 	 transport 
+ garden 	 ĝardeno 	 house 
+ gate 	 pordego 	 house 
+ gene ; cistron ; factor 	 geno 	 anatomy 
+ general 	 gxenerala 	 adjective 
+ general ; full general 	 generalo 	 profession 
+ get ; acquire 	 akiri 	 verb 
+ get down ; begin ; get ; start out ; start ; set about ; set out ; commence 	 komenciĝi 	 verb 
+ get up 	 levigxi 	 verb 
+ girl ; miss ; missy ; young lady ; young woman ; fille 	 frauxlino 	 family 
+ girlfriend ; girl ; lady friend 	 koramikino 	 family 
+ give 	 doni 	 verb 
+ glass 	 vitro 	 material 
+ glass ; drinking glass 	 glaso 	 food 
+ glue ; gum ; mucilage 	 gluo 	 material 
+ glue ; paste 	 glui 	 verb 
+ gluey ; glutinous ; gummy ; mucilaginous ; pasty ; sticky ; viscid ; viscous 	 glueca 	 adjective 
+ goal 	 golo 	 sports 
+ goat ; caprine animal 	 kapro 	 animal 
+ gold ; Au ; atomic number 79 	 oro 	 material 
+ golf ; golf game 	 golfo 	 travelling 
+ good 	 bona 	 adjective 
+ good ; well 	 bona 	 adjective 
+ govern ; rule 	 regi 	 verb 
+ government ; authorities ; regime 	 regado 	 society 
+ gradient ; slope 	 deklivo 	 mathematics 
+ grass 	 herbo 	 nature 
+ gray ; grayness ; grey ; greyness 	 grizo 	 color 
+ great 	 granda 	 adjective 
+ green ; greenish ; light-green ; dark-green 	 verda 	 color 
+ grey ; gray ; greyish ; grayish 	 grizo 	 adjective 
+ group ; grouping 	 grupo 	 abstract 
+ grow 	 kreski 	 verb 
+ guest ; invitee 	 gasto 	 travelling 
+ guitar 	 gitaro 	 object 
+ gun 	 pafilo 	 object 
+ hair 	 haroj 	 anatomy 
+ hair ; pilus 	 haro 	 anatomy 
+ hammer 	 martelo 	 object 
+ hand ; manus ; mitt ; paw 	 mano 	 anatomy 
+ handle ; grip ; handgrip ; hold 	 anso 	 object 
+ hapless ; miserable ; misfortunate ; pathetic ; piteous ; pitiable ; pitiful ; poor ; wretched 	 malriĉa 	 adjective 
+ happen ; hap ; go on ; pass off ; occur ; pass ; fall out ; come about ; take place 	 okazi 	 verb 
+ happy 	 feliĉa 	 adjective 
+ hash out ; discuss ; talk over 	 diskuti 	 verb 
+ hat ; chapeau ; lid 	 ĉapelo 	 clothes 
+ hate ; detest 	 malami 	 verb 
+ hate ; hatred 	 malamo 	 relations 
+ have ; have got ; hold 	 havi 	 verb 
+ hazard ; jeopardy ; peril ; risk ; endangerment 	 risko 	 transport 
+ he 	 li 	 pronoun 
+ head ; caput 	 kapo 	 anatomy 
+ head ; chief ; top dog 	 cxefo 	 society 
+ health 	 sano 	 abstract 
+ health ; wellness 	 sano 	 medicine 
+ healthy ; salubrious ; good for you 	 salubra 	 adjective 
+ hear 	 auxdi 	 verb 
+ heart ; pump ; ticker 	 koro 	 anatomy 
+ heavy 	 peza 	 adjective 
+ heed ; mind ; listen 	 atenti 	 verb 
+ help ; assist ; aid 	 helpi 	 verb 
+ her 	 sxia 	 pronoun 
+ hill 	 monteto 	 nature 
+ him 	 li 	 pronoun 
+ his 	 lia 	 pronoun 
+ historic period ; age 	 epoko 	 time 
+ history 	 historio 	 society 
+ hit ; hitting ; striking 	 bato 	 abstract 
+ hog ; pig ; grunter ; squealer ; Sus scrofa 	 porko 	 animal 
+ hold ; take hold 	 teni 	 verb 
+ hole 	 truo 	 abstract 
+ home ; place 	 hejmo 	 house 
+ homo ; man ; human being ; human 	 homo 	 family 
+ hook ; claw 	 krocxilo 	 object 
+ hope 	 esperi 	 verb 
+ horse ; Equus caballus 	 cxevalo 	 animal 
+ hospital ; infirmary 	 malsanulejo 	 city 
+ hot 	 varma 	 adjective 
+ hotel 	 hotelo 	 city 
+ hotness ; heat ; high temperature 	 varmego 	 medicine 
+ hour ; hr ; 60 minutes 	 horo 	 time 
+ house 	 domo 	 house 
+ however ; nevertheless ; withal ; still ; yet ; all the same ; even so ; nonetheless ; notwithstanding 	 malgrauxe 	 adverb 
+ human 	 homa 	 adjective 
+ humor ; humour ; sense of humor ; sense of humour 	 humoro 	 communication 
+ hundred ; one hundred ; 100 ; c 	 cent 	 number 
+ hungry 	 malsata 	 adjective 
+ hurt ; injure 	 damagxi 	 verb 
+ husband ; hubby ; married man 	 edzo 	 family 
+ ice 	 glacio 	 nature 
+ ice ; water ice 	 glacio 	 material 
+ idea ; thought 	 penso 	 communication 
+ identify ; place 	 identigi 	 verb 
+ if 	 se 	 conjunction 
+ ill ; sick 	 malsana 	 adjective 
+ image 	 bildo 	 art 
+ imitate ; copy ; simulate 	 imiti 	 verb 
+ immediately ; instantly ; straightaway ; straight off ; directly ; now ; right away ; at once ; forthwith ; like a shot 	 momente 	 adverb 
+ imperial ; majestic ; purple ; regal ; royal 	 regxa 	 adjective 
+ in ; inwards ; inward 	 en 	 adverb 
+ include 	 inkluzivi 	 verb 
+ income 	 enspezo 	 business 
+ incorporate ; contain ; comprise 	 enhavi 	 verb 
+ incorrect ; wrong 	 malgxusta 	 adjective 
+ increase 	 kreski 	 verb 
+ increase ; increment 	 pliigo 	 abstract 
+ increase ; increment ; growth 	 kresko 	 abstract 
+ individual 	 individuo 	 society 
+ individual ; private 	 individua 	 adjective 
+ induce ; stimulate ; cause ; have ; get ; make 	 emigi 	 verb 
+ industrial 	 industria 	 adjective 
+ industry ; manufacture 	 industrio 	 society 
+ infinitesimal ; minute 	 eta 	 adjective 
+ information ; info 	 informo 	 communication 
+ injure ; wound 	 vundi 	 verb 
+ ink 	 inko 	 material 
+ inquiry ; enquiry ; research 	 esplorado 	 abstract 
+ insect 	 insekto 	 animal 
+ inside ; within 	 ene 	 adverb 
+ institution ; establishment 	 institucio 	 society 
+ instrument 	 instrumento 	 device 
+ insurance 	 asekuro 	 business 
+ intelligent 	 inteligenta 	 adjective 
+ intend ; mean ; think 	 intenci 	 verb 
+ interest 	 interezo 	 business 
+ interest ; involvement 	 intereso 	 communication 
+ interesting 	 interesa 	 adjective 
+ international 	 internacia 	 adjective 
+ internet ; net ; cyberspace 	 interreto 	 mathematics 
+ interview 	 intervjuo 	 communication 
+ into 	 en 	 preposition 
+ introduce ; innovate 	 prezenti 	 verb 
+ introduce ; present ; acquaint 	 prezenti 	 verb 
+ iron ; Fe ; atomic number 26 	 fero 	 material 
+ island 	 insulo 	 nature 
+ it 	 gxin 	 pronoun 
+ its 	 gxia 	 pronoun 
+ jacket 	 jako 	 clothes 
+ jewel ; gem ; precious stone 	 juvelo 	 object 
+ job ; task ; chore 	 tasko 	 business 
+ join ; bring together 	 kunligi 	 verb 
+ journalist 	 ĵurnalisto 	 profession 
+ journey ; journeying 	 vojagxo 	 transport 
+ judge ; justice ; jurist 	 juĝisto 	 profession 
+ jump ; leap ; bound ; spring 	 salti 	 verb 
+ keep ; maintain ; hold 	 konservi 	 verb 
+ kernel ; substance ; core ; center ; centre ; essence ; gist ; heart ; heart and soul ; inwardness ; marrow ; meat ; nub ; pith ; sum ; nitty-gritty 	 esenco 	 abstract 
+ key 	 klavo 	 object 
+ key 	 ŝlosilo 	 house 
+ kick 	 kiki 	 verb 
+ kick ; boot ; kicking 	 piedbato 	 abstract 
+ kill 	 mortigi 	 verb 
+ kind 	 afabla 	 adjective 
+ kind ; sort ; form ; variety 	 speco 	 abstract 
+ king ; male monarch ; Rex 	 regxo 	 society 
+ kiss ; buss ; osculation 	 kiso 	 relations 
+ kitchen 	 kuirejo 	 house 
+ knee ; knee joint ; human knee ; articulatio genus ; genu 	 genuo 	 anatomy 
+ knife 	 tranĉilo 	 food 
+ knot 	 nodo 	 object 
+ know ; cognize ; cognise 	 scii 	 verb 
+ lake 	 lago 	 nature 
+ land ; dry land ; earth ; ground ; solid ground ; terra firma 	 grundo 	 nature 
+ land ; ground ; soil 	 tero 	 material 
+ language ; linguistic communication 	 lingvo 	 communication 
+ large ; big 	 granda 	 adjective 
+ last 	 lasta 	 adjective 
+ late ; belatedly ; tardily 	 malfrue 	 adverb 
+ laugh ; express joy ; express mirth 	 ridi 	 verb 
+ law 	 leĝo 	 society 
+ lead ; Pb ; atomic number 82 	 plumbo 	 material 
+ lead ; head 	 gvidi 	 verb 
+ lead ; take ; direct ; conduct ; guide 	 konduki 	 verb 
+ leader 	 estro 	 society 
+ leaf ; leafage ; foliage 	 folio 	 nature 
+ leap ; jump ; saltation 	 salto 	 abstract 
+ learn ; larn ; acquire 	 lerni 	 verb 
+ leather 	 ledo 	 material 
+ leave ; leave of absence 	 forpermeso 	 society 
+ left 	 lefta 	 adjective 
+ leg 	 kruro 	 anatomy 
+ legal 	 leĝa 	 adjective 
+ let 	 permesi 	 verb 
+ let ; allow ; permit 	 permesi 	 verb 
+ letter ; letter of the alphabet ; alphabetic character 	 litero 	 linguistics 
+ letter ; missive 	 litero 	 object 
+ library 	 biblioteko 	 city 
+ lie 	 kusxi 	 verb 
+ lie 	 mensogi 	 verb 
+ lie ; prevarication 	 mensogo 	 communication 
+ life 	 vivo 	 nature 
+ light 	 malpeza 	 adjective 
+ light ; visible light ; visible radiation 	 lumo 	 nature 
+ limit ; bound ; boundary 	 limito 	 mathematics 
+ line 	 streko 	 mathematics 
+ lion ; king of beasts ; Panthera leo 	 leono 	 animal 
+ lip 	 lipo 	 anatomy 
+ liquid 	 likva 	 adjective 
+ liquid 	 likva 	 nature 
+ list ; listing 	 listo 	 abstract 
+ listen ; hear ; take heed 	 aŭdi 	 verb 
+ little 	 malmulta 	 adverb 
+ load ; charge 	 sxargxi 	 verb 
+ local 	 loka 	 adjective 
+ lock 	 seruro 	 house 
+ lock 	 sxlosi 	 verb 
+ long 	 longa 	 adjective 
+ look 	 rigardi 	 verb 
+ look ; appear ; seem 	 aspekti 	 verb 
+ lookout ; lookout man ; sentinel ; sentry ; watch ; spotter ; scout ; picket 	 gardo 	 profession 
+ lose 	 perdi 	 verb 
+ lose 	 perdi 	 verb 
+ loss 	 perdo 	 business 
+ loud 	 lauxta 	 adjective 
+ love 	 ami 	 verb 
+ love 	 amo 	 relations 
+ low 	 malalta 	 adjective 
+ lucky 	 bonŝanca 	 adjective 
+ lunch ; luncheon ; tiffin ; dejeuner 	 tagmanĝo 	 food 
+ machine 	 aparato 	 device 
+ magazine ; mag 	 revuo 	 object 
+ mail ; mail service ; postal service ; post 	 poŝto 	 communication 
+ mail ; post ; send 	 sendi 	 verb 
+ major 	 majxora 	 adjective 
+ majority ; bulk 	 plejparto 	 abstract 
+ make ; create 	 fari 	 verb 
+ make ; do 	 fari 	 verb 
+ male 	 maskla 	 adjective 
+ male ; male person 	 masklo 	 society 
+ male child ; boy 	 knabo 	 family 
+ man ; adult male 	 homo 	 family 
+ manage ; deal ; care ; handle 	 administri 	 verb 
+ management ; direction 	 kondukado 	 society 
+ manner ; mode ; style ; way ; fashion 	 maniero 	 mathematics 
+ many 	 multaj 	 adjective 
+ map 	 mapo 	 object 
+ mark ; grade ; score 	 noto 	 education 
+ marker ; marking ; mark 	 marko 	 abstract 
+ market ; marketplace ; market place 	 bazaro 	 business 
+ marriage ; matrimony ; union ; spousal relationship ; wedlock 	 edzeco 	 society 
+ marriage ; wedding ; marriage ceremony 	 geedzigxo 	 family 
+ married 	 edzinigxinta 	 adjective 
+ marry ; get married ; wed ; conjoin ; hook up with ; get hitched with ; espouse 	 edzigxi 	 verb 
+ mass 	 maso 	 physics 
+ master ; master copy ; original 	 originalo 	 object 
+ match 	 matcxo 	 sports 
+ match ; fit ; correspond ; check ; jibe ; gibe ; tally ; agree 	 korespondi 	 verb 
+ match ; lucifer ; friction match 	 alumeto 	 object 
+ material 	 materia 	 adjective 
+ material ; stuff 	 materialo 	 material 
+ matter 	 materio 	 material 
+ matter ; affair ; thing 	 aĵo 	 abstract 
+ me 	 min 	 pronoun 
+ meal ; repast 	 manĝo 	 food 
+ mean ; mean value 	 meznombro 	 mathematics 
+ meaning ; pregnant ; significant 	 signifoplena 	 adjective 
+ measure ; mensurate ; measure out 	 mezuri 	 verb 
+ measure ; step 	 mezuro 	 abstract 
+ measurement ; measuring ; measure ; mensuration 	 mezurado 	 art 
+ meat 	 viando 	 food 
+ medical 	 medicina 	 adjective 
+ meet ; run into ; encounter ; run across ; come across ; see 	 renkonti 	 verb 
+ meeting ; coming together 	 renkontigxo 	 communication 
+ member ; fellow member 	 membro 	 society 
+ memory 	 memoro 	 communication 
+ memory ; retention ; retentiveness ; retentivity 	 memoro 	 communication 
+ menstruation ; menses ; menstruum ; catamenia ; period ; flow 	 monatajxo 	 medicine 
+ mention ; advert ; bring up ; cite ; name ; refer 	 mencii 	 verb 
+ menu ; bill of fare ; card ; carte du jour ; carte 	 menuo 	 object 
+ merely ; simply ; just ; only ; but 	 nur 	 adverb 
+ metallic ; metal 	 metala 	 adjective 
+ metallic element ; metal 	 metalo 	 material 
+ method 	 metodo 	 mathematics 
+ metro ; tube ; underground ; subway system ; subway 	 metroo 	 transport 
+ midnight 	 noktomezo 	 time 
+ might ; mightiness ; power 	 forto 	 abstract 
+ military 	 militisto 	 adjective 
+ military ; armed forces ; armed services ; military machine ; war machine 	 armeo 	 society 
+ milk 	 lakto 	 food 
+ million ; 1000000 ; one thousand thousand ; meg 	 miliono 	 number 
+ mind ; head ; brain ; psyche ; nous 	 menso 	 mathematics 
+ mine 	 minejo 	 object 
+ minister ; government minister 	 ministro 	 profession 
+ minor ; modest ; small ; small-scale ; pocket-size ; pocket-sized 	 eta 	 adjective 
+ minute ; min 	 minuto 	 time 
+ mirror 	 spegulo 	 house 
+ mistake ; error ; fault 	 eraro 	 communication 
+ mod ; modern ; modernistic 	 moderna 	 adjective 
+ model 	 modelo 	 object 
+ modern 	 moderna 	 adjective 
+ moisture ; wet 	 humideco 	 nature 
+ moment ; minute ; second ; instant 	 momento 	 mathematics 
+ moment ; mo ; minute ; second ; bit 	 minuto 	 time 
+ money 	 mono 	 business 
+ monkey 	 simio 	 animal 
+ month 	 monato 	 transport 
+ more ; more than 	 pli 	 adjective 
+ morning ; morn ; morning time ; forenoon 	 mateno 	 time 
+ mother ; female parent 	 patrino 	 family 
+ motion ; movement ; move ; motility 	 movo 	 physics 
+ mountain ; mount 	 monto 	 nature 
+ mouth 	 busxo 	 anatomy 
+ mouth ; oral cavity ; oral fissure ; rima oris 	 buŝo 	 anatomy 
+ move ; displace 	 movi 	 verb 
+ movement ; motion 	 movado 	 physics 
+ movie ; film ; picture ; moving picture ; moving-picture show ; motion picture ; motion-picture show ; picture show ; pic ; flick 	 filmo 	 art 
+ much 	 multe 	 adjective 
+ muscle ; musculus 	 muskolo 	 anatomy 
+ museum 	 muzeo 	 city 
+ music 	 muziko 	 art 
+ musician ; instrumentalist ; player 	 muzikisto 	 profession 
+ my 	 mia 	 pronoun 
+ nail 	 najlo 	 object 
+ nail 	 ungo 	 anatomy 
+ name 	 nomo 	 linguistics 
+ name ; call 	 nomi 	 verb 
+ narrow 	 malvasta 	 adjective 
+ nation ; land ; country 	 nacio 	 society 
+ national 	 nacia 	 adjective 
+ natural 	 natura 	 adjective 
+ natural language ; tongue 	 natura lingvo 	 linguistics 
+ nature 	 naturo 	 nature 
+ near ; close ; nigh 	 proksima 	 adjective 
+ necessary 	 necesa 	 adjective 
+ necessitate ; ask ; postulate ; need ; require ; take ; involve ; call for ; demand 	 necesi 	 verb 
+ neck ; cervix 	 kolo 	 anatomy 
+ necktie ; tie 	 kravato 	 clothes 
+ need ; demand 	 bezono 	 abstract 
+ needle 	 kudrilo 	 medicine 
+ neighbor ; neighbour 	 najbaro 	 family 
+ nerve ; nervus 	 nervo 	 anatomy 
+ net ; network ; mesh ; meshing ; meshwork 	 reto 	 material 
+ net income ; net ; net profit ; lucre ; profit ; profits ; earnings 	 profito 	 business 
+ nether ; under 	 sub 	 adjective 
+ new 	 nova 	 adjective 
+ news ; intelligence ; tidings ; word 	 novaĵo 	 society 
+ newspaper ; paper 	 ĵurnalo 	 object 
+ nice 	 beleta 	 adjective 
+ night ; nighttime ; dark 	 nokto 	 nature 
+ nine ; 9 ; ix 	 naŭ 	 number 
+ ninth ; 9th 	 naŭa 	 number 
+ no 	 ne 	 abstract 
+ no 	 nenia 	 adjective 
+ noise ; dissonance ; racket 	 bruo 	 society 
+ normal 	 normala 	 adjective 
+ normally ; usually ; unremarkably ; commonly ; ordinarily 	 kutime 	 adverb 
+ north 	 norda 	 adjective 
+ north ; due north ; northward ; N 	 nordo 	 logistics 
+ nose ; olfactory organ 	 nazo 	 anatomy 
+ not ; non 	 ne 	 adverb 
+ note ; annotation ; notation 	 noto 	 communication 
+ note ; musical note ; tone 	 tononomo 	 art 
+ nothing ; nil ; nix ; nada ; null ; aught ; cipher ; cypher ; goose egg ; naught ; zero ; zilch ; zip ; zippo 	 nenio 	 mathematics 
+ now 	 nun 	 time 
+ now ; at present 	 nuntempe 	 adverb 
+ number 	 kalkuli 	 verb 
+ number 	 nombro 	 linguistics 
+ nurse 	 flegistino 	 profession 
+ nut 	 boltingo 	 object 
+ nut 	 nukso 	 food 
+ obtain 	 akiri 	 verb 
+ obviously ; evidently ; manifestly ; patently ; apparently ; plainly ; plain 	 evidente 	 adverb 
+ occupation ; business ; job ; line of work ; line 	 okupo 	 business 
+ of 	 de 	 preposition 
+ offer 	 oferti 	 verb 
+ offer ; offering 	 oferto 	 abstract 
+ office ; business office 	 oficejo 	 business 
+ officeholder ; officer 	 oficisto 	 profession 
+ oil 	 oleo 	 material 
+ old 	 maljuna 	 adjective 
+ olfactory property ; smell ; aroma ; odor ; odour ; scent 	 odoro 	 nature 
+ on 	 sur 	 adjective 
+ once ; one time ; in one case 	 iam 	 adverb 
+ one-half ; half 	 duono 	 mathematics 
+ open ; open up 	 malfermi 	 verb 
+ open fire ; fire 	 pafi 	 verb 
+ operation 	 operacio 	 abstract 
+ operation ; functioning ; performance 	 funkciado 	 mathematics 
+ opinion ; sentiment ; persuasion ; view ; thought 	 opinio 	 communication 
+ opportunity ; chance 	 okazo 	 abstract 
+ opposite 	 kontrauxa 	 adjective 
+ option ; alternative ; choice 	 alternativo 	 abstract 
+ or 	 aŭ 	 conjunction 
+ orange 	 oranĝo 	 food 
+ orange ; orangish 	 orangxa 	 color 
+ orchestra 	 orkestro 	 art 
+ order 	 mendo 	 society 
+ order 	 ordo 	 linguistics 
+ order ; monastic order 	 ordeno 	 society 
+ order ; tell ; enjoin ; say 	 ordoni 	 verb 
+ original 	 origina 	 adjective 
+ other 	 alia 	 adjective 
+ our 	 nia 	 pronoun 
+ outburst ; burst ; flare-up 	 eksplodo 	 abstract 
+ outside 	 ekster 	 adverb 
+ outside ; exterior 	 eksterajxo 	 mathematics 
+ oven 	 kuirforno 	 device 
+ own ; ain 	 propra 	 adjective 
+ own ; have ; possess 	 havi 	 verb 
+ owner ; possessor 	 posedanto 	 business 
+ package ; bundle ; packet ; parcel 	 pako 	 object 
+ page 	 paĝo 	 object 
+ pain ; hurting 	 doloro 	 medicine 
+ paint ; pigment 	 farbo 	 art 
+ painting ; picture 	 pentrado 	 art 
+ paper 	 papero 	 material 
+ parallel 	 paralela 	 adjective 
+ park ; commons ; common ; green 	 parko 	 city 
+ part ; portion ; component part ; component ; constituent 	 parto 	 abstract 
+ part ; section ; division 	 divizio 	 mathematics 
+ particularly ; peculiarly ; especially ; specially 	 speciale 	 adverb 
+ party 	 festo 	 society 
+ passenger ; rider 	 pasagxero 	 transport 
+ passport 	 pasporto 	 object 
+ past 	 pasinta 	 adjective 
+ patient 	 pacienca 	 adjective 
+ patient 	 paciento 	 medicine 
+ pause ; intermission ; break ; interruption ; suspension 	 paŭzo 	 time 
+ pay 	 pagi 	 verb 
+ peace 	 paco 	 abstract 
+ pen 	 plumo 	 object 
+ pencil 	 krajono 	 object 
+ percentage ; percent ; per centum ; pct 	 elcento 	 mathematics 
+ person ; individual ; someone ; somebody ; mortal ; soul 	 persono 	 family 
+ personal 	 persona 	 adjective 
+ personality 	 personeco 	 abstract 
+ petroleum ; crude oil ; crude ; rock oil ; fossil oil ; oil 	 petrolo 	 material 
+ phase ; stage 	 fazo 	 time 
+ photographer ; lensman 	 fotografisto 	 profession 
+ physical 	 fizika 	 adjective 
+ physical 	 fizika 	 adjective 
+ picture ; image ; icon ; ikon 	 bildo 	 art 
+ piece 	 peco 	 object 
+ pilot ; airplane pilot 	 piloto 	 profession 
+ pin 	 pinglo 	 object 
+ pink ; pinkish 	 rozkolora 	 color 
+ pipe ; pipage ; piping 	 tubaro 	 object 
+ plain ; field ; champaign 	 ebenejo 	 nature 
+ plan 	 plani 	 verb 
+ plan ; program ; programme 	 plano 	 abstract 
+ plant ; flora ; plant life 	 planto 	 house 
+ plant ; works ; industrial plant 	 fabriko 	 city 
+ plate 	 telero 	 food 
+ play 	 ludi 	 verb 
+ player ; participant 	 ludanto 	 sports 
+ please ; delight 	 gxojigi 	 verb 
+ pleasure ; pleasance 	 plezuro 	 abstract 
+ plow ; plough ; turn 	 plugi 	 verb 
+ poem ; verse form 	 poemo 	 art 
+ poetry ; poesy ; verse 	 poezio 	 art 
+ point ; dot 	 punkto 	 linguistics 
+ poison 	 veneni 	 verb 
+ poison ; toxicant ; poisonous substance 	 veneno 	 material 
+ police ; police force ; constabulary ; law 	 polico 	 society 
+ policeman ; police officer ; officer 	 policano 	 profession 
+ policy 	 politiko 	 society 
+ polish ; smooth ; smoothen ; shine 	 poluri 	 verb 
+ political 	 politika 	 adjective 
+ politician ; politico ; pol ; political leader 	 politikisto 	 profession 
+ poor 	 malricxa 	 adjective 
+ populace ; public ; world 	 popolamaso 	 society 
+ population 	 logxantaro 	 society 
+ position ; place 	 pozicio 	 linguistics 
+ possible 	 eventuala 	 adjective 
+ possibly ; perchance ; perhaps ; maybe ; mayhap ; peradventure 	 eble 	 adverb 
+ postage ; postage stamp ; stamp 	 afranko 	 object 
+ potato ; white potato ; Irish potato ; murphy ; spud ; tater 	 terpomo 	 food 
+ powder ; pulverization ; pulverisation 	 polvo 	 material 
+ power ; powerfulness 	 povo 	 abstract 
+ practice 	 praktiko 	 art 
+ practice ; practise ; exercise ; do 	 ekzerci 	 verb 
+ precisely ; exactly ; just 	 gxuste 	 adverb 
+ preferably ; sooner ; rather 	 prefere 	 adverb 
+ present 	 donaco 	 object 
+ present 	 nuna 	 adjective 
+ president 	 prezidento 	 profession 
+ pressure ; pressure level ; force per unit area 	 premo 	 nature 
+ prevent ; forestall ; foreclose ; preclude ; forbid 	 preventi 	 verb 
+ price 	 prezo 	 transport 
+ price ; cost ; toll 	 kosto 	 business 
+ print ; impress 	 presi 	 verb 
+ prison ; prison house 	 prizono 	 city 
+ private 	 privata 	 adjective 
+ probable ; likely 	 versxajna 	 adjective 
+ probably ; likely ; in all likelihood ; in all probability ; belike 	 versxajne 	 adverb 
+ problem ; job 	 problemo 	 mathematics 
+ procedure ; process 	 procedo 	 mathematics 
+ process ; treat 	 prilabori 	 verb 
+ produce ; make ; create 	 fabriki 	 verb 
+ product ; production 	 produkto 	 object 
+ production 	 produktado 	 abstract 
+ professional 	 profesia 	 adjective 
+ professional ; professional person 	 profesiisto 	 profession 
+ profit ; turn a profit 	 profiti 	 verb 
+ program ; programme ; computer program ; computer programme 	 programo 	 abstract 
+ pronunciation 	 prononco 	 linguistics 
+ property ; belongings ; holding 	 havo 	 society 
+ proposal 	 propono 	 abstract 
+ propose ; suggest ; advise 	 proponi 	 verb 
+ protest 	 protesti 	 verb 
+ protest ; protestation 	 protesto 	 communication 
+ prototype ; paradigm ; epitome ; image 	 prototipo 	 linguistics 
+ public 	 publika 	 travelling 
+ publish ; bring out ; put out ; issue ; release 	 publikigi 	 verb 
+ pull ; draw ; force 	 tiri 	 verb 
+ pump 	 pumpi 	 verb 
+ pump 	 pumpilo 	 device 
+ punishment ; penalty ; penalization ; penalisation 	 puno 	 society 
+ purple ; violet ; purplish 	 violkolora 	 color 
+ push ; force 	 puŝi 	 verb 
+ push button ; push ; button 	 butono 	 object 
+ put ; set ; place ; pose ; position ; lay 	 meti 	 verb 
+ quality 	 kvalito 	 abstract 
+ quality ; character ; lineament 	 karaktero 	 abstract 
+ question ; inquiry ; enquiry ; query ; interrogation 	 demando 	 linguistics 
+ quickly ; rapidly ; speedily ; chop-chop ; apace 	 rapide 	 adverb 
+ quiet 	 kvieta 	 adjective 
+ rain ; pelting 	 pluvo 	 nature 
+ rain ; rain down 	 pluvi 	 verb 
+ rain ; rainfall 	 pluvo 	 nature 
+ raise ; lift ; elevate ; get up ; bring up 	 levi 	 verb 
+ range ; reach 	 atingodistanco 	 abstract 
+ rate ; rank ; range ; order ; grade ; place 	 taksi 	 verb 
+ reach ; make ; attain ; hit ; arrive at ; gain 	 gajni 	 verb 
+ reaction 	 reago 	 abstract 
+ read 	 legi 	 verb 
+ ready 	 preta 	 adjective 
+ real ; existent 	 efektiva 	 adjective 
+ rear ; raise ; bring up ; nurture ; parent 	 eduki 	 verb 
+ reason 	 motivo 	 communication 
+ reason ; ground 	 tero 	 communication 
+ receive ; have 	 ricevi 	 verb 
+ recent 	 fresxdata 	 adjective 
+ recently ; late ; lately ; of late ; latterly 	 nelge 	 adverb 
+ record 	 rekordo 	 abstract 
+ record ; tape 	 registri 	 verb 
+ red ; reddish ; ruddy ; blood-red ; carmine ; cerise ; cherry ; cherry-red ; crimson ; ruby ; ruby-red ; scarlet 	 rugxa 	 color 
+ reduce ; cut down ; cut back ; trim ; trim down ; trim back ; cut ; bring down 	 plimalgrandigi 	 verb 
+ reflect ; reverberate 	 reflekti 	 verb 
+ refuse ; reject ; pass up ; turn down ; decline 	 rifuzi 	 verb 
+ region ; part 	 regiono 	 nature 
+ regular 	 regula 	 adjective 
+ relation 	 rilato 	 communication 
+ religion ; faith ; organized religion 	 religio 	 society 
+ religion ; faith ; religious belief 	 fido 	 society 
+ remainder ; balance ; residual ; residue ; residuum ; rest 	 resto 	 business 
+ remove ; take ; take away ; withdraw 	 elpreni 	 verb 
+ render ; return 	 redoni 	 verb 
+ report 	 riporti 	 verb 
+ report ; study ; written report 	 raporto 	 abstract 
+ repose ; quiet ; placidity ; serenity ; tranquillity ; tranquility 	 sereneco 	 abstract 
+ represent ; stand for ; correspond 	 reprezenti 	 verb 
+ representative 	 reprezentanto 	 profession 
+ request ; asking 	 peto 	 communication 
+ request ; bespeak ; call for ; quest 	 peti 	 verb 
+ research 	 esploro 	 abstract 
+ respect ; honor ; honour ; abide by ; observe 	 honori 	 verb 
+ respite ; recess ; break ; time out 	 pauxzo 	 abstract 
+ responsibility ; responsibleness 	 respondeco 	 abstract 
+ responsible 	 respondeca 	 adjective 
+ rest 	 ripozi 	 verb 
+ rest ; ease ; repose ; relaxation 	 ripozo 	 abstract 
+ restaurant ; eating house ; eating place ; eatery 	 restoracio 	 city 
+ restrict ; restrain ; trammel ; limit ; bound ; confine ; throttle 	 limigi 	 verb 
+ result ; resultant ; final result ; outcome ; termination 	 rezulto 	 mathematics 
+ reverse ; contrary ; opposite 	 malo 	 abstract 
+ rhythm ; beat ; musical rhythm 	 ritmo 	 art 
+ rice 	 rizo 	 food 
+ rice 	 rizo 	 food 
+ right 	 dekstra 	 adjective 
+ right 	 juro 	 society 
+ rigid ; stiff 	 nefleksebla 	 adjective 
+ ring ; band 	 ringo 	 clothes 
+ rise ; rising ; ascent ; ascension 	 ascendo 	 abstract 
+ rival ; challenger ; competitor ; competition ; contender 	 konkuranto 	 business 
+ river 	 rivero 	 nature 
+ road ; route 	 vojo 	 transport 
+ rock ; stone 	 ŝtono 	 nature 
+ roof 	 tegmento 	 house 
+ room 	 ĉambro 	 house 
+ root 	 radiko 	 mathematics 
+ root 	 radiko 	 nature 
+ rope 	 ŝnuro 	 transport 
+ rough ; unsmooth 	 kruda 	 adjective 
+ round ; circular 	 cirkla 	 adjective 
+ round off ; round down ; round out ; round 	 rondigi 	 verb 
+ rug ; carpet ; carpeting 	 tapiŝo 	 house 
+ rule ; regulation 	 regulo 	 linguistics 
+ run 	 kuri 	 verb 
+ sad 	 malgaja 	 adjective 
+ safe 	 sekura 	 adjective 
+ sail ; canvas ; canvass ; sheet 	 velo 	 object 
+ sailor ; crewman 	 maristo 	 profession 
+ salad 	 salato 	 food 
+ sale 	 vendo 	 business 
+ salt 	 sali 	 verb 
+ salt ; table salt ; common salt 	 salo 	 food 
+ salvage ; salve ; relieve ; save 	 savi 	 verb 
+ same 	 sama 	 adjective 
+ sand 	 sablo 	 material 
+ sandwich 	 sandvicxo 	 food 
+ sauce 	 sauxco 	 food 
+ save ; preserve 	 ŝpari 	 verb 
+ school ; schoolhouse 	 lernejo 	 city 
+ science ; scientific discipline 	 scienco 	 society 
+ scientist 	 scienculo 	 profession 
+ scissors ; pair of scissors 	 tondilo 	 object 
+ scope ; range ; reach ; orbit ; compass ; ambit 	 amplekso 	 abstract 
+ screen ; cover ; covert ; concealment 	 kovrilo 	 object 
+ sea 	 maro 	 nature 
+ season 	 sezono 	 nature 
+ season ; flavor ; flavour 	 kondimenti 	 verb 
+ second ; 2nd ; 2d 	 dua 	 adjective 
+ second ; sec ; s 	 sekundo 	 time 
+ secret 	 sekreta 	 communication 
+ secretary ; secretarial assistant 	 sekretario 	 profession 
+ section ; subdivision 	 sekcio 	 mathematics 
+ see 	 vidi 	 verb 
+ see ; consider ; reckon ; view ; regard 	 konsideri 	 verb 
+ seed 	 spermo 	 food 
+ sell 	 vendi 	 verb 
+ sentence 	 frazo 	 linguistics 
+ separate 	 aparta 	 adjective 
+ serious 	 serioza 	 adjective 
+ service 	 servado 	 sports 
+ set 	 kompleto 	 mathematics 
+ set 	 kompleto 	 sports 
+ seven ; 7 ; vii 	 sep 	 number 
+ seventh ; 7th 	 sepa 	 number 
+ seventy ; 70 ; lxx 	 sepdek 	 number 
+ sew ; run up ; sew together ; stitch 	 kudri 	 verb 
+ sex 	 sekso 	 nature 
+ sexual activity ; sexual practice ; sex ; sex activity 	 sekso 	 relations 
+ share 	 akcio 	 business 
+ share ; portion ; part ; percentage 	 parto 	 society 
+ she 	 ŝi 	 pronoun 
+ sheep 	 ŝafo 	 animal 
+ shelf 	 bretaro 	 house 
+ ship 	 ŝipo 	 transport 
+ shirt 	 ĉemizo 	 clothes 
+ shoe 	 ŝuo 	 clothes 
+ shop ; store 	 vendejo 	 business 
+ short 	 kurta 	 adjective 
+ shout ; shout out ; cry ; call ; yell ; scream ; holler ; hollo ; squall 	 kriegi 	 verb 
+ show ; demo ; exhibit ; present ; demonstrate 	 montri 	 verb 
+ shower 	 duŝo 	 house 
+ shroud ; enshroud ; hide ; cover 	 envolvi 	 verb 
+ shut ; unopen ; closed 	 fermita 	 adjective 
+ side 	 latero 	 mathematics 
+ significant ; important 	 grava 	 adjective 
+ silence ; quiet 	 kvieteco 	 abstract 
+ silent ; soundless ; still 	 senbrua 	 adjective 
+ silk 	 silko 	 material 
+ silver ; Ag ; atomic number 47 	 arĝento 	 material 
+ similar 	 simila 	 adjective 
+ since 	 ekde 	 preposition 
+ sincere 	 sincera 	 adjective 
+ singer ; vocalist ; vocalizer ; vocaliser 	 kantisto 	 profession 
+ single 	 sola 	 adjective 
+ sink 	 lavkuvo 	 house 
+ sister ; sis 	 fratino 	 family 
+ sit ; sit down 	 sidi 	 verb 
+ situation ; state of affairs 	 situacio 	 abstract 
+ six ; 6 ; vi ; half dozen ; half-dozen 	 ses 	 number 
+ sixth ; 6th 	 sesa 	 number 
+ sixty ; 60 ; lx ; threescore 	 sesdek 	 number 
+ size 	 grandeco 	 physics 
+ skid ; slip ; sideslip 	 glito 	 abstract 
+ skill ; science 	 lerteco 	 sports 
+ skin ; peel ; pare 	 elŝeligi 	 verb 
+ skin ; tegument ; cutis 	 hauxto 	 anatomy 
+ skirt 	 jupo 	 clothes 
+ sky 	 cxielo 	 nature 
+ sleep ; slumber 	 dormado 	 nature 
+ slice ; piece 	 peco 	 abstract 
+ slow 	 lanta 	 adjective 
+ slowly ; slow ; easy ; tardily 	 lante 	 adverb 
+ small ; little 	 malgranda 	 adjective 
+ smell 	 fetori 	 verb 
+ smell 	 odori 	 verb 
+ smell 	 odori 	 verb 
+ smile 	 rideti 	 verb 
+ smile ; smiling ; grin ; grinning 	 rideto 	 abstract 
+ smoke ; fume 	 fumo 	 nature 
+ smooth 	 glata 	 adjective 
+ snake ; serpent ; ophidian 	 serpento 	 animal 
+ snog ; kiss ; buss ; osculate 	 kisi 	 verb 
+ snow 	 negxi 	 verb 
+ snow 	 neĝo 	 nature 
+ snow ; snowfall 	 negxo 	 nature 
+ so 	 tiel 	 adverb 
+ soap 	 sapo 	 material 
+ soap ; lather 	 sapi 	 verb 
+ social 	 sociala 	 adjective 
+ society 	 socio 	 society 
+ sock 	 ŝtrumpeto 	 clothes 
+ soft 	 mola 	 adjective 
+ soldier 	 soldato 	 profession 
+ sometimes 	 fojfoje 	 adverb 
+ son ; boy 	 filo 	 family 
+ song ; vocal 	 kanzono 	 art 
+ soon ; shortly ; presently ; before long 	 baldaux 	 adverb 
+ sound 	 sono 	 nature 
+ soup 	 supo 	 food 
+ south 	 aŭstrala 	 adjective 
+ south ; due south ; southward ; S 	 sudo 	 logistics 
+ space ; infinite 	 kosmo 	 mathematics 
+ specific 	 specifa 	 adjective 
+ speech ; speech communication ; spoken communication ; spoken language ; language ; voice communication ; oral communication 	 parolado 	 linguistics 
+ spelling 	 ortografio 	 linguistics 
+ spill ; tumble ; fall 	 falo 	 abstract 
+ spoon 	 kulero 	 food 
+ spring 	 risorto 	 object 
+ spring ; fountain ; outflow ; outpouring ; natural spring 	 fonto 	 nature 
+ spring ; springtime 	 printempo 	 nature 
+ square 	 kvadrata 	 adjective 
+ square ; foursquare 	 kvadrato 	 mathematics 
+ square ; second power 	 kvadrato 	 mathematics 
+ squash ; crush ; squelch ; mash ; squeeze 	 dispremi 	 verb 
+ staff 	 bastono 	 society 
+ stage 	 scenejo 	 object 
+ stalk ; stem 	 tigo 	 nature 
+ stamp 	 stampilo 	 object 
+ stand ; stand up 	 stari 	 verb 
+ standard 	 normala 	 adjective 
+ standard ; criterion ; measure ; touchstone 	 kriterio 	 communication 
+ star 	 astro 	 nature 
+ state 	 stato 	 mathematics 
+ state 	 ŝtato 	 society 
+ state ; province 	 ŝtato 	 society 
+ state ; say ; tell 	 diri 	 verb 
+ statement 	 aserto 	 communication 
+ station 	 stacio 	 society 
+ stay ; remain ; rest 	 resti 	 verb 
+ steal 	 sxteli 	 verb 
+ steam 	 vaporo 	 physics 
+ steel 	 ŝtalo 	 material 
+ step ; stair 	 sxtupo 	 house 
+ stick 	 bastono 	 object 
+ still 	 ankoraux 	 adverb 
+ stitch 	 suturero 	 medicine 
+ stomach ; tummy ; tum ; breadbasket 	 stomako 	 anatomy 
+ stop ; halt 	 haltigi 	 verb 
+ stop ; halt 	 halto 	 abstract 
+ straight 	 rekta 	 adjective 
+ strange ; unusual 	 stranga 	 adjective 
+ stream ; flow ; current 	 fluo 	 nature 
+ street 	 strato 	 city 
+ strong 	 forta 	 adjective 
+ structure 	 strukturo 	 linguistics 
+ structure ; construction 	 konstruado 	 house 
+ student ; pupil ; educatee 	 lernanto 	 profession 
+ study 	 studi 	 verb 
+ stupid 	 stulta 	 adjective 
+ style 	 stilo 	 art 
+ stylish ; fashionable 	 eleganta 	 adjective 
+ subject ; topic ; theme 	 subjekto 	 linguistics 
+ subsequently ; later ; afterwards ; afterward ; after ; later on 	 poste 	 adverb 
+ substitution ; exchange ; commutation 	 substituo 	 abstract 
+ success 	 sukceso 	 society 
+ successful 	 sukcesa 	 adjective 
+ such 	 tia 	 adverb 
+ sudden 	 subita 	 adjective 
+ suddenly ; all of a sudden ; of a sudden 	 subite 	 adverb 
+ suffer ; endure 	 suferi 	 verb 
+ sugar ; refined sugar 	 sukero 	 food 
+ suggestion ; proposition ; proffer 	 propono 	 abstract 
+ sum ; amount ; total 	 sumo 	 mathematics 
+ summation ; addition ; plus 	 adicio 	 mathematics 
+ summer ; summertime 	 somero 	 nature 
+ sun ; Sun 	 suno 	 nature 
+ supermarket 	 superbazaro 	 city 
+ supply ; provide ; render ; furnish 	 liveri 	 verb 
+ support 	 apogo 	 abstract 
+ support ; back up 	 subteni 	 verb 
+ suppose ; say 	 supozi 	 verb 
+ surely ; certainly ; sure ; for sure ; for certain ; sure enough ; sure as shooting 	 certe 	 adverb 
+ surface 	 surfaco 	 mathematics 
+ surprise 	 surprizi 	 verb 
+ surprise 	 surprizo 	 abstract 
+ surrender ; give up 	 kapitulaci 	 verb 
+ sweet 	 dolcxa 	 adjective 
+ sweet ; sweetness ; sugariness 	 dolĉeco 	 food 
+ sympathize ; sympathise ; empathize ; empathise ; understand 	 kompreni 	 verb 
+ system ; scheme 	 sistemo 	 linguistics 
+ table 	 tablo 	 house 
+ table ; tabular array 	 tabelo 	 object 
+ tail 	 vosto 	 anatomy 
+ take ; get hold of 	 preni 	 verb 
+ talk ; speak ; utter ; mouth ; verbalize ; verbalise 	 paroli 	 verb 
+ tall 	 alta 	 adjective 
+ taste ; gustation ; sense of taste ; gustatory modality 	 gusto 	 nature 
+ taste ; savor ; savour 	 gustumi 	 verb 
+ tax ; taxation ; revenue enhancement 	 impostigo 	 business 
+ tea 	 teo 	 food 
+ teach ; learn ; instruct 	 instrui 	 verb 
+ teacher ; instructor 	 instruisto 	 profession 
+ team ; squad 	 teamo 	 society 
+ technology ; engineering 	 teknologio 	 society 
+ ten ; 10 ; x 	 dek 	 number 
+ tendency ; trend 	 tendenco 	 abstract 
+ tennis ; lawn tennis 	 teniso 	 sports 
+ tenth ; 10th 	 deka 	 number 
+ test ; prove ; try ; try out ; examine ; essay 	 testi 	 verb 
+ testify ; bear witness ; prove ; evidence ; show 	 montri 	 verb 
+ than 	 ol 	 conjunction 
+ thank ; give thanks 	 danki 	 verb 
+ that 	 tiu 	 pronoun 
+ the 	 la 	 article 
+ theater ; theatre ; house 	 teatro 	 city 
+ their 	 ilia 	 pronoun 
+ them 	 ilin 	 pronoun 
+ then ; so ; and so ; and then 	 tiam 	 adverb 
+ theory 	 teorio 	 education 
+ there ; at that place ; in that location 	 tie 	 adverb 
+ therefore ; hence ; thence ; thus ; so 	 do 	 adverb 
+ they 	 ili 	 pronoun 
+ thick 	 dika 	 adjective 
+ thick 	 viskoza 	 adjective 
+ thin 	 maldika 	 adjective 
+ thin ; lean 	 malgrasa 	 adjective 
+ thing 	 ajxo 	 object 
+ think ; cogitate ; cerebrate 	 opinii 	 verb 
+ third ; 3rd ; tertiary 	 tria 	 mathematics 
+ thirsty 	 soifa 	 adjective 
+ thirty ; 30 ; xxx 	 tridek 	 number 
+ this 	 tiu cxi 	 pronoun 
+ thorax ; chest ; pectus 	 brusto 	 anatomy 
+ thousand ; one thousand ; 1000 ; M ; K ; chiliad ; G ; grand ; thou ; yard 	 mil 	 number 
+ three ; 3 ; iii 	 tri 	 number 
+ throat ; pharynx 	 gorgxo 	 anatomy 
+ throw 	 jxeti 	 verb 
+ throw 	 ĵeto 	 sports 
+ thumb ; pollex 	 dikfingro 	 anatomy 
+ ticket 	 bileto 	 object 
+ tight 	 strikta 	 adjective 
+ time period ; period of time ; period 	 epoko 	 time 
+ tired 	 laca 	 adjective 
+ title 	 titolo 	 society 
+ to 	 al 	 preposition 
+ today 	 hodiaŭ 	 adverb 
+ toe 	 piedfingro 	 anatomy 
+ together 	 kune 	 adverb 
+ toilet ; lavatory ; lav ; can ; john ; privy ; bathroom 	 necesejo 	 house 
+ tomato 	 tomato 	 food 
+ tomorrow 	 morgaŭ 	 adverb 
+ tongue ; lingua ; glossa ; clapper 	 lango 	 anatomy 
+ tooth 	 dento 	 anatomy 
+ topographic point ; place ; spot 	 loko 	 abstract 
+ torso ; trunk ; body 	 torso 	 anatomy 
+ touch ; touching 	 tusxo 	 abstract 
+ town 	 urbo 	 society 
+ trace ; draw ; line ; describe ; delineate 	 desegni 	 verb 
+ track ; rail ; rails ; runway 	 relo 	 transport 
+ trade 	 komerco 	 business 
+ trade ; merchandise 	 negoci 	 verb 
+ train ; develop ; prepare ; educate 	 trejni 	 verb 
+ train ; railroad train 	 trajno 	 transport 
+ training ; preparation ; grooming 	 trejnado 	 abstract 
+ transport ; carry 	 porti 	 verb 
+ transport ; send ; ship 	 transporti 	 verb 
+ transportation ; shipping ; transport 	 transporto 	 transport 
+ travel ; go ; move ; locomote 	 iri 	 verb 
+ treat ; care for 	 trakti 	 verb 
+ treatment ; handling 	 kuracado 	 abstract 
+ tree 	 arbo 	 house 
+ trick 	 ruzo 	 abstract 
+ trouble ; problem 	 problemo 	 abstract 
+ true 	 vera 	 adjective 
+ truly ; genuinely ; really 	 vere 	 adverb 
+ truthful ; true 	 verema 	 adjective 
+ try ; seek ; attempt ; essay ; assay 	 provi 	 verb 
+ turn 	 turni 	 verb 
+ twelfth ; 12th 	 dekdua 	 number 
+ twenty ; 20 ; xx 	 dudek 	 number 
+ two ; 2 ; ii 	 du 	 number 
+ type 	 speco 	 abstract 
+ ugly 	 malbela 	 adjective 
+ understand 	 kompreni 	 verb 
+ undertaking ; project ; task ; labor 	 tasko 	 abstract 
+ unemployed 	 senlabora 	 adjective 
+ union 	 unuiĝo 	 society 
+ unit of measurement ; unit 	 unito 	 mathematics 
+ university 	 universitato 	 city 
+ university 	 universitato 	 education 
+ unlike ; dissimilar ; different 	 diferenca 	 adjective 
+ unmarried ; single 	 unuopa 	 adjective 
+ until 	 gxis 	 conjunction 
+ unwrap ; disclose ; let on ; bring out ; reveal ; discover ; expose ; divulge ; break ; give away ; let out 	 riveli 	 verb 
+ up ; upwards ; upward ; upwardly 	 supren 	 adverb 
+ us 	 nin 	 pronoun 
+ use ; usage ; utilization ; utilisation ; employment ; exercise 	 uzo 	 linguistics 
+ use ; utilize ; utilise ; apply ; employ 	 uzi 	 verb 
+ user 	 uzanto 	 society 
+ value 	 valoro 	 art 
+ very ; really ; real ; rattling 	 tre 	 adverb 
+ village ; hamlet 	 vilaĝo 	 society 
+ village ; small town ; settlement 	 vilagxo 	 society 
+ violent 	 perforta 	 adjective 
+ visit 	 vizito 	 abstract 
+ visit ; see 	 viziti 	 verb 
+ vogue ; trend ; style 	 modo 	 abstract 
+ voice ; vocalization ; vocalisation ; vocalism ; phonation ; vox 	 vocxo 	 communication 
+ volition ; will 	 volo 	 abstract 
+ wages ; reward ; payoff 	 rekompenco 	 society 
+ walk 	 marsxi 	 verb 
+ wall 	 muro 	 house 
+ warm 	 varma 	 adjective 
+ warm 	 varmigi 	 verb 
+ wash ; launder 	 lavi 	 verb 
+ waste ; waste material ; waste matter ; waste product 	 rubo 	 material 
+ watch ; ticker 	 horloĝo 	 object 
+ watch ; view ; see ; catch ; take in 	 observi 	 verb 
+ water ; H2O 	 akvo 	 material 
+ wave ; moving ridge 	 ondo 	 nature 
+ we 	 ni 	 pronoun 
+ wear ; have on 	 porti 	 verb 
+ weather ; weather condition ; conditions ; atmospheric condition 	 vetero 	 nature 
+ wedding ; wedding ceremony ; nuptials ; hymeneals 	 nupto 	 family 
+ week ; calendar week 	 semajno 	 time 
+ weekend 	 semajnfino 	 time 
+ weigh 	 pezi 	 verb 
+ weight 	 pezo 	 physics 
+ well 	 puto 	 object 
+ well ; good 	 bone 	 adverb 
+ west ; due west ; westward ; W 	 okcidento 	 logistics 
+ wet 	 malseka 	 adjective 
+ wet 	 malsekigi 	 verb 
+ what 	 kio 	 pronoun 
+ wheel 	 rado 	 object 
+ whenever 	 kiam ajn 	 conjunction 
+ whether 	 cxu 	 conjunction 
+ which 	 kiu 	 pronoun 
+ whip 	 vipo 	 object 
+ white 	 blanka 	 adjective 
+ who 	 kiu 	 pronoun 
+ whole 	 tuta 	 adjective 
+ whole 	 tutajxo 	 abstract 
+ whom 	 kiu 	 pronoun 
+ whose 	 kies 	 pronoun 
+ why 	 kial 	 adverb 
+ wide ; broad 	 largxa 	 adjective 
+ wife ; married woman 	 edzino 	 family 
+ will ; testament 	 testamento 	 society 
+ win 	 gajni 	 verb 
+ wind ; air current ; current of air 	 vento 	 nature 
+ wind ; wrap ; roll ; twine 	 bobeni 	 verb 
+ window 	 fenestro 	 house 
+ wine ; vino 	 vino 	 food 
+ wing 	 flugilo 	 anatomy 
+ winter ; wintertime 	 vintro 	 nature 
+ wire 	 drato 	 object 
+ wise 	 sagxa 	 adjective 
+ wish 	 deziri 	 verb 
+ wish ; wishing ; want 	 deziro 	 abstract 
+ with 	 kun 	 preposition 
+ woman ; adult female 	 virino 	 family 
+ wood 	 ligno 	 material 
+ wool 	 lano 	 material 
+ word 	 vorto 	 linguistics 
+ work 	 labori 	 verb 
+ work 	 laboro 	 abstract 
+ work ; piece of work 	 laboro 	 abstract 
+ worker 	 laboristo 	 profession 
+ world 	 mondo 	 nature 
+ write 	 skribi 	 verb 
+ writer ; author 	 verkisto 	 profession 
+ writing 	 skribo 	 linguistics 
+ year ; twelvemonth ; yr 	 jaro 	 time 
+ yellow ; yellowish ; xanthous 	 flava 	 color 
+ yes 	 jes 	 abstract 
+ young ; immature 	 juna 	 adjective 
+ your 	 via 	 pronoun 

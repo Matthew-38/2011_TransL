@@ -1,0 +1,1749 @@
+# French-German translations created from the Universal dictionary at 2011-08-27T09:41:58-06:00
+# (c) Copyright 2011 by All free dictionaries project
+# ALL FREE DICTIONARIES PROJECT DISCLAIMS ALL
+# WARRANTIES WITH REGARD TO THESE TRANSLATIONS, INCLUDING ALL
+# IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO
+# EVENT SHALL ALL FREE DICTIONARIES PROJECT OR ANY OF ITS CONTRIBUTORS
+# BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES
+# OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR
+# PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE
+# OR OTHER ACTION, ARISING OUT OF OR IN CONNECTION
+# WITH THE USE OR PERFORMANCE OF THESE TRANSLATIONS.
+#
+# In other words there may be incorrect translations.
+# If you need to be sure never use these translations!
+#
+# French, German and Czech entries are added manually. The entries for
+# remaining languages are added automatically. Entries for these languages
+# are only experimental.
+#
+# You may not place this file on WWW, ftp and equivalent servers because
+# this file gets outdated very quickly. You may not distribute this file
+# with your dictionary applications without permission. You can contact
+# authors of the Universal dictionary at: http://dicts.info/contact.php
+#
+# This file is for personal use only. You may not distribute this file.
+#
+# New version of this file can be created at: http://www.dicts.info/uddl.php
+#
+
+ Britain 	 Britannien 	 country 
+ Chine 	 China 	 country 
+ Italie 	 Italien 	 country 
+ Japon 	 Japan 	 country 
+ Royaume d'Espagne 	 Spanien 	 country 
+ République de l'Inde 	 Indien 	 country 
+ République française 	 Frankreich 	 country 
+ République fédérale d'Allemagne 	 Deutschland 	 country 
+ République tchèque 	 Tschechische Republik 	 country 
+ Terre 	 Erde 	 nature 
+ abdiquer 	 kapitulieren 	 verb 
+ abeille 	 Biene ; Honigbiene 	 animal 
+ accepter 	 akzeptieren ; annehmen ; entgegennehmen 	 verb 
+ accepter 	 zugeben ; zulassen ; anerkennen 	 verb 
+ accident 	 Unfall ; Unglück 	 transport 
+ accusation 	 Anklage ; Beanstandung ; Beschwerde ; Klage 	 society 
+ accuser 	 beschuldigen 	 verb 
+ acheter 	 kaufen 	 verb 
+ acide 	 Säure 	 material 
+ acier 	 Stahl 	 material 
+ acte 	 Tat 	 abstract 
+ action 	 Akt ; Tat 	 mathematics 
+ action 	 Aktie 	 business 
+ action 	 Handlung 	 mathematics 
+ activité 	 Aktivität 	 mathematics 
+ actrice 	 Schauspielerin 	 profession 
+ actuel 	 gegenwärtig ; geläufig ; gängig 	 adjective 
+ actuellement 	 jetzt 	 adverb 
+ addition 	 Addition 	 mathematics 
+ additionner 	 addieren ; zurechnen 	 verb 
+ adjacent 	 nächst 	 adjective 
+ adjectif 	 Adjektiv 	 linguistics 
+ administrer 	 leiten 	 verb 
+ adresse 	 Adresse 	 abstract 
+ adresse 	 Geschick 	 sports 
+ affaire 	 Fall 	 abstract 
+ affaire 	 Geschäft 	 business 
+ affaire 	 Handel 	 business 
+ affamé 	 hungrig 	 adjective 
+ affecter 	 beeinflussen 	 verb 
+ affronter 	 trotzen 	 verb 
+ agir 	 tun 	 verb 
+ agrafe 	 Haken 	 object 
+ agrandissement 	 Wachstum 	 abstract 
+ aide 	 Hilfe ; Mithilfe ; Unterstützung 	 communication 
+ aiguille 	 Nadel 	 medicine 
+ aiguisé 	 scharf 	 adjective 
+ aile 	 Flügel 	 anatomy 
+ aimer 	 genießen 	 verb 
+ aimer 	 lieben 	 verb 
+ aimer 	 lieben ; mögen 	 verb 
+ ainsi 	 so 	 adverb 
+ air 	 Luft 	 nature 
+ aire 	 Fläche 	 mathematics 
+ alentours 	 Umgebung 	 nature 
+ allemand 	 Deutsch ; Deutsche 	 linguistics 
+ aller 	 gehen ; bewegen sich 	 verb 
+ aller 	 korrespondieren ; übereinstimmen 	 verb 
+ allumette 	 Zündholz 	 object 
+ alors 	 dann 	 adverb 
+ alternative 	 Alternative ; Mehrfachmöglichkeit 	 abstract 
+ aléa 	 Gefahr ; Risiko ; Wagnis 	 transport 
+ amant 	 Freund 	 family 
+ amer 	 bitter ; herb 	 adjective 
+ amical 	 freundlich 	 adjective 
+ améliorer 	 verbessern 	 verb 
+ ancien 	 vorig ; früher 	 adjective 
+ anglais 	 Englisch 	 language 
+ angle 	 Winkel 	 mathematics 
+ animal 	 Kreatur ; Tier ; Vieh 	 nature 
+ animer 	 ermutigen 	 verb 
+ anneau 	 Ring 	 clothes 
+ anniversaire 	 Geburtstag 	 family 
+ annonce 	 Inserat ; Reklame ; Werbung ; Zeitungsanzeige 	 business 
+ annoncer 	 ansagen ; annoncieren 	 verb 
+ année 	 Jahr 	 time 
+ anse 	 Kurve 	 transport 
+ appartement 	 Appartement ; Wohnung 	 society 
+ appeler 	 fordern ; verlangen 	 verb 
+ apporter 	 bringen 	 verb 
+ approbation 	 Genehmigung ; Billigung 	 communication 
+ approximatif 	 derb ; rau ; roh 	 adjective 
+ apprécier 	 einschätzen ; schätzen 	 verb 
+ appui 	 Hilfe ; Stütze ; Unterstützung 	 abstract 
+ après-midi 	 Nachmittag 	 time 
+ arbre 	 Baum 	 house 
+ arc 	 Kurve 	 art 
+ argent 	 Geld 	 business 
+ argent 	 Silber 	 material 
+ argenté 	 silbern ; silberhell 	 adjective 
+ argument 	 Argument 	 communication 
+ argument 	 Diskussion 	 communication 
+ armée 	 Armee 	 society 
+ armée 	 Militär 	 society 
+ arrangement 	 Abkommen ; Vertrag 	 business 
+ arriver 	 ankommen ; anreisen ; eintreffen 	 verb 
+ arriver 	 erreichen ; eintreffen 	 verb 
+ arriver 	 stattfinden ; geschehen ; passieren ; vorkommen 	 verb 
+ arrière 	 Rückseite 	 clothes 
+ arrondir 	 abrunden 	 verb 
+ arrêt 	 Halt 	 abstract 
+ arrêter 	 anhalten ; halten ; stoppen 	 verb 
+ art 	 Kunst ; Arte 	 art 
+ artiste 	 Artist 	 profession 
+ ascenseur 	 Aufzug ; Fahrstuhl ; Lift 	 device 
+ ascension 	 Aufstieg 	 abstract 
+ aspect 	 Aspekt 	 abstract 
+ assez 	 genug 	 adverb 
+ assiette 	 Teller 	 food 
+ assoiffé 	 durstig 	 adjective 
+ assurance 	 Versicherung 	 business 
+ assurer 	 retten ; schützen 	 verb 
+ assurément 	 gewiss ; bestimmt ; sicher ; sicherlich 	 adverb 
+ astucieux 	 scharfsinnig 	 adjective 
+ attaque 	 Angriff ; Anfall ; Attacke 	 abstract 
+ attaquer 	 angreifen ; attackieren 	 verb 
+ attendre 	 erwarten ; entgegensehen 	 verb 
+ attendre 	 warten 	 verb 
+ attention 	 Aufmerksamkeit 	 communication 
+ attention 	 beachten 	 verb 
+ atterrir 	 landen 	 verb 
+ attitude 	 Standpunkt ; Stellung 	 abstract 
+ attraper 	 bekommen 	 verb 
+ attraper 	 betrügen ; hereinlegen 	 verb 
+ au-dessous 	 unter 	 adjective 
+ aucun 	 kein 	 adjective 
+ audio 	 Ton 	 abstract 
+ augmentation 	 Zunahme ; Zuwachs 	 abstract 
+ augmenter 	 steigen ; wachsen ; zunehmen 	 verb 
+ aujourd'hui 	 heute 	 adverb 
+ ausculter 	 zuhören ; hören ; anhören 	 verb 
+ aussi 	 auch 	 adverb 
+ austral 	 südlich 	 adjective 
+ autocar 	 Autobus ; Bus ; Omnibus 	 transport 
+ automatique 	 automatisch 	 adjective 
+ automne 	 Herbst 	 nature 
+ automobile 	 Auto ; Kraftwagen ; Personenwagen ; Kraftfahrzeug ; Personenkraftwagen ; Pkw ; Automobil 	 transport 
+ autorité 	 Autorität ; Berechtigung ; Bevollmächtigung ; Ermächtigung 	 society 
+ autorité 	 Vorherrschaft ; Oberherrschaft ; Dominanz 	 abstract 
+ autour 	 rund um 	 adverb 
+ autre 	 ander ; sonstig ; andere ; anders 	 adjective 
+ autre 	 andere ; anders 	 adjective 
+ autrefois 	 einmal 	 adverb 
+ avant 	 Front ; Vorderseite ; Vorderteil 	 abstract 
+ avant 	 ehe ; vor 	 adverb 
+ avant 	 voraus ; vordere 	 adverb 
+ avantage 	 Vorteil 	 abstract 
+ avec 	 mit 	 preposition 
+ avion 	 Flugzeug 	 object 
+ avis 	 Meinung ; Ansicht ; Stellungnahme 	 communication 
+ avoir 	 besitzen ; eignen 	 verb 
+ avoir 	 haben 	 verb 
+ avoir besoin 	 benötigen ; brauchen ; fordern ; verlangen ; bedürfen 	 verb 
+ avril 	 April 	 time 
+ aérodrome 	 Flughafen ; Flugplatz 	 city 
+ bain 	 Bad 	 house 
+ baiser 	 Kuß 	 relations 
+ baiser 	 küssen 	 verb 
+ ballon 	 Ball 	 object 
+ banque 	 Bank 	 city 
+ barbare 	 barbarisch 	 adjective 
+ barrière 	 Tor ; Pforte 	 house 
+ bas 	 abwärts 	 adverb 
+ bas 	 niedrig 	 adjective 
+ bas 	 unten 	 adjective 
+ base 	 Basis ; Stützpunkt 	 society 
+ base 	 Fundament 	 mathematics 
+ base-ball 	 Baseball 	 sports 
+ bateau 	 Boot 	 object 
+ beau 	 schön 	 adjective 
+ beaucoup 	 viel 	 adjective 
+ beaucoup 	 viele 	 adjective 
+ bec 	 Schnabel 	 anatomy 
+ besoin 	 Bedarf ; Bedürfnis 	 abstract 
+ beurre 	 Butter 	 food 
+ bibliothèque 	 Bücherei 	 city 
+ bicyclette 	 Fahrrad 	 object 
+ bien 	 Gute 	 abstract 
+ bien 	 gut 	 adverb 
+ bientôt 	 bald 	 adverb 
+ bijou 	 Edelstein ; Juwel ; Kleinod 	 object 
+ billet 	 Banknote 	 business 
+ billet 	 Fahrkarte ; Fahrschein ; Karte 	 object 
+ biologie 	 Biologie 	 science 
+ bizarre 	 merkwürdig 	 adjective 
+ bière 	 Bier 	 food 
+ blanc 	 weiß 	 adjective 
+ blesser 	 verletzen 	 verb 
+ blesser 	 verletzen ; verwunden 	 verb 
+ bleu 	 blau 	 color 
+ boire 	 trinken 	 verb 
+ bois 	 Holz 	 material 
+ boisson 	 Getränk ; Trank 	 food 
+ bon 	 gut ; lieb 	 adjective 
+ bord 	 Kante ; Rand 	 mathematics 
+ botte 	 Stiefel 	 clothes 
+ bouche 	 Mund 	 anatomy 
+ bouger 	 bewegen 	 verb 
+ bouteille 	 Flasche 	 food 
+ boutique 	 Geschäft 	 business 
+ bouton 	 Knopf ; Taste 	 object 
+ boîte 	 dose 	 object 
+ branche 	 Ast 	 nature 
+ bras 	 Arm 	 anatomy 
+ brique 	 Backstein ; Ziegel ; Ziegelstein 	 house 
+ brosse 	 Bürste 	 object 
+ bruit 	 Geräusch ; Lärm ; Geräusche 	 society 
+ brusque 	 brüsk ; schroff 	 adjective 
+ bureau 	 Büro 	 business 
+ bureau 	 Schreibtisch 	 house 
+ but 	 Tor 	 sports 
+ bâtir 	 bauen 	 verb 
+ bâton 	 Stock 	 object 
+ bébé 	 Baby 	 family 
+ cadre 	 Rahmen 	 object 
+ café 	 Kaffe ; Kaffee 	 food 
+ cageot 	 Kiste 	 object 
+ caillou 	 Gestein ; Stein 	 nature 
+ calculateur 	 Rechner 	 device 
+ calme 	 geräuschlos ; still 	 adjective 
+ campagne 	 Kampagne 	 abstract 
+ caméra 	 Fotoapparat 	 object 
+ caméra 	 Kamera 	 object 
+ capable 	 fähig 	 adjective 
+ capacité 	 Fähigkeit 	 abstract 
+ capital 	 Kapital 	 business 
+ capitale 	 Hauptstadt 	 society 
+ car 	 weil 	 conjunction 
+ car 	 weil 	 conjunction 
+ caractère 	 Charakter 	 abstract 
+ caractère 	 Charakter 	 abstract 
+ caractère 	 Schriftzeichen ; Zeichen 	 linguistics 
+ caractéristique 	 Charakteristik ; Eigenschaft ; Merkmal 	 abstract 
+ carré 	 Quadrat 	 mathematics 
+ carré 	 Quadrat 	 mathematics 
+ carré 	 quadratisch ; viereckig 	 adjective 
+ carte 	 Karte 	 object 
+ carte 	 Karte 	 object 
+ cassé 	 kaputt 	 adjective 
+ cause 	 Grund ; Ursache 	 abstract 
+ ce 	 jene 	 pronoun 
+ ce soir 	 heute abend 	 adverb 
+ cellule 	 Zelle 	 anatomy 
+ cellule 	 Zelle 	 society 
+ central 	 Zentrale 	 society 
+ central 	 grundlegend 	 adjective 
+ central 	 zentral 	 adjective 
+ centre 	 Mitte ; Mittelpunkt 	 mathematics 
+ cependant 	 dennoch ; aber ; nichtsdestotrotz ; nichtsdestoweniger ; gleichwohl ; trotzdem 	 adverb 
+ cercle 	 Kreis 	 mathematics 
+ certain 	 gewiss ; sicher 	 adjective 
+ certificat 	 Auszeichnung 	 society 
+ cerveau 	 Gehirn 	 anatomy 
+ ces 	 diese 	 pronoun 
+ ces 	 diese 	 pronoun 
+ cette 	 diese 	 pronoun 
+ chacun 	 alle ; jede ; jeder 	 adjective 
+ chacun 	 jede ; jeder ; jedes 	 adjective 
+ chaise 	 Stuhl 	 house 
+ chaleur 	 Hitze 	 medicine 
+ chaleureux 	 warm 	 adjective 
+ chambre à coucher 	 Schlafzimmer 	 house 
+ championnat 	 Meisterschaft ; Titel 	 sports 
+ chanceux 	 glücklich 	 adjective 
+ changement 	 Abwechslung ; Abänderung ; Veränderung ; Wandel ; Wechsel 	 abstract 
+ changer 	 abändern ; verändern ; ändern 	 verb 
+ chanson 	 Song 	 art 
+ chanter 	 singen 	 verb 
+ chanteur 	 Sänger 	 profession 
+ chapeau 	 Hut 	 clothes 
+ charbon 	 Kohle 	 material 
+ charge 	 Ladung 	 nature 
+ charger 	 laden ; aufladen 	 verb 
+ chat 	 Katze 	 animal 
+ chaud 	 warm 	 adjective 
+ chauffer 	 erwärmen ; anwärmen ; aufwärmen 	 verb 
+ chaussette 	 Socke 	 clothes 
+ chaussure 	 Schuh 	 clothes 
+ chaîne 	 Kette 	 object 
+ chef 	 Chef 	 society 
+ chef 	 Führer 	 society 
+ chemin 	 Straße ; Strecke ; Weg 	 transport 
+ chemise 	 Hemd 	 clothes 
+ cheval 	 Pferd ; Ross 	 animal 
+ cheveux 	 Haar 	 anatomy 
+ cheveux 	 Haare 	 anatomy 
+ chien 	 Hund 	 animal 
+ chimie 	 Chemie 	 science 
+ chimique 	 Chemikalie 	 material 
+ chimique 	 chemisch 	 adjective 
+ chinois 	 Chinesisch 	 language 
+ choc 	 Schock 	 abstract 
+ chocolat 	 Schokolade 	 food 
+ choisir 	 auswählen ; wählen 	 verb 
+ choquer 	 schockieren 	 verb 
+ chose 	 Ding ; Sache 	 object 
+ chute 	 Fall ; Sturz 	 abstract 
+ château 	 Burg 	 city 
+ châtiment 	 Bestrafung ; Strafe 	 society 
+ chèque 	 Scheck 	 business 
+ chèvre 	 Geiß ; Ziege 	 animal 
+ chérie 	 Liebling 	 relations 
+ chômeur 	 arbeitslos 	 adjective 
+ ciel 	 Himmel 	 nature 
+ cinq 	 fünf 	 number 
+ cinquante 	 fünfzig 	 number 
+ cinquième 	 fünfte ; fünfter 	 number 
+ cinéma 	 Kino 	 city 
+ cirer 	 polieren 	 verb 
+ ciseaux 	 Schere 	 object 
+ citer 	 zitieren 	 verb 
+ clair 	 deutlich ; klar 	 adjective 
+ clair 	 hell ; klar 	 adjective 
+ clairsemé 	 spärlich 	 adjective 
+ clandestin 	 geheim 	 adjective 
+ classe 	 Klasse 	 art 
+ classer 	 klassifizieren ; sortieren ; ordnen 	 verb 
+ clayette 	 Regal 	 house 
+ clientèle 	 Praxis 	 art 
+ cloche 	 Glocke 	 object 
+ clore 	 schließen ; zumachen 	 verb 
+ clou 	 Nagel 	 object 
+ club 	 Club ; Klub ; Verein ; Gilde ; Innung ; Zunft 	 society 
+ clé 	 Schlüssel 	 house 
+ coeur 	 Herz 	 anatomy 
+ coffre 	 Kasten ; Kiste ; Truhe 	 object 
+ coffre 	 Tresor 	 object 
+ col 	 Kragen 	 clothes 
+ collant 	 klebrig ; pappig 	 adjective 
+ colle 	 Leim 	 material 
+ collection 	 Satz ; Set 	 sports 
+ coller 	 kleben ; ankleben 	 verb 
+ colline 	 Hügel 	 nature 
+ comme 	 wie 	 adverb 
+ commercer 	 handeln 	 verb 
+ commettant 	 Kunde 	 business 
+ commun 	 gemeinsam 	 adjective 
+ commun 	 üblich 	 adjective 
+ communauté 	 Gemeinschaft 	 society 
+ communication 	 Anruf 	 communication 
+ communiqué 	 Ankündigung ; Bekanntmachung ; Proklamation 	 communication 
+ compagnie 	 Gesellschaft 	 society 
+ comparer 	 vergleichen 	 verb 
+ complet 	 ganz ; gesamt ; gesamter ; völlig 	 adjective 
+ complet 	 vollendet ; vollständig 	 adjective 
+ composant additionnel 	 Ergänzung ; Zugabe 	 abstract 
+ comprendre 	 einschließen 	 verb 
+ comprendre 	 enthalten ; umfassen 	 verb 
+ comprendre 	 verstehen ; begreifen 	 verb 
+ compte 	 Konto 	 business 
+ compter 	 beziffern ; nummerieren 	 verb 
+ comédien 	 Akteur ; Schauspieler 	 profession 
+ concert 	 Konzert 	 art 
+ concevoir 	 entwerfen 	 verb 
+ concurrence 	 Konkurrenzkampf 	 business 
+ concurrence 	 Wettbewerb ; Wettkampf 	 society 
+ concurrent 	 Gegenspieler ; Gegner ; Konkurrent ; Rival ; Wettbewerber 	 business 
+ condition 	 Zustand ; Status 	 abstract 
+ conduire 	 leiten ; führen 	 verb 
+ conduire 	 steuern ; lenken 	 verb 
+ conduite 	 Benehmen ; Verhalten ; Aufführung ; Haltung 	 abstract 
+ confrontation 	 Vergleich 	 abstract 
+ congé 	 Urlaub 	 society 
+ connaissance 	 Kenntnis 	 education 
+ connecteur 	 Anschlussstück ; Stecker 	 abstract 
+ conscient 	 bewusst 	 adjective 
+ conseil 	 Ausschuss ; Komitee ; Kommission 	 society 
+ conseil 	 Kollegium ; Rat 	 society 
+ conseil 	 Rat 	 communication 
+ considérer 	 betrachten 	 verb 
+ construction 	 Konstruktion ; Struktur ; Aufbau 	 house 
+ conséquence 	 Effekt ; Ergebnis ; Folge ; Resultat ; Wirkung 	 medicine 
+ contenir 	 begrenzen ; beschränken ; einschränken ; limitieren 	 verb 
+ continuer 	 fortsetzen ; weitermachen 	 verb 
+ contraire 	 Gegenteil 	 abstract 
+ contrat 	 Vertrag ; Kontrakt 	 business 
+ contre 	 auf 	 preposition 
+ contre 	 gegen 	 preposition 
+ contribution 	 Besteuerung ; Steuer 	 business 
+ contrôler 	 beherrschen ; kontrollieren ; steuern ; führen 	 verb 
+ copain 	 Freund ; Freundin 	 family 
+ copeau 	 Stückchen 	 object 
+ copie 	 Kopie 	 object 
+ copier 	 kopieren 	 verb 
+ copine 	 Freundin 	 family 
+ corde 	 Seil ; Tau ; Strang 	 transport 
+ correct 	 korrekt ; richtig 	 adjective 
+ costume 	 Kleidung 	 clothes 
+ coton 	 Baumwolle 	 material 
+ coton 	 Baumwolle 	 material 
+ cou 	 Hals 	 anatomy 
+ coudre 	 nähen 	 verb 
+ couleur 	 Farbe 	 art 
+ coup 	 Schlag 	 abstract 
+ coup 	 Schlag ; Hieb 	 abstract 
+ coup de pied 	 Tritt 	 abstract 
+ coup de pied 	 treten 	 verb 
+ coupe 	 Pokal 	 object 
+ coupe 	 Tasse 	 food 
+ couper 	 abschneiden 	 verb 
+ couple 	 Paar 	 number 
+ coupure 	 Schnitt 	 abstract 
+ courant 	 Strom 	 nature 
+ courant 	 Strom 	 nature 
+ courant 	 Strömung 	 nature 
+ courant 	 geläufig 	 adjective 
+ courbure 	 Krümmung 	 mathematics 
+ courir 	 rennen 	 verb 
+ cours 	 Lehrgang ; Kurs 	 education 
+ cours 	 Satz ; Tarif 	 business 
+ court 	 kurtz 	 adjective 
+ couteau 	 Messer 	 food 
+ couvercle 	 Deckel ; Hülle ; Mantel ; Umschlag 	 object 
+ craindre 	 befürchten ; fürchten 	 verb 
+ cravate 	 Krawatte ; Schlips 	 clothes 
+ crayon 	 Bleistift 	 object 
+ crevé 	 tot ; leblos 	 adjective 
+ cri 	 Aufschrei ; Geschrei ; Ruf ; Schrei 	 communication 
+ critère 	 Kriterium ; Maß ; Norm ; Standard 	 communication 
+ croire 	 glauben ; trauen 	 verb 
+ croître 	 anwachsen ; wachsen 	 verb 
+ cuiller 	 Löffel 	 food 
+ cuir 	 Leder 	 material 
+ cuisine 	 küche 	 house 
+ cuisiner 	 kochen 	 verb 
+ cuisiner 	 kochen 	 verb 
+ cuisinier 	 Koch ; Köchin 	 profession 
+ culture 	 Kultur 	 society 
+ côté 	 Seite 	 mathematics 
+ danger 	 Gefahr 	 abstract 
+ dangereux 	 gefährlich 	 adjective 
+ dans 	 hinein ; im 	 adverb 
+ dans 	 in 	 preposition 
+ danser 	 tanzen 	 verb 
+ date 	 Datum 	 time 
+ de 	 aus 	 preposition 
+ de qui 	 wessen 	 pronoun 
+ degré 	 Grad 	 linguistics 
+ dehors 	 außen ; außer ; außerhalb ; draußen 	 adverb 
+ demain 	 Morgen 	 time 
+ demain 	 morgen 	 adverb 
+ demande 	 Anforderung ; Bitte 	 communication 
+ demander 	 fragen 	 verb 
+ dense 	 dicht ; dick 	 adjective 
+ dent 	 Zahn 	 anatomy 
+ depuis 	 seit 	 preposition 
+ dernier 	 Vergangenheit 	 time 
+ dernier 	 letzter 	 adverb 
+ dernier 	 zuletzt ; letzte ; letzter 	 adjective 
+ derrière 	 hinter 	 adverb 
+ dessiner 	 malen ; zeichnen 	 verb 
+ dessus 	 oben ; ober ; oberhalb ; über 	 adverb 
+ destination 	 Bestimmung 	 abstract 
+ destruction 	 Vernichtung 	 abstract 
+ deuxième 	 zweite 	 adjective 
+ devenir 	 bekommen 	 verb 
+ devoir 	 Pflicht ; Verpflichtung 	 abstract 
+ dictionnaire 	 Lexikon ; Wörterbuch 	 linguistics 
+ difficulté 	 Schwierigkeit 	 abstract 
+ différence 	 Unterschied 	 abstract 
+ différent 	 anders 	 adjective 
+ différent 	 anders ; ungleich 	 adjective 
+ dimanche 	 Sonntag 	 time 
+ dire 	 sagen ; erzählen 	 verb 
+ directement 	 direkt ; gerade ; geradewegs 	 adverb 
+ directeur 	 Direktor ; Verwalter ; leitender Verwaltungsangestellter 	 profession 
+ direction 	 Führung ; Management ; Verwaltung 	 society 
+ direction 	 Management 	 business 
+ direction 	 Richtung 	 mathematics 
+ discipline 	 Disziplin 	 linguistics 
+ discussion 	 Streit ; Kontroverse ; Anfechtung ; Auseinandersetzung 	 mathematics 
+ discuter 	 debattieren ; bereden ; besprechen ; diskutieren 	 verb 
+ disponible 	 vorhanden 	 adjective 
+ distance 	 Abstand ; Distanz ; Entfernung 	 mathematics 
+ distinctement 	 deutlich 	 adverb 
+ divers 	 verschieden 	 adjective 
+ diversité 	 Diversität ; Verschiedenheit ; Vielfalt 	 art 
+ divertissement 	 Unterhaltung ; Belustigung ; Vergnügung 	 art 
+ diviser 	 teilen ; verteilen 	 verb 
+ dix 	 zehn 	 number 
+ dix-huit 	 achtzehn 	 number 
+ dix-neuf 	 neunzehn 	 number 
+ docteur 	 Arzt ; Doktor 	 profession 
+ doigt 	 Finger 	 anatomy 
+ domination 	 Oberherrschaft 	 society 
+ donc 	 also ; daher 	 adverb 
+ donner 	 geben 	 verb 
+ données 	 Angaben 	 communication 
+ dos 	 Rücken 	 anatomy 
+ douceur 	 Süßigkeit 	 food 
+ douche 	 Dusche 	 house 
+ douleur 	 Schmerz 	 medicine 
+ doute 	 Ungewissheit ; Zweifel 	 communication 
+ douter 	 anzweifeln ; bezweifeln ; zweifeln 	 verb 
+ doux 	 weich 	 adjective 
+ douzième 	 zwölfte 	 number 
+ drapeau 	 Flagge 	 object 
+ droit 	 Recht 	 society 
+ droit 	 direkt ; gerade 	 adjective 
+ droit 	 recht ; rechts 	 adjective 
+ dur 	 schwer ; schwierig 	 adjective 
+ durer 	 halten 	 verb 
+ d'abord 	 erst ; zunächst ; erstens ; zuerst 	 adverb 
+ d'or 	 golden 	 color 
+ début 	 Anfang ; Beginn 	 abstract 
+ débuter 	 anfangen ; beginnen 	 verb 
+ décembre 	 Dezember 	 time 
+ déces 	 Tod ; tod 	 abstract 
+ déchets 	 Abfall 	 material 
+ décider 	 entscheiden ; bestimmen 	 verb 
+ décision 	 Beschluss ; Entscheidung ; Entschluss ; Schlussfolgerung 	 communication 
+ déclaration 	 Aussage ; Behauptung 	 communication 
+ découverte 	 Entdeckung 	 society 
+ découvrir 	 entdecken 	 verb 
+ décrire 	 beschreiben 	 verb 
+ défense 	 Verteidigung ; Abwehr 	 abstract 
+ définitif 	 abschließend ; final ; terminal ; endgültig 	 adjective 
+ dégager 	 befreien ; erlösen ; freilassen ; freisetzen 	 verb 
+ déjeuner 	 Frühstück 	 food 
+ déjeuner 	 Lunch ; Mittagessen 	 food 
+ déjà 	 bereits 	 adverb 
+ délicat 	 zart ; zierlich 	 adjective 
+ délit 	 Kriminalität ; Verbrechen 	 society 
+ département 	 Abteilung 	 society 
+ dépasser 	 übersteigen ; übertreffen 	 verb 
+ dépression 	 Tiefdruckgebiet ; Zyklone 	 nature 
+ dépôt 	 Garage 	 transport 
+ dérapage 	 Schleudern 	 abstract 
+ désirer 	 wünschen 	 verb 
+ détail 	 Einzelheit 	 logistics 
+ déterminé 	 festgelegt ; festgesetzt 	 adjective 
+ déterminé 	 gegeben ; angegeben 	 adjective 
+ développer 	 entwickeln 	 verb 
+ eau 	 Wasser 	 material 
+ elle 	 sie 	 pronoun 
+ embaumer 	 duften ; riechen 	 verb 
+ emplir 	 füllen ; auffüllen 	 verb 
+ employé 	 Arbeiter 	 profession 
+ empoisonner 	 vergiften 	 verb 
+ empêcher 	 hindern ; verhindern ; vorbeugen 	 verb 
+ en réalité 	 wahrlich ; wirklich 	 adverb 
+ encore 	 noch 	 adverb 
+ encore 	 wiederum 	 adverb 
+ encre 	 Tinte 	 material 
+ endommager 	 beschädigen 	 verb 
+ endurer 	 erleiden ; erdulden 	 verb 
+ enfant 	 Kind 	 family 
+ ennuyeux 	 ermüdend ; langweilig 	 adjective 
+ enregistrer 	 aufnehmen ; aufzeichnen 	 verb 
+ enrouler 	 aufspulen ; aufwickeln ; aufrollen 	 verb 
+ enseignement 	 Bildung ; Unterrichtswesen ; Pädagogik 	 education 
+ enseigner 	 lehren ; unterrichten ; beibringen 	 verb 
+ ensemble 	 zusammen 	 adverb 
+ ensuite 	 nach ; später 	 adverb 
+ entendre 	 beabsichtigen ; vorhaben 	 verb 
+ entendre 	 hören 	 verb 
+ entier 	 vollständig 	 adjective 
+ entraînement 	 Ausbildung 	 abstract 
+ entre 	 mitten ; unter ; zwischen ; mitten unter 	 preposition 
+ entre 	 zwischen 	 adverb 
+ entrer 	 eintreten ; hineingehen ; hineinkommen 	 verb 
+ entrée 	 Diele ; Halle ; Vestibül ; Vorhalle ; Vorraum 	 house 
+ enveloppe 	 Briefumschlag ; Umschlag ; Kuvert 	 object 
+ envelopper 	 verhüllen ; verschleiern ; einhüllen 	 verb 
+ environ 	 nahezu ; um ; gegen ; etwa ; ungefähr 	 adverb 
+ erreur 	 Fehler ; Irrtum ; Schnitzer 	 communication 
+ escarpé 	 steil 	 adjective 
+ espace 	 Weltraum 	 mathematics 
+ espagnol 	 Spanisch 	 language 
+ espoir 	 Hoffnung 	 relations 
+ esprit 	 Geist ; Verstand ; Psyche 	 mathematics 
+ espèce 	 Art ; Gattung 	 abstract 
+ espérer 	 hoffen 	 verb 
+ essai 	 Anstrengung ; Bemühung ; Mühe ; Versuch 	 abstract 
+ essayer 	 probieren 	 verb 
+ essayer 	 probieren ; versuchen 	 verb 
+ essence 	 Essenz ; Kern ; Kernel ; Quintessenz ; Wesentliche 	 abstract 
+ essuyer 	 abtrocknen ; trocknen 	 verb 
+ est 	 Osten 	 logistics 
+ est 	 östlich 	 adjective 
+ estimer 	 schätzen 	 verb 
+ estomac 	 Magen 	 anatomy 
+ et 	 und 	 conjunction 
+ exactement 	 genau 	 adverb 
+ exactement 	 genau ; gerade 	 adverb 
+ examen 	 Examen ; Prüfung 	 communication 
+ excellent 	 ausgezeichnet 	 adjective 
+ exemple 	 Beispiel 	 communication 
+ exercer 	 praktizieren ; exerzieren 	 verb 
+ existence 	 Dasein ; Existenz ; Sein 	 society 
+ exister 	 existieren ; bestehen 	 verb 
+ expert 	 Experte 	 profession 
+ expert 	 erfahren ; geschickt 	 adjective 
+ expliquer 	 erklären ; erläutern ; aufklären 	 verb 
+ express 	 Schnellzug 	 transport 
+ expérience 	 Erfahrung 	 society 
+ extérieur 	 Äußere 	 mathematics 
+ facile 	 leicht 	 adjective 
+ facture 	 Faktur ; Nota ; Rechnung ; Rechnungsstellung 	 business 
+ facturer 	 berechnen ; fakturieren 	 verb 
+ facultatif 	 ein ; beliebig 	 adjective 
+ faculté 	 Energie ; Kraft 	 abstract 
+ faire 	 erschaffen ; erzeugen ; kreieren ; machen 	 verb 
+ faire face 	 bewältigen ; meistern ; schaffe 	 verb 
+ fait 	 Tatsache 	 abstract 
+ famille 	 Familie 	 family 
+ famille 	 Familie ; Haushalt ; Privathaushalt ; familie 	 family 
+ fatigué 	 müde 	 adjective 
+ faux 	 falsch ; unrichtig ; inkorrekt 	 adjective 
+ faux 	 unecht ; falsch 	 adjective 
+ femme 	 Ehefrau ; Frau ; Gemahlin 	 family 
+ femme 	 Frau 	 family 
+ femme 	 Frau 	 society 
+ fenêtre 	 Fenster 	 house 
+ fer 	 Eisen 	 material 
+ ferme 	 Bauernhof 	 nature 
+ ferme 	 fest ; hart 	 adjective 
+ fermer 	 schließen ; verschließen ; zuschließen 	 verb 
+ fermé 	 geschlossen ; ungeöffnet 	 adjective 
+ feu 	 Brand 	 nature 
+ feuille 	 Blatt ; Laub ; Laubwerk ; Blätter 	 nature 
+ feuilleton 	 Serie 	 abstract 
+ fil 	 Draht 	 object 
+ filet 	 Netz 	 material 
+ fille 	 Tochter 	 family 
+ fils 	 Sohn 	 family 
+ fin 	 Eind ; Ende ; Schluss 	 abstract 
+ financier 	 finanziell 	 adjective 
+ fissure 	 Kluft ; Riss ; Spalte ; Sprung 	 abstract 
+ flamme 	 Feuer ; Flamme 	 nature 
+ fleur 	 Blume 	 nature 
+ fleuve 	 Fluss 	 nature 
+ foi 	 Glaube ; Religion 	 society 
+ fonction 	 Funktion 	 mathematics 
+ fonction 	 Funktion ; Zweck 	 linguistics 
+ fonctionnaire 	 Beamter 	 profession 
+ fonctionnement 	 Betrieb 	 mathematics 
+ foncé 	 dunkel 	 adjective 
+ fondamental 	 elementar ; fundamental ; primär ; grundlegend ; basisch 	 adjective 
+ football 	 Fußball 	 sports 
+ force 	 Kraft ; Gewalt ; Stärke 	 abstract 
+ force 	 Macht 	 abstract 
+ formation 	 Ausbildung ; Bildung 	 education 
+ forme 	 Form 	 art 
+ former 	 trainieren ; schulen 	 verb 
+ formidable 	 toll ; großartig 	 adjective 
+ fort 	 laut 	 adjective 
+ forêt 	 Gehölz ; Holz ; Wald 	 nature 
+ fouet 	 Peitsche 	 object 
+ four 	 Backofen ; Ofen 	 device 
+ fourchette 	 Gabel 	 food 
+ fourmi 	 Ameise 	 animal 
+ fournir 	 liefern ; zustellen ; bieten ; ausstatten 	 verb 
+ foyer 	 Heim ; Heimat ; Zuhause ; Eigenheim ; Haus 	 house 
+ fragile 	 brüchig ; gebrechlich ; zerbrechlich 	 adjective 
+ frais 	 Kosten 	 society 
+ frais 	 frisch 	 adjective 
+ français 	 Französisch 	 language 
+ frisson 	 Zittern 	 abstract 
+ froid 	 Kälte 	 nature 
+ froid 	 kalt 	 adjective 
+ fromage 	 Käse 	 food 
+ front 	 Stirn 	 anatomy 
+ fructueux 	 erfolgreich 	 adjective 
+ fruit 	 Frucht ; Obst 	 food 
+ fruit sec 	 Schalenfrucht 	 food 
+ frère 	 Bruder 	 family 
+ fréquent 	 häufig 	 adjective 
+ fumer 	 rauchen ; qualmen 	 verb 
+ fumée 	 Dunst ; Qualm ; Rauch 	 nature 
+ fusil 	 Gewehr 	 object 
+ futur 	 Zukunft 	 time 
+ futur 	 künftig 	 adjective 
+ fâché 	 erzürnt 	 adjective 
+ féminin 	 weiblich 	 adjective 
+ février 	 Februar 	 time 
+ gagner 	 gewinnen 	 verb 
+ gain 	 Gewinn ; Verdienst 	 business 
+ garçon 	 Junge 	 family 
+ gauche 	 linke ; links 	 adjective 
+ genou 	 Knie 	 anatomy 
+ gens 	 Leute 	 society 
+ gentil 	 lieb ; nett 	 adjective 
+ gentil 	 nett 	 adjective 
+ glace 	 Eis 	 material 
+ glace 	 Eis 	 nature 
+ glapir 	 schreien ; brüllen 	 verb 
+ golf 	 Golf 	 travelling 
+ gorge 	 Kehle 	 anatomy 
+ goutte 	 Tropfen 	 object 
+ gouvernement 	 Regierung ; Regime 	 society 
+ gouverner 	 herrschen ; regieren 	 verb 
+ goût 	 Geschmack 	 nature 
+ goût 	 kosten ; schmecken ; verkosten 	 verb 
+ grain 	 Korn 	 material 
+ graine 	 Same ; Samen 	 food 
+ grand 	 gross 	 adjective 
+ grand 	 groß 	 adjective 
+ grand 	 groß 	 adjective 
+ grand-père 	 Großvater ; Opa 	 family 
+ gras 	 Fett 	 material 
+ gratuit 	 frei ; kostenlos ; umsonst 	 adjective 
+ grave 	 ernst 	 adjective 
+ gris 	 Grau 	 color 
+ gris 	 grau 	 adjective 
+ gros 	 dick ; gras 	 adjective 
+ gros 	 fettig ; speckig 	 adjective 
+ grossier 	 derb ; grob 	 adjective 
+ groupe 	 Gruppe ; Gruppierung 	 abstract 
+ guerre 	 Krieg 	 society 
+ guitare 	 Gitarre ; Guitarre 	 object 
+ gâteau 	 Kuchen 	 food 
+ gène 	 Gen 	 anatomy 
+ général 	 General 	 profession 
+ général 	 allgemein 	 adjective 
+ généralement 	 gewöhnlich 	 adverb 
+ habile 	 intelligent ; verständig 	 adjective 
+ habituel 	 regelmäßig ; regelrecht ; regulär 	 adjective 
+ haine 	 Hass 	 relations 
+ haut 	 hinauf ; oben ; aufwärts 	 adverb 
+ hauteur 	 Höhe 	 abstract 
+ herbe 	 Gras ; Ried ; herbe 	 nature 
+ heure 	 Stunde 	 time 
+ heureux 	 glücklich 	 adjective 
+ hindi 	 Hindi 	 language 
+ histoire 	 Geschichte 	 society 
+ hiver 	 Winter 	 nature 
+ homme 	 Individuum ; Einzelperson ; Mensch ; Person ; Erdenbürger ; Sterblicher ; Einzelwesen 	 family 
+ homme 	 Mann 	 family 
+ honorer 	 achten ; beachten ; respektieren ; ehren 	 verb 
+ horloge 	 Uhr 	 device 
+ huile 	 Öl 	 material 
+ huit 	 acht 	 number 
+ huitieme 	 achte 	 number 
+ humain 	 human ; menschlich 	 adjective 
+ humidité 	 Feuchtigkeit 	 nature 
+ humour 	 Humor 	 communication 
+ hôpital 	 Behandlungsraum ; Krankenhaus 	 city 
+ hôte 	 Gast 	 travelling 
+ hôtel 	 Hotel ; Gasthaus ; Gasthof 	 city 
+ ici 	 hier 	 adverb 
+ ici 	 hier 	 adverb 
+ identifier 	 identifizieren 	 verb 
+ il y a 	 vor 	 adjective 
+ ils 	 sie 	 pronoun 
+ image 	 Bild 	 art 
+ image 	 Image 	 art 
+ imiter 	 nachahmen ; imitieren 	 verb 
+ immeuble 	 Bau ; Bauwerk ; Gebäude 	 city 
+ immédiatement 	 sofort 	 adverb 
+ impatient 	 ungeduldig 	 adjective 
+ important 	 bedeutungsvoll ; signifikant ; wichtig 	 adjective 
+ important 	 signifikant ; wichtig 	 adjective 
+ imprimer 	 ausdrucken ; drucken 	 verb 
+ indiquer 	 indizieren 	 verb 
+ individu 	 Individuum 	 society 
+ individuel 	 individuell 	 adjective 
+ industrie 	 Industrie 	 society 
+ industriel 	 industriell 	 adjective 
+ infirmière 	 Krankenschwester 	 profession 
+ information 	 Information 	 communication 
+ information 	 Information ; Auskunft 	 communication 
+ inhabituel 	 ungebräuchlich ; ungewohnt ; ungewöhnlich 	 adjective 
+ insecte 	 Insekt 	 animal 
+ instant 	 Augenblick 	 mathematics 
+ institution 	 Institution ; Niederlassung 	 society 
+ instrument 	 Instrument 	 device 
+ intensifier 	 erhöhen ; steigern 	 verb 
+ international 	 international 	 adjective 
+ internet 	 Internet 	 mathematics 
+ interview 	 Interview 	 communication 
+ intituler 	 betiteln ; bezeichnen 	 verb 
+ intéressant 	 interessant 	 adjective 
+ intérêt 	 Interesse 	 communication 
+ intérêt 	 Zins 	 business 
+ invention 	 Erfindung 	 art 
+ investigation 	 Erhebung 	 abstract 
+ italien 	 Italienisch 	 language 
+ jamais 	 niemals 	 adverb 
+ jambe 	 Bein 	 anatomy 
+ janvier 	 Januar 	 time 
+ japonais 	 Japanisch 	 language 
+ jardin 	 Garten 	 house 
+ jaune 	 gelb 	 color 
+ jeter 	 schleudern ; werfen 	 verb 
+ jeu 	 Spiel 	 mathematics 
+ jeu 	 Spiel 	 sports 
+ jeudi 	 Donnerstag 	 time 
+ jeune 	 jung 	 adjective 
+ joindre 	 verbinden ; zusammenfügen ; zusammenschließen 	 verb 
+ jouer 	 spielen 	 verb 
+ joueur 	 Spieler 	 sports 
+ journal 	 Zeitung 	 object 
+ journaliste 	 Journalist 	 profession 
+ journée 	 tag ; Tag 	 nature 
+ juge 	 Richter 	 profession 
+ juillet 	 Juli 	 time 
+ juin 	 Juni 	 time 
+ jupe 	 Rock 	 clothes 
+ jusqu'à 	 bis 	 conjunction 
+ la 	 der ; die 	 article 
+ labourer 	 pflügen 	 verb 
+ lac 	 See 	 nature 
+ laid 	 mies ; hässlich 	 adjective 
+ laine 	 Wolle 	 material 
+ laisser 	 abfahren ; verlassen ; weggehen ; abgehen 	 verb 
+ laisser 	 hinterlassen ; zurücklassen 	 verb 
+ laisser 	 lassen 	 verb 
+ lait 	 Milch 	 food 
+ lancer 	 Wurf 	 sports 
+ langage 	 Sprache 	 communication 
+ langue 	 Sprache ; Rede 	 linguistics 
+ langue 	 Zunge 	 anatomy 
+ langue 	 natürliche Sprache 	 linguistics 
+ large 	 breit ; weit 	 adjective 
+ laver 	 waschen 	 verb 
+ le 	 ihm 	 pronoun 
+ le long de 	 entlang 	 adverb 
+ le moins 	 wenigsten 	 adverb 
+ lent 	 langsam 	 adjective 
+ lentement 	 langsam 	 adverb 
+ les 	 sie 	 pronoun 
+ lettre 	 Brief 	 object 
+ lettre 	 Schriftzeichen 	 linguistics 
+ leur 	 ihr 	 pronoun 
+ lever 	 anheben ; erhöhen ; hochheben 	 verb 
+ libre 	 frei 	 adjective 
+ licencier 	 entlassen ; hinauswerfen 	 verb 
+ lieu 	 Platz 	 abstract 
+ ligne 	 Linie ; Zeile 	 mathematics 
+ limite 	 Grenze 	 mathematics 
+ lion 	 Löwe 	 animal 
+ liquide 	 Flüssigkeit 	 nature 
+ liquide 	 flüssig 	 adjective 
+ lire 	 lesen 	 verb 
+ lissé 	 glatt 	 adjective 
+ liste 	 Liste 	 abstract 
+ lit 	 Bett 	 house 
+ livre 	 Buch 	 object 
+ local 	 lokal 	 adjective 
+ loi 	 Gesetz 	 society 
+ loin 	 entfernt ; fern ; weit 	 adjective 
+ long 	 lang 	 adjective 
+ lourd 	 schwer 	 adjective 
+ lui 	 er 	 pronoun 
+ lumière 	 Licht 	 nature 
+ lundi 	 Montag 	 time 
+ lune 	 Mond 	 nature 
+ lutte 	 Bekämpfung ; Kampf ; Schlacht 	 abstract 
+ lutter 	 kämpfen ; ringen ; sich prügeln ; sich schlagen 	 verb 
+ l'un et l'autre 	 beide 	 adjective 
+ là 	 da ; dort 	 adverb 
+ lèvre 	 Lippe 	 anatomy 
+ légal 	 legal 	 adjective 
+ léger 	 leicht 	 adjective 
+ machine 	 Maschine 	 device 
+ mademoiselle 	 Fräulein ; Mädchen 	 family 
+ maigre 	 dünn 	 adjective 
+ maigre 	 mager 	 adjective 
+ main 	 Hand 	 anatomy 
+ maintenant 	 jetzt ; nun 	 time 
+ maison 	 Domizil ; Wohnsitz ; Wohnung 	 house 
+ maison 	 Firma ; Betrieb 	 business 
+ maison 	 Haus 	 house 
+ majeur 	 hauptsächlich 	 adjective 
+ majeur 	 wesentlich ; primär ; haupt- ; hauptsächlich 	 adjective 
+ majorité 	 Mehrheit 	 abstract 
+ majuscule 	 Großbuchstabe 	 linguistics 
+ mal 	 falsch ; fehlerhaft 	 adjective 
+ malade 	 krank 	 adjective 
+ maladie 	 Krankheit 	 medicine 
+ maman 	 Mutter 	 family 
+ manger 	 essen 	 verb 
+ manifestement 	 offensichtlich 	 adverb 
+ manière 	 Art ; Weise 	 mathematics 
+ manière 	 Art und Weise 	 abstract 
+ manquer 	 verfehlen 	 verb 
+ manquer 	 verpassen ; versäumen 	 verb 
+ manquer 	 versagen 	 verb 
+ manteau 	 Mantel 	 clothes 
+ marche 	 Stufe ; Treppe ; Treppenstufe 	 house 
+ marcher 	 gehen 	 verb 
+ marché 	 Handel 	 business 
+ marché 	 Markt 	 business 
+ mari 	 Ehemann ; Mann ; Gemahl ; Gatte 	 family 
+ mariage 	 Ehe ; Ehegemeinschaft 	 society 
+ mariage 	 Eheschliessung ; Heirat ; Trauung ; Vermählung 	 family 
+ mariage 	 Hochzeit 	 family 
+ marin 	 Matrose ; Seemann 	 profession 
+ marié 	 verheiratet 	 adjective 
+ marque 	 Ausführung ; Marke 	 abstract 
+ marque 	 Marke ; Zeichen 	 abstract 
+ marron 	 braun 	 color 
+ marteau 	 Hammer 	 object 
+ masse 	 Masse 	 physics 
+ masse 	 Masse 	 physics 
+ massue 	 Keule ; Knüppel 	 object 
+ matin 	 Morgen ; Vormittag 	 time 
+ matière 	 Materie ; Stoff 	 material 
+ matériau 	 Material ; materiell ; Stoff ; Zeug 	 material 
+ matériel 	 materiell ; stofflich 	 adjective 
+ mauvais 	 schlecht 	 adjective 
+ maître 	 Instrukteur ; Lehrer ; Lehrkraft 	 profession 
+ maîtrise 	 Kontrolle 	 abstract 
+ me 	 mir ; mich 	 pronoun 
+ meilleur 	 beste 	 adjective 
+ membre 	 Mitglied 	 society 
+ mensonge 	 Lüge 	 communication 
+ menstruation 	 Menorrhö ; Menstruation 	 medicine 
+ mentir 	 lügen 	 verb 
+ menton 	 Kinn 	 anatomy 
+ menu 	 Menü ; Speisekarte 	 object 
+ mer 	 Meer 	 nature 
+ mercredi 	 Mittwoch 	 time 
+ mesurage 	 Messen ; Messung 	 art 
+ mesure 	 Maßnahme ; Vorkehrung ; Maßregel 	 abstract 
+ mesurer 	 messen 	 verb 
+ mettre 	 anhaben ; tragen 	 verb 
+ mieux 	 besser 	 adjective 
+ milieu 	 Milieu ; Umgebung ; Umwelt 	 nature 
+ milieu 	 Mitte ; Mittelpunkt ; Zentrum 	 mathematics 
+ milieu 	 Mittel ; Mittelwert 	 mathematics 
+ militaire 	 Soldat 	 profession 
+ militaire 	 militärisch 	 adjective 
+ milk-shake 	 Milchshake 	 food 
+ mille 	 tausend 	 number 
+ million 	 Million 	 number 
+ mine 	 Bergwerk 	 object 
+ ministre 	 Minister 	 profession 
+ minuit 	 Mitternacht 	 time 
+ minuscule 	 winzig 	 adjective 
+ minute 	 Minute 	 time 
+ miroir 	 Spiegel 	 house 
+ mise 	 Kleidung ; Garderobe ; Kleider ; Wäsche ; Klamotten ; Gewand ; Bekleidung 	 clothes 
+ misérable 	 böse 	 adjective 
+ mobilier 	 Möbel 	 house 
+ mode 	 Mode 	 abstract 
+ moderne 	 modern 	 adjective 
+ moderne 	 modern 	 adjective 
+ modeste 	 klein 	 adjective 
+ modèle 	 Muster ; Vorbild ; Vorlage 	 object 
+ moins 	 weniger 	 adjective 
+ mois 	 Monat 	 time 
+ mois 	 Monat 	 transport 
+ moitié 	 Hälfte 	 mathematics 
+ moment 	 Moment 	 time 
+ mon 	 mein ; meine 	 pronoun 
+ monde 	 Welt 	 nature 
+ monnaie 	 Kleingeld ; Wechselgeld 	 business 
+ montagne 	 Berg ; Gebirge 	 nature 
+ montant 	 Summe 	 mathematics 
+ montre 	 Uhr 	 object 
+ montrer 	 präsentieren ; zeigen ; demonstrieren 	 verb 
+ morceau 	 Stück 	 abstract 
+ morceau 	 Stück ; Teil 	 object 
+ mordre 	 beißen 	 verb 
+ morsure 	 Biss 	 medicine 
+ mort 	 Tod 	 nature 
+ mort 	 Tote 	 society 
+ mot 	 Wort 	 linguistics 
+ moteur 	 Motor 	 device 
+ mouche 	 Fielge ; Fliege 	 animal 
+ mouiller 	 anfeuchten 	 verb 
+ mouillé 	 feucht ; nass 	 adjective 
+ mourir 	 sterben 	 verb 
+ mouton 	 Schaf 	 animal 
+ mouvement 	 Bewegung 	 physics 
+ mouvement 	 Bewegung 	 physics 
+ mur 	 Mauer 	 house 
+ muscle 	 Muskel 	 anatomy 
+ musicien 	 Musikant ; Musiker 	 profession 
+ musique 	 Musik 	 art 
+ musée 	 Museum 	 city 
+ mâle 	 Mann 	 society 
+ mâle 	 männlich 	 adjective 
+ mâle 	 männlich 	 adjective 
+ médical 	 medizinisch 	 adjective 
+ mémoire 	 Andenken ; Erinnerung 	 communication 
+ mémoire 	 Gedächtnis 	 communication 
+ mépriser 	 hassen 	 verb 
+ métal 	 Metall 	 material 
+ métallique 	 metallisch 	 adjective 
+ méthode 	 Methode 	 mathematics 
+ méthode 	 Verfahren ; Prozess ; Prozedur 	 mathematics 
+ métro 	 Metro ; U-Bahn 	 transport 
+ même 	 derselbe 	 adjective 
+ naissance 	 Geburt 	 nature 
+ nation 	 Nation 	 society 
+ national 	 national 	 adjective 
+ nature 	 Natur 	 nature 
+ naturel 	 natürlich 	 adjective 
+ navire 	 Schiff 	 transport 
+ neige 	 Schnee 	 nature 
+ neige 	 Schnee 	 nature 
+ neiger 	 schneien 	 verb 
+ nerf 	 Nerv 	 anatomy 
+ neuf 	 neu 	 adjective 
+ neuf 	 neun 	 number 
+ neuvième 	 neunte 	 number 
+ nez 	 Nase 	 anatomy 
+ niveau 	 Grad ; Niveau ; Stufe 	 linguistics 
+ noeud 	 Knoten 	 object 
+ noir 	 schwarz 	 adjective 
+ nom 	 Name 	 linguistics 
+ nombre 	 Nummer ; Zahl ; nummer ; zahl 	 linguistics 
+ nommer 	 nennen ; benennen 	 verb 
+ non 	 Nein ; nein ; nicht 	 abstract 
+ non 	 nicht 	 adverb 
+ nonobstant 	 trotz 	 preposition 
+ nord 	 Nord ; Norden 	 logistics 
+ nord 	 nördlich 	 adjective 
+ normal 	 normal 	 adjective 
+ normal 	 normal ; standardmäßig 	 adjective 
+ normalement 	 gewöhnlich 	 adverb 
+ note 	 Anmerkung ; Note ; Notiz 	 communication 
+ note 	 Note 	 art 
+ note 	 Note ; Zensur 	 education 
+ nourriture 	 Essen ; Nahrungsmittel ; Nährstoff ; Speise ; essen ; nahrung 	 food 
+ nous 	 uns 	 pronoun 
+ nous 	 unser ; unsere ; unsere 	 pronoun 
+ nous 	 wir 	 pronoun 
+ nouvelles 	 Nachrichten 	 society 
+ novembre 	 November 	 time 
+ nuage 	 Wolke 	 nature 
+ nuit 	 Nacht ; Nachtzeit 	 nature 
+ numéro 	 Ausgabe 	 mathematics 
+ n'importe quoi 	 irgendetwas 	 pronoun 
+ nécessaire 	 erforderlich ; notwendig ; nötig ; unerlässlich 	 adjective 
+ négociant 	 Geschäftsmann 	 profession 
+ objection 	 Einspruch 	 communication 
+ obtenir 	 bekommen 	 verb 
+ occasion 	 Chance ; Gelegenheit 	 abstract 
+ occupation 	 Affäre ; Geschäft ; Sache 	 abstract 
+ occupation 	 Arbeit ; Beruf ; Job 	 business 
+ octobre 	 Oktober 	 time 
+ odeur 	 Aroma ; Geruch 	 nature 
+ oeil 	 Auge 	 anatomy 
+ oeuf 	 Ei 	 food 
+ oeuvre 	 Arbeit 	 abstract 
+ offre 	 Angebot ; Antrag 	 abstract 
+ offrir 	 anbieten ; bieten 	 verb 
+ oiseau 	 Vogel 	 animal 
+ ongle 	 Nagel 	 anatomy 
+ onze 	 elf 	 number 
+ opposé 	 entgegengesetzt ; gegenüberliegend 	 adjective 
+ opération 	 Operation 	 abstract 
+ opération 	 Operation 	 medicine 
+ or 	 Gold 	 material 
+ orange 	 Orange ; Apfelsine 	 food 
+ orange 	 orange 	 color 
+ orchestre 	 Kapelle 	 art 
+ orchestre 	 Orchester 	 art 
+ ordinateur 	 Computer ; Rechner 	 device 
+ ordonner 	 anordnen ; befehlen 	 verb 
+ ordre 	 Auftrag ; Befehl 	 society 
+ ordre 	 Orden 	 society 
+ ordre 	 Reihenfolge 	 linguistics 
+ oreille 	 Henkel ; Stiel 	 object 
+ oreille 	 Ohr 	 anatomy 
+ organisation 	 Einrichtung ; Organisation 	 society 
+ organisation 	 Gesellschaft 	 society 
+ organiser 	 planen 	 verb 
+ original 	 Original 	 object 
+ original 	 original ; originell ; ursprünglich 	 adjective 
+ ornement 	 Verzierung 	 object 
+ orteil 	 Zehe 	 anatomy 
+ orthographe 	 Orthographie ; Rechtschreibung ; Schreibweise 	 linguistics 
+ os 	 Knochen 	 anatomy 
+ ou 	 oder 	 conjunction 
+ oublier 	 vergessen 	 verb 
+ ouest 	 westen ; Westen 	 logistics 
+ ouest 	 westlich 	 adjective 
+ oui 	 ja 	 abstract 
+ ours 	 Bär 	 animal 
+ ouvert 	 geöffnet ; ofen ; offen 	 adjective 
+ ouvert 	 geöffnet ; offen 	 adjective 
+ ouvrir 	 aufmachen ; öffnen 	 verb 
+ page 	 Seite 	 object 
+ paiement 	 Bezahlung ; Zahlung 	 business 
+ pain 	 Brot 	 food 
+ pair 	 gerade 	 adjective 
+ paix 	 Frieden 	 abstract 
+ panier 	 Korb 	 object 
+ panneau 	 Brett 	 object 
+ papa 	 Vater 	 family 
+ papier 	 Papier 	 material 
+ paquet 	 Bündel ; Packung ; Paket 	 object 
+ par 	 vorbei 	 adverb 
+ parallèle 	 parallel 	 adjective 
+ paraître 	 aussehen 	 verb 
+ parc 	 Park 	 city 
+ pardonner 	 verzeihen 	 verb 
+ parent 	 Elternteil 	 family 
+ parfois 	 bisweilen ; manchmal 	 adverb 
+ parler 	 sprechen ; reden 	 verb 
+ partage 	 Segmentierung ; Teilung 	 mathematics 
+ partager 	 teilen 	 verb 
+ particulier 	 besondere 	 adjective 
+ particulièrement 	 besonders ; zumal 	 adverb 
+ partie 	 Anteil ; Teil ; Einzelteil 	 abstract 
+ partie 	 Party 	 society 
+ partie 	 Spiel 	 sports 
+ partie 	 Teil 	 society 
+ pas 	 Schritt 	 mathematics 
+ passager 	 Fahrgast ; Passagier 	 transport 
+ passeport 	 Reisepass 	 object 
+ passer 	 verbringen 	 verb 
+ passion 	 Liebe 	 relations 
+ passé 	 vergangen 	 adjective 
+ passée 	 jenseits 	 adverb 
+ patient 	 Patient 	 medicine 
+ patient 	 geduldig 	 adjective 
+ patron 	 Modell 	 object 
+ pause 	 Pause ; Unterbrechung 	 time 
+ pauvre 	 arm ; armselig ; bedauernswert ; dürftig ; erbärmlich ; kläglich 	 adjective 
+ payer 	 bezahlen ; zahlen 	 verb 
+ pays 	 Land 	 society 
+ peau 	 Haut 	 anatomy 
+ peine 	 Kraftanstrengung 	 abstract 
+ peinture 	 Farbe 	 art 
+ peler 	 schälen 	 verb 
+ pellicule 	 Film 	 art 
+ pellicule 	 Film 	 object 
+ pendant 	 während 	 preposition 
+ pensée 	 Gedanke ; Idee 	 communication 
+ pente 	 Hang ; Steigung 	 mathematics 
+ perdre 	 verlieren 	 verb 
+ perdre 	 verlieren 	 verb 
+ permettre 	 erlauben ; gestatten ; gewähren ; zulassen ; ermöglichen 	 verb 
+ personne 	 Individuum ; Einzelperson ; Mensch ; Person 	 family 
+ personnel 	 Belegschaft ; Personal ; Stab 	 society 
+ personnel 	 persönlich 	 adjective 
+ perte 	 Verlust 	 business 
+ peser 	 wiegen 	 verb 
+ petit 	 klein 	 adjective 
+ petit 	 klein 	 adjective 
+ peu 	 wenig 	 adjective 
+ peu 	 wenig ; bisschen 	 adverb 
+ peuple 	 Volk ; Leute 	 society 
+ peur 	 Angst ; Furcht 	 relations 
+ peut-être 	 vielleicht 	 adverb 
+ photographe 	 Fotograf ; Photograph 	 profession 
+ phrase 	 Satz 	 linguistics 
+ physique 	 körperlich ; physisch 	 adjective 
+ physique 	 physikalisch 	 adjective 
+ pied 	 Fuß ; Fuss 	 anatomy 
+ pilote 	 Pilot 	 profession 
+ pivot 	 Stift 	 object 
+ pièce 	 Zimmer 	 house 
+ placard 	 Schrank 	 house 
+ place 	 Platz 	 abstract 
+ place 	 Sitz 	 house 
+ plage 	 Strand 	 nature 
+ plaider 	 argumentieren 	 verb 
+ plaine 	 Ebene 	 nature 
+ plaisir 	 Vergnügen 	 abstract 
+ plan 	 Plan 	 abstract 
+ plan 	 eben ; flach 	 adjective 
+ plante 	 Gewächs ; Pflanze 	 house 
+ plein 	 voll 	 adjective 
+ pleurer 	 weinen 	 verb 
+ pleuvoir 	 regnen 	 verb 
+ pli 	 Falte ; Biegung ; Biegen ; Krümmung 	 object 
+ plomb 	 Blei 	 material 
+ pluie 	 Regen 	 nature 
+ pluie 	 Regen 	 nature 
+ plume 	 Feder 	 object 
+ plume 	 Füller 	 object 
+ plus 	 mehr 	 adjective 
+ plus 	 weiter 	 adjective 
+ poche 	 Beutel 	 object 
+ poids 	 Gewicht 	 physics 
+ point 	 Nadelstich 	 medicine 
+ point 	 Punkt 	 linguistics 
+ poisson 	 Fisch 	 animal 
+ poitrine 	 Brust 	 anatomy 
+ poitrine 	 Brust 	 anatomy 
+ police 	 Polizei 	 society 
+ policier 	 Polizist 	 profession 
+ polir 	 reinigen ; säubern ; putzen ; reinemachen 	 verb 
+ politicien 	 Politiker 	 profession 
+ politique 	 Politik 	 society 
+ politique 	 politisch 	 adjective 
+ pomme 	 Apfel 	 food 
+ pomme de terre 	 Kartoffel 	 food 
+ pompe 	 Pumpe 	 device 
+ pomper 	 pumpen 	 verb 
+ pondre 	 platzieren ; legen ; hinlegen 	 verb 
+ pont 	 Brücke 	 object 
+ populaire 	 populär 	 adjective 
+ populaire 	 populär 	 adjective 
+ population 	 Bevölkerung 	 society 
+ porc 	 Schwein 	 animal 
+ port 	 Porto 	 object 
+ porte 	 Tür 	 house 
+ porter 	 tragen 	 verb 
+ porter 	 tragen 	 verb 
+ poser 	 sitzen 	 verb 
+ possesseur 	 Besitzer 	 business 
+ possible 	 mutmaßlich ; wahrscheinlich 	 adjective 
+ possible 	 möglich 	 adjective 
+ poste 	 Post 	 communication 
+ poste 	 Station 	 society 
+ poste 	 Stelle ; Position ; Stellung 	 linguistics 
+ poster 	 schicken ; übersenden 	 verb 
+ pouce 	 Daumen 	 anatomy 
+ pourcentage 	 Prozent ; Prozente 	 mathematics 
+ pourquoi 	 warum 	 adverb 
+ pousser 	 bewirken 	 verb 
+ pousser 	 schieben ; stecken ; stoßen 	 verb 
+ poussière 	 Pulver ; Staub 	 material 
+ poussière 	 Staub 	 material 
+ poème 	 Poem 	 art 
+ poésie 	 Poesie 	 art 
+ premier 	 vordere 	 adjective 
+ prendre 	 auffangen ; fangen 	 verb 
+ presque 	 fast 	 adverb 
+ presser 	 drücken ; pressen 	 verb 
+ pression 	 Druck 	 nature 
+ principe 	 Prinzip 	 linguistics 
+ printemps 	 Frühjahr ; Frühling ; Lenz 	 nature 
+ prison 	 Gefängnis 	 city 
+ privé 	 privat 	 adjective 
+ prix 	 Gebühr 	 business 
+ prix 	 Preis 	 business 
+ prix 	 Preis 	 transport 
+ prix 	 Preis 	 transport 
+ problème 	 Problem 	 mathematics 
+ problème 	 Problem ; Schwierigkeit 	 abstract 
+ processus 	 Verfahren 	 nature 
+ proche 	 neben 	 adjective 
+ procéder 	 handeln ; sich benehmen ; sich verhalten 	 verb 
+ production 	 Produktion 	 abstract 
+ produire 	 produzieren ; herstellen 	 verb 
+ produit 	 Produkt ; Erzeugnis 	 object 
+ professionnel 	 Fachmann ; Profi 	 profession 
+ professionnel 	 professionell 	 adjective 
+ profit 	 Gewinn ; Vorteil 	 abstract 
+ profit 	 profitieren 	 verb 
+ profiter 	 nützlig sein 	 verb 
+ programme 	 Programm 	 abstract 
+ projet 	 Entwurf 	 abstract 
+ projet 	 Projekt 	 abstract 
+ projeter 	 vorhaben 	 verb 
+ promulguer 	 veröffentlichen 	 verb 
+ prononciation 	 Aussprache 	 linguistics 
+ proposition 	 Vorschlag 	 abstract 
+ proposition 	 Vorschlag 	 abstract 
+ propre 	 eigen 	 adjective 
+ propre 	 rein ; sauber 	 adjective 
+ propriété 	 Eigenschaft 	 abstract 
+ propriété 	 Eigentum ; Besitz ; Habseligkeiten 	 society 
+ protester 	 protestieren 	 verb 
+ prototype 	 Muster ; Paradigma ; Prototyp 	 linguistics 
+ prouver 	 beweisen 	 verb 
+ prématuré 	 früh 	 adjective 
+ préparer 	 vorbereiten 	 verb 
+ présent 	 Gegenwart 	 time 
+ présent 	 Geschenk 	 object 
+ présent 	 gegenwärtig 	 adjective 
+ présenter 	 vorstellen 	 verb 
+ présenter 	 vorstellen 	 verb 
+ président 	 Präsident 	 profession 
+ prêt 	 bereit 	 adjective 
+ public 	 öffentlich 	 travelling 
+ puissant 	 stark ; wirksam ; wirkungsvoll 	 adjective 
+ puits 	 Brunnen 	 object 
+ période 	 Periode 	 time 
+ pétrole 	 Erdöl ; Rohöl ; Öl 	 material 
+ qualité 	 Qualität 	 abstract 
+ quantité 	 Menge 	 abstract 
+ quarante 	 vierzig 	 number 
+ quatorze 	 vierzehn 	 number 
+ quatre 	 vier 	 number 
+ quatre-vingt-dix 	 neunzig 	 number 
+ quatre-vingts 	 achtzig 	 number 
+ quatrième 	 vierte ; vierter 	 number 
+ que 	 als 	 conjunction 
+ que 	 wem 	 pronoun 
+ quel 	 welch ; welcher 	 pronoun 
+ quelque 	 mehrere 	 adjective 
+ question 	 Abfrage ; Erkundigung ; Frage 	 linguistics 
+ question 	 Problem 	 communication 
+ questionnaire 	 Formblatt ; Formular 	 society 
+ queue 	 Schwanz 	 anatomy 
+ qui 	 wer 	 pronoun 
+ quinze 	 fünfzehn 	 number 
+ quoi 	 was 	 pronoun 
+ racine 	 Wurzel 	 mathematics 
+ racine 	 Wurzel 	 nature 
+ rail 	 Gleis ; Schiene ; Geländer ; Schienen 	 transport 
+ raison 	 Grund 	 communication 
+ raison 	 Grund ; Ursache 	 communication 
+ raisonner 	 überlegen 	 verb 
+ rapide 	 schnell 	 logistics 
+ rappeler 	 erinnern ; sich erinnern 	 verb 
+ rapport 	 Bericht 	 abstract 
+ rayon 	 Abteilung ; Sektion 	 mathematics 
+ recevoir 	 bekommen ; empfangen ; erhalten 	 verb 
+ recherche 	 Forschung 	 abstract 
+ recherche 	 forschen 	 verb 
+ record 	 Rekord 	 abstract 
+ recours 	 Anspruch 	 society 
+ refuser 	 ablehnen 	 verb 
+ regard 	 Blick 	 communication 
+ regarder 	 schauen 	 verb 
+ regarder 	 sehen ; schauen ; beobachten ; anschauen ; ansehen 	 verb 
+ relation 	 Verhältnis 	 communication 
+ relation 	 Verwandtschaft ; Beziehung ; Relation ; Verhältnis 	 society 
+ relever 	 würzen 	 verb 
+ religion 	 Religion 	 society 
+ remercier 	 danken 	 verb 
+ remettre 	 übergeben 	 verb 
+ remplacer 	 ersetzen 	 verb 
+ rencontre 	 Treffen 	 communication 
+ rencontrer 	 treffen ; zusammenkommen ; begegnen 	 verb 
+ rendez-vous 	 Verabredung 	 relations 
+ rendre 	 machen ; tun 	 verb 
+ rendre 	 zurückgeben 	 verb 
+ repas 	 Essen ; Mahlzeit 	 food 
+ repos 	 Rest 	 abstract 
+ reposer 	 liegen 	 verb 
+ représentant 	 Stellvertreter 	 profession 
+ représenter 	 darstellen ; verkörpern ; vorstellen ; vertreten 	 verb 
+ responsabilité 	 Verantwortung 	 abstract 
+ responsable 	 verantwortlich 	 adjective 
+ ressort 	 Feder 	 object 
+ restaurant 	 Restaurant 	 city 
+ reste 	 Rest ; Relikt ; Überrest ; Rückstand 	 business 
+ rester 	 bleiben 	 verb 
+ retour 	 Rückkehr ; Wiederkehr 	 abstract 
+ revenu 	 Einkommen 	 business 
+ revue 	 Zeitschrift 	 object 
+ rhume 	 Erkältung 	 medicine 
+ rideau 	 Gardine ; Vorhang 	 house 
+ rien 	 Nichts ; Null ; nichts 	 mathematics 
+ rigide 	 starr 	 adjective 
+ rire 	 lachen 	 verb 
+ risquer 	 riskieren 	 verb 
+ rive 	 Ufer 	 nature 
+ riz 	 Reis 	 food 
+ riz 	 Reis 	 food 
+ roi 	 König 	 society 
+ rompre 	 brechen ; zerbrechen 	 verb 
+ rond 	 kreisförmig ; kreisrund ; ringförmig 	 adjective 
+ rose 	 rosa ; rosarot 	 color 
+ roue 	 Rad 	 object 
+ rouge 	 rot 	 color 
+ rouleau 	 Rolle 	 object 
+ route 	 Straße 	 city 
+ royal 	 königlich 	 adjective 
+ ruse 	 Kniff ; List 	 abstract 
+ russe 	 Russisch 	 language 
+ rythme 	 Rhythmus 	 art 
+ règlement 	 Regel 	 linguistics 
+ réaction 	 Reaktion 	 abstract 
+ réaliser 	 erreichen ; erzielen 	 verb 
+ récemment 	 neulich 	 adverb 
+ récent 	 rezent 	 adjective 
+ récompense 	 Belohnung 	 society 
+ récréation 	 Pause 	 abstract 
+ réduire 	 reduzieren ; vermindern ; verringern 	 verb 
+ réellement 	 tatsächlich ; wirklich 	 adverb 
+ réfléchir 	 reflektieren ; widerspiegeln ; zurückwerfen ; abspiegeln 	 verb 
+ région 	 Bereich ; Region 	 nature 
+ répondre 	 antworten ; reagieren 	 verb 
+ réponse 	 Antwort 	 communication 
+ république 	 Demokratie ; Republik 	 society 
+ résultat 	 Ergebnis 	 mathematics 
+ rétention 	 enthalten 	 verb 
+ révéler 	 enthüllen ; preisgeben 	 verb 
+ sa 	 sein 	 pronoun 
+ sa 	 seine 	 pronoun 
+ sable 	 Sand 	 material 
+ sac 	 Handtasche 	 clothes 
+ sage 	 weise 	 adjective 
+ sain 	 gesund 	 adjective 
+ saisir 	 verstehen 	 verb 
+ saison 	 Saison 	 nature 
+ salade 	 Salat 	 food 
+ sale 	 schmutzig 	 adjective 
+ sale 	 schmutzig ; unrein ; unsauber 	 adjective 
+ saler 	 salzen 	 verb 
+ salle de bains 	 badezimmer 	 house 
+ salubre 	 gesund 	 adjective 
+ salut 	 hallo ; tschüss 	 linguistics 
+ salve 	 Ausbruch ; Eruption 	 abstract 
+ samedi 	 Samstag 	 time 
+ sandwich 	 Sandwich 	 food 
+ sang 	 Blut 	 anatomy 
+ santé 	 Gesundheit 	 medicine 
+ santé 	 Gesundheitszustand 	 abstract 
+ sauce 	 Sauce ; Soße 	 food 
+ saut 	 Sprung 	 abstract 
+ sauter 	 springen 	 verb 
+ savon 	 Seife 	 material 
+ savonner 	 einseifen 	 verb 
+ science 	 Wissenschaft 	 society 
+ scientifique 	 Wissenschaftler 	 profession 
+ scène 	 Bühne 	 object 
+ se 	 sich 	 pronoun 
+ se 	 sich ; sich selbst 	 pronoun 
+ se disputer 	 streiten ; sich streiten 	 verb 
+ sec 	 trocken 	 adjective 
+ seconde 	 Sekunde 	 time 
+ secousse 	 Ruck 	 transport 
+ secret 	 Geheimnis 	 communication 
+ secrétaire 	 Sekretär 	 profession 
+ secteur 	 Abteilung 	 mathematics 
+ section 	 Strecke 	 art 
+ seize 	 sechzehn 	 number 
+ sel 	 Salz 	 food 
+ semaine 	 Woche 	 time 
+ semblable 	 ähnlich 	 adjective 
+ sentiment 	 Gefühl 	 communication 
+ sentinelle 	 Wache 	 profession 
+ sentir 	 fühlen ; tasten 	 verb 
+ sentir 	 riechen 	 verb 
+ sentir 	 stinken 	 verb 
+ sept 	 sieben 	 number 
+ septième 	 siebte 	 number 
+ serpent 	 Schlange 	 animal 
+ serrure 	 Schloss ; Schloß 	 house 
+ serré 	 dicht 	 adjective 
+ service 	 Dienst ; Bedienung ; Dienstleistung 	 sports 
+ servir 	 dienen 	 verb 
+ serviteur 	 Diener 	 profession 
+ seul 	 allein 	 adverb 
+ seul 	 einzeln ; einzelne ; einzig 	 adjective 
+ seulement 	 nur 	 adverb 
+ sexe 	 Geschlecht 	 nature 
+ sexe 	 Sex 	 relations 
+ show 	 Show 	 abstract 
+ si 	 ob 	 conjunction 
+ si 	 wenn 	 conjunction 
+ signaler 	 berichten 	 verb 
+ signe 	 Zeichen 	 linguistics 
+ silence 	 Stille 	 abstract 
+ simple 	 einfach 	 adjective 
+ simple 	 ledig ; unverheiratet ; alleinstehend 	 adjective 
+ sincère 	 aufrichtig 	 adjective 
+ singe 	 Affe 	 animal 
+ sinistre 	 Beschädigung ; Schaden 	 transport 
+ situation 	 Lage 	 abstract 
+ six 	 sechs 	 number 
+ sixième 	 sechste 	 number 
+ siècle 	 Jahrhundert 	 time 
+ société 	 Firma 	 business 
+ société 	 Gesellschaft 	 society 
+ soeur 	 Schwester 	 family 
+ soie 	 Seide 	 material 
+ soir 	 Abend 	 time 
+ soit 	 entweder 	 adverb 
+ soixante 	 sechzig 	 number 
+ soixante-dix 	 siebzig 	 number 
+ sol 	 Boden 	 material 
+ sol 	 Fußboden 	 house 
+ soleil 	 Sonne 	 nature 
+ solide 	 fest 	 adjective 
+ solitaire 	 einsam 	 adjective 
+ sommeil 	 Schlaf ; Schlummer 	 nature 
+ sommet 	 Gipfel ; Höhepunkt 	 abstract 
+ son 	 Ton 	 nature 
+ son 	 ihr 	 pronoun 
+ sorte 	 Art ; Gattung ; Sorte 	 abstract 
+ sot 	 töricht 	 adjective 
+ souci 	 Sorge ; Pflege ; Behandlung ; Sorgfalt 	 abstract 
+ soudain 	 plötzlich ; unvermittelt 	 adjective 
+ souffle 	 Atem ; Atemzug ; Hauch 	 anatomy 
+ souhait 	 Wunsch 	 abstract 
+ soulager 	 assistieren ; helfen 	 verb 
+ soupe 	 Suppe 	 food 
+ source 	 Brunnen ; Quelle 	 nature 
+ source 	 Herkunft ; Ursprung ; Quelle 	 transport 
+ sourire 	 Lächeln ; Grinsen 	 abstract 
+ sourire 	 lächeln 	 verb 
+ soutenir 	 stützen ; unterstützen 	 verb 
+ souvent 	 häufig ; oft ; oftmals 	 adverb 
+ spécial 	 außergewöhnlich ; ungewöhnlich ; besondere ; speziell 	 adjective 
+ spécifique 	 spezifisch 	 adjective 
+ structure 	 Struktur 	 linguistics 
+ stupide 	 dumm 	 adjective 
+ style 	 Stil 	 art 
+ subitement 	 plötzlich 	 adverb 
+ succès 	 Erfolg 	 society 
+ succès 	 Schlager 	 art 
+ sucre 	 Kohlehydrat ; Zucker 	 food 
+ sucre 	 Zucker 	 food 
+ sucrer 	 süßen 	 verb 
+ sucré 	 süß 	 adjective 
+ sud 	 Süd ; Süden 	 logistics 
+ suggérer 	 beantragen ; vorschlagen 	 verb 
+ suivant 	 folgend ; nächste ; nachfolgend ; nachstehend ; nächster 	 adjective 
+ suivre 	 folgen 	 verb 
+ sujet 	 Subjekt ; Thema 	 linguistics 
+ sujet 	 untergeordnet 	 adjective 
+ supermarché 	 Supermarkt 	 city 
+ supprimer 	 entfernen ; beseitigen ; wegschaffen 	 verb 
+ sur 	 nach 	 adjective 
+ surface 	 Oberfläche 	 mathematics 
+ surprendre 	 überraschen 	 verb 
+ surprise 	 Überraschung 	 abstract 
+ système 	 system ; System 	 linguistics 
+ sécher 	 trocknen 	 verb 
+ séparée 	 abgesondert ; getrennt ; separat 	 adjective 
+ série 	 Satz 	 mathematics 
+ sérénité 	 Gelassenheit ; Ruhe 	 abstract 
+ sûr 	 sicher 	 adjective 
+ table 	 Tabelle 	 object 
+ table 	 Tisch 	 house 
+ tableau 	 Gemälde 	 art 
+ taille 	 Größe 	 physics 
+ tampon 	 Stempel 	 object 
+ tapis 	 Teppich ; Vorleger 	 house 
+ tard 	 spät 	 adverb 
+ tard 	 spät ; verzögert 	 adjective 
+ te 	 dich 	 pronoun 
+ technologie 	 Technologie 	 abstract 
+ technologie 	 Technologie 	 society 
+ teinte 	 Farbe ; Färbung 	 art 
+ tel 	 derart ; derartig ; solch 	 adverb 
+ temps 	 Weile 	 transport 
+ temps 	 Wetter 	 nature 
+ temps 	 Zeit 	 physics 
+ tendance 	 Tendenz ; Trend 	 abstract 
+ tenir 	 halten 	 verb 
+ tenir 	 halten ; erhalten 	 verb 
+ tennis 	 Tennis 	 sports 
+ terminer 	 beenden ; fertig stellen ; fertigstellen ; vollenden ; endigen ; erledigen 	 verb 
+ terminer 	 enden 	 verb 
+ terrain 	 Feld 	 nature 
+ terre 	 Boden ; Erdboden ; Erde 	 nature 
+ terre 	 Erde 	 material 
+ testament 	 Testament 	 society 
+ thé 	 Tee 	 food 
+ théorie 	 Theorie 	 education 
+ théâtre 	 Schauspielhaus ; Theater 	 city 
+ tige 	 Stängel 	 nature 
+ tirer 	 feuern ; schießen 	 verb 
+ tirer 	 ziehen 	 verb 
+ tiroir 	 Schublade 	 house 
+ titre 	 Titel 	 society 
+ toilettes 	 Toilette 	 house 
+ toit 	 Dach 	 house 
+ tomate 	 Tomate 	 food 
+ tomate 	 Tomate 	 food 
+ tomber 	 fallen ; stürzen 	 verb 
+ touche 	 Taste 	 object 
+ toucher 	 Berührung 	 abstract 
+ toujours 	 stets ; immer 	 adverb 
+ tourner 	 drehen 	 verb 
+ tousser 	 husten 	 verb 
+ tout 	 Ganze 	 abstract 
+ tout 	 alles 	 adjective 
+ tout 	 alles 	 pronoun 
+ toux 	 Husten 	 medicine 
+ train 	 Zug 	 transport 
+ traitement 	 Behandlung 	 abstract 
+ traiter 	 bearbeiten ; verarbeiten 	 verb 
+ traiter 	 heilen ; behandeln 	 verb 
+ trajet 	 Fahrt ; Reise 	 transport 
+ tranquille 	 leise 	 adjective 
+ transport 	 Transport 	 transport 
+ transporter 	 transportieren 	 verb 
+ travail 	 Arbeit 	 abstract 
+ travail 	 Arbeit ; Aufgabe 	 business 
+ travailler 	 funktionieren ; arbeiten 	 verb 
+ treize 	 dreizehn 	 number 
+ trente 	 dreißig 	 number 
+ triage 	 Wahl 	 abstract 
+ tribunal 	 Gericht 	 society 
+ triste 	 beklagenswert ; kläglich 	 adjective 
+ triste 	 traurig 	 adjective 
+ trois 	 drei 	 number 
+ troisième 	 dritte ; dritter 	 mathematics 
+ tronc 	 Rumpf 	 anatomy 
+ trou 	 Höhle 	 abstract 
+ trouver 	 entdecken ; enthüllen ; finden 	 verb 
+ trouver 	 finden 	 verb 
+ très 	 sehr 	 adverb 
+ tuyauterie 	 Rohre ; Rohrleitung 	 object 
+ tâche 	 Projekt ; Aufgabe 	 abstract 
+ téléphone cellulaire 	 Mobiltelefon 	 device 
+ téléphoner 	 telefonieren ; anrufen 	 verb 
+ téléviseur 	 Fernseher 	 device 
+ tête 	 Kopf ; Haupt 	 anatomy 
+ tôt 	 früh 	 adverb 
+ un 	 ein ; eins 	 number 
+ union 	 Verein ; Bund ; Einigkeit ; Gewerkschaft ; Union ; Verbindung ; Vereinigung 	 society 
+ unité 	 Einheit 	 mathematics 
+ université 	 Hochschule ; Universität 	 education 
+ université 	 Universität 	 city 
+ usage 	 Anwendung ; Nutzung ; Verwendung 	 linguistics 
+ usine 	 Fabrik ; Fertigungsanlage 	 city 
+ usine 	 Fabrik ; Werk 	 city 
+ usuel 	 üblich 	 adjective 
+ usure 	 Abnutzung 	 abstract 
+ utilisateur 	 Benutzer 	 society 
+ utiliser 	 anwenden ; verwenden ; benutzen 	 verb 
+ vacance 	 Urlaub ; Ferien 	 travelling 
+ vache 	 Kuh 	 animal 
+ vague 	 Welle 	 nature 
+ vaincre 	 besiegen ; schlagen 	 verb 
+ valeur 	 Wert 	 art 
+ valise 	 Koffer ; Handkoffer 	 clothes 
+ vapeur 	 Dampf 	 physics 
+ vendre 	 verkaufen 	 verb 
+ vendredi 	 Freitag 	 time 
+ venin 	 Gift 	 material 
+ venir 	 kommen 	 verb 
+ vent 	 Wind 	 nature 
+ vente 	 Verkauf ; Vertrieb 	 business 
+ verre 	 Glas 	 food 
+ verre 	 Glas 	 material 
+ vers 	 zu 	 preposition 
+ vert 	 grün 	 color 
+ veste 	 Jacke ; Sakko 	 clothes 
+ viande 	 Fleisch ; Fleish 	 food 
+ victoire 	 Gewinn ; Sieg 	 sports 
+ vie 	 Leben 	 nature 
+ vie 	 Leben 	 time 
+ vieux 	 alt 	 adjective 
+ vif 	 lebend ; lebendig 	 adjective 
+ village 	 Dorf 	 society 
+ village 	 Dorf 	 society 
+ ville 	 Metropole ; Stadt 	 society 
+ ville 	 Stadt 	 society 
+ vin 	 Wein 	 food 
+ vingt 	 zwantig 	 number 
+ violent 	 gewaltsam 	 adjective 
+ violent 	 ungestüm 	 adjective 
+ violet 	 lila ; violett 	 color 
+ visage 	 Gesicht 	 anatomy 
+ visite 	 Visite 	 abstract 
+ visiter 	 besuchen 	 verb 
+ visser 	 anschrauben 	 verb 
+ vite 	 schnell 	 adverb 
+ vivre 	 leben 	 verb 
+ voile 	 Segel 	 object 
+ voilure 	 Blatt ; Klinge 	 object 
+ voir 	 sehen 	 verb 
+ voire 	 sogar 	 adverb 
+ voisin 	 Nachbar 	 family 
+ voix 	 Stimme 	 communication 
+ vol 	 Fliegen ; Flug 	 transport 
+ voler 	 fliegen 	 verb 
+ voler 	 klauen ; stehlen 	 verb 
+ volonté 	 Wille 	 abstract 
+ volonté 	 Wille 	 society 
+ vouloir 	 begehren ; wollen 	 verb 
+ vrai 	 echt ; wahr 	 adjective 
+ vrai 	 richtig ; wahr 	 adjective 
+ vrai 	 wahr ; wahrhaft 	 adjective 
+ vraisemblablement 	 wahrscheinlich 	 adverb 
+ weekend 	 Wochenende 	 time 
+ zone 	 Reichweite ; Rahmen ; Bereich ; Geltungsbereich ; Umfang 	 abstract 
+ États-Unis 	 Vereinigte Staaten 	 country 
+ à 	 innen ; innerhalb ; inwendig 	 adverb 
+ âge 	 Alter 	 time 
+ âge 	 Zeitalter ; Alter 	 time 
+ ça 	 es 	 pronoun 
+ écart 	 Abweichung 	 mathematics 
+ échange 	 Ersatz 	 abstract 
+ école 	 Schule 	 city 
+ économe 	 sparsam ; ökonomisch 	 adjective 
+ économie 	 Wirtschaft ; Wirtschaftssystem 	 business 
+ économique 	 billig 	 adjective 
+ économique 	 wirtschaftlich 	 adjective 
+ écraser 	 zerdrücken ; zerquetschen 	 verb 
+ écraser 	 zerdrücken ; zerquetschen 	 verb 
+ écrire 	 schreiben 	 verb 
+ écriture 	 Schrift 	 linguistics 
+ écrivain 	 Schriftsteller 	 profession 
+ écrou 	 Schraubenmutter 	 object 
+ éducation 	 Erziehung 	 society 
+ égal 	 eben 	 adjective 
+ égal 	 gleich 	 adjective 
+ égaliser 	 ausgleichen 	 verb 
+ église 	 Kirche 	 city 
+ élection 	 Wahl 	 mathematics 
+ électrique 	 elektrisch ; elektrischer 	 adjective 
+ élever 	 erziehen ; aufziehen 	 verb 
+ éliminer 	 töten ; umbringen 	 verb 
+ élégant 	 elegant 	 adjective 
+ élément 	 Element 	 mathematics 
+ élément chimique 	 Element 	 material 
+ éléphant 	 Elefant 	 animal 
+ énergie 	 Energie 	 nature 
+ épais 	 dick ; stark 	 adjective 
+ épargner 	 sparen 	 verb 
+ épingle 	 Nadel ; Stecknadel 	 object 
+ épouser 	 heiraten 	 verb 
+ éprouver 	 empfinden ; fühlen ; spüren 	 verb 
+ équilibre 	 Gleichgewicht 	 physics 
+ équipe 	 Mannschaft 	 society 
+ établir 	 begründen ; gründen ; stiften ; einrichten ; aufbauen 	 verb 
+ étage 	 Geschoss ; Etage ; Stockwerk 	 house 
+ étape 	 Phase ; Stufe 	 time 
+ état 	 Staat 	 society 
+ état 	 Staat 	 society 
+ état 	 Zustand 	 mathematics 
+ étoffe 	 Stoff 	 material 
+ étoile 	 Stern 	 nature 
+ étranger 	 ausländisch ; fremd 	 adjective 
+ étroit 	 eng 	 adjective 
+ étudiant 	 Schüler ; Student 	 profession 
+ étudier 	 erlernen ; lernen 	 verb 
+ étudier 	 studieren 	 verb 
+ été 	 Sommer ; Sommerzeit 	 nature 
+ évaluer 	 schätzen 	 verb 
+ éveillé 	 munter ; wach 	 adjective 
+ évidence 	 Beweis 	 abstract 
+ évier 	 Spültisch 	 house 
+ éviter 	 meiden ; vermeiden 	 verb 
+ évolution 	 Entwicklung 	 nature 
+ événement 	 Ereignis ; Begebenheit ; Vorfall ; Geschehnis 	 abstract 
+ événement 	 Vorfall ; Vorkommnis 	 abstract 
+ être debout 	 stehen 	 verb 
+ être d'accord 	 zustimmen ; übereinstimmen 	 verb 
+ île 	 Eiland ; Insel 	 nature 

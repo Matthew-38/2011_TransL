@@ -1,0 +1,1777 @@
+# English-French translations created from the Universal dictionary at 2011-05-28T05:42:42-06:00
+# (c) Copyright 2011 by All free dictionaries project
+# ALL FREE DICTIONARIES PROJECT DISCLAIMS ALL
+# WARRANTIES WITH REGARD TO THESE TRANSLATIONS, INCLUDING ALL
+# IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO
+# EVENT SHALL ALL FREE DICTIONARIES PROJECT OR ANY OF ITS CONTRIBUTORS
+# BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES
+# OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR
+# PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE
+# OR OTHER ACTION, ARISING OUT OF OR IN CONNECTION
+# WITH THE USE OR PERFORMANCE OF THESE TRANSLATIONS.
+#
+# In other words there may be incorrect translations.
+# If you need to be sure never use these translations!
+#
+# French, German and Czech entries are added manually. The entries for
+# remaining languages are added automatically. Entries for these languages
+# are only experimental.
+#
+# You may not place this file on WWW, ftp and equivalent servers because
+# this file gets outdated very quickly. You may not distribute this file
+# with your dictionary applications without permission. You can contact
+# authors of the Universal dictionary at: http://dicts.info/contact.php
+#
+# This file is for personal use only. You may not distribute this file.
+#
+# New version of this file can be created at: http://www.dicts.info/uddl.php
+#
+
+ April ; Apr 	 avril 	 time 
+ China ; People's Republic of China ; mainland China ; Communist China ; Red China ; PRC ; Cathay 	 Chine 	 country 
+ Chinese 	 chinois 	 language 
+ Czech Republic 	 République tchèque 	 country 
+ December ; Dec 	 décembre 	 time 
+ Earth ; earth ; world ; globe 	 Terre 	 nature 
+ English ; English language 	 anglais 	 language 
+ February ; Feb 	 février 	 time 
+ France ; French Republic 	 République française 	 country 
+ French 	 français 	 language 
+ Friday ; Fri 	 vendredi 	 time 
+ German ; High German ; German language 	 allemand 	 linguistics 
+ Germany ; Federal Republic of Germany ; Deutschland ; FRG 	 République fédérale d'Allemagne 	 country 
+ Hindi 	 hindi 	 language 
+ India ; Republic of India ; Bharat 	 République de l'Inde 	 country 
+ Italian 	 italien 	 language 
+ Italy ; Italian Republic ; Italia 	 Italie 	 country 
+ January ; Jan 	 janvier 	 time 
+ Japan ; Nippon ; Nihon 	 Japon 	 country 
+ Japanese 	 japonais 	 language 
+ July 	 juillet 	 time 
+ June 	 juin 	 time 
+ Monday ; Mon 	 lundi 	 time 
+ Moon ; moon 	 lune 	 nature 
+ November ; Nov 	 novembre 	 time 
+ October ; Oct 	 octobre 	 time 
+ Russian 	 russe 	 language 
+ Saturday ; Sabbatum ; Sat 	 samedi 	 time 
+ Spain ; Kingdom of Spain ; Espana 	 Royaume d'Espagne 	 country 
+ Spanish 	 espagnol 	 language 
+ Sunday ; Lord's Day ; Dominicus ; Sun 	 dimanche 	 time 
+ Thursday ; Th 	 jeudi 	 time 
+ United Kingdom ; UK ; U.K. ; Britain ; United Kingdom of Great Britain and Northern Ireland ; Great Britain 	 Britain 	 country 
+ United States ; United States of America ; America ; the States ; US ; U.S. ; USA ; U.S.A. 	 États-Unis 	 country 
+ Wednesday ; Midweek ; Wed 	 mercredi 	 time 
+ ability ; power 	 capacité 	 abstract 
+ able 	 capable 	 adjective 
+ about ; almost ; most ; nearly ; near ; nigh ; virtually ; well-nigh 	 presque 	 adverb 
+ about ; around 	 autour 	 adverb 
+ above ; higher up ; in a higher place ; to a higher place 	 dessus 	 adverb 
+ abrupt ; precipitous ; sharp 	 escarpé 	 adjective 
+ accept ; take ; have 	 accepter 	 verb 
+ accident 	 accident 	 transport 
+ account ; business relationship 	 compte 	 business 
+ achieve ; accomplish ; attain ; reach 	 réaliser 	 verb 
+ acid 	 acide 	 material 
+ acme ; height ; elevation ; peak ; pinnacle ; summit ; superlative ; meridian ; tiptop ; top 	 sommet 	 abstract 
+ act ; deed ; human action ; human activity 	 acte 	 abstract 
+ act ; move 	 agir 	 verb 
+ action 	 action 	 mathematics 
+ action 	 action 	 mathematics 
+ action ; activity ; activeness 	 activité 	 mathematics 
+ actor ; histrion ; player ; thespian ; role player 	 comédien 	 profession 
+ actress 	 actrice 	 profession 
+ actually ; really 	 réellement 	 adverb 
+ acuate ; acute ; sharp ; needlelike 	 aiguisé 	 adjective 
+ ad ; advertisement ; advertizement ; advertising ; advertizing ; advert 	 annonce 	 business 
+ add 	 joindre 	 verb 
+ add ; add together 	 additionner 	 verb 
+ addition ; add-on ; improver 	 composant additionnel 	 abstract 
+ address 	 adresse 	 abstract 
+ adept ; expert ; good ; practiced ; proficient ; skillful ; skilful 	 expert 	 adjective 
+ adjacent ; next ; side by side 	 adjacent 	 adjective 
+ adjective 	 adjectif 	 linguistics 
+ admit ; acknowledge 	 accepter 	 verb 
+ advantage ; reward 	 profit 	 abstract 
+ advantage ; vantage 	 avantage 	 abstract 
+ advice 	 conseil 	 communication 
+ affect ; impact ; bear upon ; bear on ; touch on ; touch 	 affecter 	 verb 
+ after 	 sur 	 adjective 
+ afternoon 	 après-midi 	 time 
+ again ; once again ; once more ; over again 	 encore 	 adverb 
+ against 	 contre 	 preposition 
+ age 	 âge 	 time 
+ ago ; agone 	 il y a 	 adjective 
+ agree ; hold ; concur ; concord 	 être d'accord 	 verb 
+ agreement ; understanding 	 arrangement 	 business 
+ ahead ; in front ; before 	 devant 	 adverb 
+ aid ; assist ; assistance ; help 	 aide 	 communication 
+ air 	 air 	 nature 
+ airheaded ; dizzy ; empty-headed ; featherbrained ; giddy ; light-headed ; lightheaded ; silly 	 sot 	 adjective 
+ airplane ; aeroplane ; plane 	 avion 	 object 
+ airport ; airdrome ; aerodrome ; drome 	 aérodrome 	 city 
+ alive ; live 	 vif 	 adjective 
+ all 	 tout 	 adjective 
+ alone ; lone ; lonely ; solitary 	 solitaire 	 adjective 
+ along 	 le long de 	 adverb 
+ already 	 déjà 	 adverb 
+ alternatively ; instead ; or else 	 au lieu de 	 adverb 
+ altitude ; height 	 hauteur 	 abstract 
+ always ; ever ; e'er 	 toujours 	 adverb 
+ among ; amongst ; amid ; amidst 	 entre 	 preposition 
+ amount 	 quantité 	 abstract 
+ and 	 et 	 conjunction 
+ angle 	 angle 	 mathematics 
+ angry 	 fâché 	 adjective 
+ animal ; animate being ; beast ; brute ; creature ; fauna 	 animal 	 nature 
+ announce ; denote 	 annoncer 	 verb 
+ announcement ; proclamation ; annunciation ; declaration 	 communiqué 	 communication 
+ another ; some other 	 autre 	 adjective 
+ answer ; reply ; respond 	 répondre 	 verb 
+ answer ; reply ; response 	 réponse 	 communication 
+ ant ; emmet ; pismire 	 fourmi 	 animal 
+ anteroom ; antechamber ; entrance hall ; hall ; foyer ; lobby ; vestibule 	 entrée 	 house 
+ any ; whatever ; whatsoever 	 facultatif 	 adjective 
+ anyone 	 quiconque 	 pronoun 
+ anything 	 n'importe quoi 	 pronoun 
+ apartment ; flat 	 appartement 	 society 
+ apparel ; wearing apparel ; dress ; clothes 	 mise 	 clothes 
+ apple 	 pomme 	 food 
+ approximately ; about ; close to ; just about ; some ; roughly ; more or less ; around ; or so 	 environ 	 adverb 
+ area ; expanse ; surface area 	 aire 	 mathematics 
+ argent ; silver ; silvery ; silverish 	 argenté 	 adjective 
+ argue ; contend ; debate ; fence 	 se disputer 	 verb 
+ argue ; reason 	 plaider 	 verb 
+ argument ; statement 	 argument 	 communication 
+ arm 	 bras 	 anatomy 
+ army ; regular army ; ground forces 	 armée 	 society 
+ arrangement ; organization ; organisation ; system 	 organisation 	 society 
+ arrive ; make it ; get in ; go far 	 arriver 	 verb 
+ art ; fine art 	 art 	 art 
+ artist ; creative person 	 artiste 	 profession 
+ ask ; inquire ; enquire 	 demander 	 verb 
+ aspect 	 aspect 	 abstract 
+ assail ; assault ; set on ; attack 	 attaquer 	 verb 
+ astute ; sharp ; shrewd 	 astucieux 	 adjective 
+ at 	 contre 	 preposition 
+ attack ; onslaught ; onset ; onrush 	 attaque 	 abstract 
+ attempt ; effort ; endeavor ; endeavour ; try 	 essai 	 abstract 
+ attention ; attending 	 attention 	 communication 
+ attitude ; mental attitude 	 attitude 	 abstract 
+ audio ; sound 	 audio 	 abstract 
+ aureate ; gilded ; gilt ; gold ; golden 	 d'or 	 color 
+ authority ; authorization ; authorisation ; potency ; dominance ; say-so 	 autorité 	 society 
+ automatic 	 automatique 	 adjective 
+ available 	 disponible 	 adjective 
+ avoid 	 éviter 	 verb 
+ awake 	 éveillé 	 adjective 
+ award ; accolade ; honor ; honour ; laurels 	 certificat 	 society 
+ baby ; babe ; infant 	 bébé 	 family 
+ back 	 arrière 	 clothes 
+ back ; dorsum 	 dos 	 anatomy 
+ bad 	 mauvais 	 adjective 
+ bag 	 poche 	 object 
+ bag ; handbag ; pocketbook ; purse 	 sac 	 clothes 
+ bag ; traveling bag ; travelling bag ; grip ; suitcase 	 valise 	 clothes 
+ balance 	 équilibre 	 physics 
+ ball 	 ballon 	 object 
+ bang-up ; bully ; corking ; cracking ; dandy ; great ; groovy ; keen ; neat ; nifty ; not bad ; peachy ; slap-up ; swell ; smashing 	 formidable 	 adjective 
+ bank 	 rive 	 nature 
+ barbarous ; brutal ; cruel ; fell ; roughshod ; savage ; vicious 	 barbare 	 adjective 
+ bargain ; deal 	 marché 	 business 
+ base ; base of operations 	 base 	 society 
+ baseball ; baseball game 	 base-ball 	 sports 
+ basic 	 fondamental 	 adjective 
+ basket ; handbasket 	 panier 	 object 
+ bath 	 bain 	 house 
+ bathroom ; bath 	 salle de bains 	 house 
+ be ; live 	 vivre 	 verb 
+ beach 	 plage 	 nature 
+ beak ; bill ; neb ; nib ; pecker 	 bec 	 anatomy 
+ bear 	 ours 	 animal 
+ bear 	 porter 	 verb 
+ beat ; beat out ; crush ; shell ; trounce ; vanquish 	 vaincre 	 verb 
+ beautiful 	 beau 	 adjective 
+ because 	 car 	 conjunction 
+ become ; go ; get 	 devenir 	 verb 
+ bed 	 lit 	 house 
+ bedroom ; sleeping room ; sleeping accommodation ; chamber ; bedchamber 	 chambre à coucher 	 house 
+ bee 	 abeille 	 animal 
+ beer 	 bière 	 food 
+ beginning ; commencement ; first ; outset ; get-go ; start ; kickoff ; starting time ; showtime ; offset 	 début 	 abstract 
+ beginning ; origin ; root ; rootage ; source 	 source 	 transport 
+ behave ; acquit ; bear ; deport ; conduct ; comport ; carry 	 procéder 	 verb 
+ behind 	 derrière 	 adverb 
+ being ; beingness ; existence 	 existence 	 society 
+ believe 	 croire 	 verb 
+ bell 	 cloche 	 object 
+ beloved ; dear ; dearest ; honey ; love 	 chérie 	 relations 
+ bend ; curve 	 anse 	 transport 
+ benefit ; do good 	 profiter 	 verb 
+ besides ; too ; also ; likewise ; as well 	 aussi 	 adverb 
+ bespeak ; betoken ; indicate ; point ; signal 	 indiquer 	 verb 
+ best 	 meilleur 	 adjective 
+ better 	 mieux 	 adjective 
+ better 	 mieux 	 adverb 
+ better ; improve ; amend ; ameliorate ; meliorate 	 améliorer 	 verb 
+ between ; betwixt 	 entre 	 adverb 
+ beverage ; drink ; drinkable ; potable 	 boisson 	 food 
+ beyond 	 passée 	 adverb 
+ bicycle ; bike ; wheel ; cycle 	 bicyclette 	 object 
+ bill ; account ; invoice 	 facture 	 business 
+ bill ; note ; government note ; bank bill ; banker's bill ; bank note ; banknote ; Federal Reserve note ; greenback 	 billet 	 business 
+ biology ; biological science 	 biologie 	 science 
+ bird 	 oiseau 	 animal 
+ birth ; nativity ; nascency ; nascence 	 naissance 	 nature 
+ birthday 	 anniversaire 	 family 
+ bit ; chip ; flake ; fleck ; scrap 	 copeau 	 object 
+ bite 	 morsure 	 medicine 
+ bite ; seize with teeth 	 mordre 	 verb 
+ bitter 	 amer 	 adjective 
+ black 	 noir 	 adjective 
+ blade 	 voilure 	 object 
+ blessing ; approval ; approving 	 approbation 	 communication 
+ blood 	 sang 	 anatomy 
+ blow 	 coup 	 abstract 
+ blue ; bluish ; blueish 	 bleu 	 color 
+ blueprint ; design ; pattern 	 modèle 	 object 
+ board 	 panneau 	 object 
+ boat 	 bateau 	 object 
+ bone ; os 	 os 	 anatomy 
+ book ; volume 	 livre 	 object 
+ boot 	 botte 	 clothes 
+ boring ; deadening ; dull ; ho-hum ; irksome ; slow ; tedious ; tiresome ; wearisome 	 ennuyeux 	 adjective 
+ both 	 l'un et l'autre 	 adjective 
+ bottle 	 bouteille 	 food 
+ box 	 cageot 	 object 
+ boyfriend ; fellow ; beau ; swain ; young man 	 amant 	 family 
+ brain ; encephalon 	 cerveau 	 anatomy 
+ branch 	 branche 	 nature 
+ brand ; make 	 marque 	 abstract 
+ bread ; breadstuff ; staff of life 	 pain 	 food 
+ break 	 rompre 	 verb 
+ breakfast 	 déjeuner 	 food 
+ breast ; chest 	 poitrine 	 anatomy 
+ breath 	 souffle 	 anatomy 
+ brick 	 brique 	 house 
+ bridge ; span 	 pont 	 object 
+ bright ; brilliant ; vivid 	 clair 	 adjective 
+ bring ; convey ; take 	 apporter 	 verb 
+ broken 	 cassé 	 adjective 
+ brother ; blood brother 	 frère 	 family 
+ brow ; forehead 	 front 	 anatomy 
+ brown ; brownish ; chocolate-brown ; dark-brown 	 marron 	 color 
+ brush 	 brosse 	 object 
+ brusque ; brusk ; curt ; short 	 brusque 	 adjective 
+ building ; edifice 	 immeuble 	 city 
+ bulk ; mass ; volume 	 masse 	 physics 
+ bus ; autobus ; coach ; charabanc ; double-decker ; jitney ; motorbus ; motorcoach ; omnibus ; passenger vehicle 	 autocar 	 transport 
+ business ; concern ; business concern ; business organization ; business organisation 	 affaire 	 business 
+ businessman ; man of affairs 	 négociant 	 profession 
+ butter 	 beurre 	 food 
+ buy ; purchase 	 acheter 	 verb 
+ by ; past 	 par 	 adverb 
+ by and large ; generally ; more often than not ; mostly 	 généralement 	 adverb 
+ cake 	 gâteau 	 food 
+ calculator ; reckoner ; figurer ; estimator ; computer 	 calculateur 	 device 
+ calendar month ; month 	 mois 	 time 
+ call ; phone call ; telephone call 	 communication 	 communication 
+ call ; telephone ; call up ; phone ; ring 	 téléphoner 	 verb 
+ camera ; photographic camera 	 caméra 	 object 
+ campaign ; cause ; crusade ; drive ; movement ; effort 	 campagne 	 abstract 
+ can ; tin ; tin can 	 boîte 	 object 
+ capital 	 capitale 	 society 
+ capital ; capital letter ; uppercase ; upper-case letter ; majuscule 	 majuscule 	 linguistics 
+ capital ; working capital 	 capital 	 business 
+ car ; auto ; automobile ; machine ; motorcar 	 automobile 	 transport 
+ carbohydrate ; saccharide ; sugar 	 sucre 	 food 
+ card 	 carte 	 object 
+ cardinal ; central ; fundamental ; key ; primal 	 central 	 adjective 
+ care ; attention ; aid ; tending 	 souci 	 abstract 
+ case ; instance ; example 	 affaire 	 abstract 
+ castle 	 château 	 city 
+ cat ; true cat 	 chat 	 animal 
+ catch ; grab ; take hold of 	 prendre 	 verb 
+ cause 	 cause 	 abstract 
+ cell 	 cellule 	 anatomy 
+ cell ; jail cell ; prison cell 	 cellule 	 society 
+ cellular telephone ; cellular phone ; cellphone ; cell ; mobile phone 	 téléphone cellulaire 	 device 
+ center ; centre ; middle ; heart ; eye 	 milieu 	 mathematics 
+ center ; centre ; midpoint 	 centre 	 mathematics 
+ central 	 central 	 adjective 
+ central ; telephone exchange ; exchange 	 central 	 society 
+ century 	 siècle 	 time 
+ certain ; sure 	 certain 	 adjective 
+ chain 	 chaîne 	 object 
+ chair 	 chaise 	 house 
+ championship ; title 	 championnat 	 sports 
+ change 	 monnaie 	 business 
+ change ; alter ; modify 	 changer 	 verb 
+ change ; alteration ; modification 	 changement 	 abstract 
+ character ; grapheme ; graphic symbol 	 caractère 	 linguistics 
+ charge 	 prix 	 business 
+ charge ; accuse 	 accuser 	 verb 
+ charge ; bill 	 facturer 	 verb 
+ charge ; complaint 	 accusation 	 society 
+ charge ; electric charge 	 charge 	 nature 
+ cheap ; inexpensive 	 économique 	 adjective 
+ check ; bank check ; cheque 	 chèque 	 business 
+ cheese 	 fromage 	 food 
+ chemical ; chemic 	 chimique 	 adjective 
+ chemical ; chemical substance 	 chimique 	 material 
+ chemical element ; element 	 élément chimique 	 material 
+ chemistry ; chemical science 	 chimie 	 science 
+ chest 	 coffre 	 object 
+ chief ; main ; primary ; principal ; master 	 majeur 	 adjective 
+ child ; kid ; youngster ; minor ; shaver ; nipper ; small fry ; tiddler ; tike ; tyke ; fry ; nestling 	 enfant 	 family 
+ chin ; mentum 	 menton 	 anatomy 
+ chocolate 	 chocolat 	 food 
+ choice ; selection ; option ; pick 	 triage 	 abstract 
+ choose ; take ; select ; pick out 	 choisir 	 verb 
+ church ; church building 	 église 	 city 
+ cinema ; movie theater ; movie theatre ; movie house ; picture palace 	 cinéma 	 city 
+ circle 	 cercle 	 mathematics 
+ city ; metropolis ; urban center 	 ville 	 society 
+ claim 	 recours 	 society 
+ clandestine ; cloak-and-dagger ; hole-and-corner ; hugger-mugger ; hush-hush ; secret ; surreptitious ; undercover ; underground 	 clandestin 	 adjective 
+ class ; form ; grade ; course 	 classe 	 art 
+ classify ; class ; sort ; assort ; sort out ; separate 	 classer 	 verb 
+ clean 	 propre 	 adjective 
+ clean ; make clean 	 polir 	 verb 
+ clear 	 clair 	 adjective 
+ clearly 	 distinctement 	 adverb 
+ clock 	 horloge 	 device 
+ close ; shut 	 clore 	 verb 
+ clothing ; article of clothing ; vesture ; wear ; wearable ; habiliment 	 costume 	 clothes 
+ cloud 	 nuage 	 nature 
+ club 	 massue 	 object 
+ club ; social club ; society ; guild ; gild ; lodge ; order 	 club 	 society 
+ coal 	 charbon 	 material 
+ coat 	 manteau 	 clothes 
+ coffee ; java 	 café 	 food 
+ cognition ; knowledge ; noesis 	 connaissance 	 education 
+ coil ; whorl ; roll ; curl ; curlicue ; ringlet ; gyre ; scroll 	 rouleau 	 object 
+ cold 	 froid 	 adjective 
+ cold ; common cold 	 rhume 	 medicine 
+ coldness ; cold ; low temperature ; frigidity ; frigidness 	 froid 	 nature 
+ collar ; neckband 	 col 	 clothes 
+ color ; colour ; coloring ; colouring 	 teinte 	 art 
+ coloring material ; colouring material ; color ; colour 	 couleur 	 art 
+ come ; come up 	 venir 	 verb 
+ committee ; commission 	 conseil 	 society 
+ common 	 courant 	 adjective 
+ common ; mutual 	 commun 	 adjective 
+ common ; usual 	 commun 	 adjective 
+ community 	 communauté 	 society 
+ company 	 société 	 business 
+ company ; companionship ; fellowship ; society 	 compagnie 	 society 
+ compare 	 comparer 	 verb 
+ comparison ; comparing 	 confrontation 	 abstract 
+ competition 	 concurrence 	 business 
+ complete ; consummate 	 complet 	 adjective 
+ complete ; finish 	 terminer 	 verb 
+ complimentary ; costless ; free ; gratis ; gratuitous 	 gratuit 	 adjective 
+ component ; constituent ; element ; factor ; ingredient 	 élément 	 mathematics 
+ computer ; computing machine ; computing device ; data processor ; electronic computer ; information processing system 	 ordinateur 	 device 
+ concert 	 concert 	 art 
+ concluding ; final ; last ; terminal 	 définitif 	 adjective 
+ condition ; status 	 condition 	 abstract 
+ confront ; face up ; face 	 affronter 	 verb 
+ connection ; connexion ; connector ; connecter ; connective 	 connecteur 	 abstract 
+ conscious ; witting 	 conscient 	 adjective 
+ consequence ; effect ; outcome ; result ; event ; issue ; upshot 	 conséquence 	 medicine 
+ construct ; build ; make 	 bâtir 	 verb 
+ contend ; fight ; struggle 	 lutter 	 verb 
+ contest ; competition 	 concurrence 	 society 
+ continue ; go on ; proceed ; go along ; keep 	 continuer 	 verb 
+ contract 	 contrat 	 business 
+ control 	 maîtrise 	 abstract 
+ control ; command 	 contrôler 	 verb 
+ controversy ; contention ; contestation ; disputation ; disceptation ; tilt ; argument ; arguing 	 discussion 	 mathematics 
+ cook 	 cuisiner 	 verb 
+ cook 	 cuisinier 	 profession 
+ cook ; fix ; ready ; make ; prepare 	 cuisiner 	 verb 
+ cope ; get by ; make out ; make do ; contend ; grapple ; deal ; manage 	 faire face 	 verb 
+ copy 	 copie 	 object 
+ copy ; re-create 	 copier 	 verb 
+ correct ; right 	 correct 	 adjective 
+ cost 	 frais 	 society 
+ cotton 	 coton 	 material 
+ cotton ; cotton fiber ; cotton wool 	 coton 	 material 
+ cough 	 tousser 	 verb 
+ cough ; coughing 	 toux 	 medicine 
+ council 	 conseil 	 society 
+ country ; state ; land 	 pays 	 society 
+ couple ; pair ; twosome ; twain ; brace ; span ; yoke ; couplet ; distich ; duo ; duet ; dyad ; duad 	 couple 	 number 
+ course ; course of study ; course of instruction ; class 	 cours 	 education 
+ court ; tribunal ; judicature 	 tribunal 	 society 
+ cow ; moo-cow 	 vache 	 animal 
+ crack ; cleft ; crevice ; fissure ; scissure 	 fissure 	 abstract 
+ crime ; offense ; criminal offense ; criminal offence ; offence ; law-breaking 	 délit 	 society 
+ crude ; rough 	 grossier 	 adjective 
+ crush 	 écraser 	 verb 
+ cry ; outcry ; call ; yell ; shout ; vociferation 	 cri 	 communication 
+ cry ; weep 	 pleurer 	 verb 
+ culture ; civilization ; civilisation 	 culture 	 society 
+ cup 	 coupe 	 food 
+ cup ; loving cup 	 coupe 	 object 
+ cupboard ; closet 	 placard 	 house 
+ current 	 actuel 	 adjective 
+ current ; electric current 	 courant 	 nature 
+ current ; stream 	 courant 	 nature 
+ curtain ; drape ; drapery ; mantle ; pall 	 rideau 	 house 
+ curvature ; curve 	 courbure 	 mathematics 
+ curve ; curved shape 	 arc 	 art 
+ customer ; client 	 commettant 	 business 
+ cut 	 couper 	 verb 
+ cut ; cutting 	 coupure 	 abstract 
+ damage 	 endommager 	 verb 
+ damage ; harm ; impairment 	 sinistre 	 transport 
+ dance ; trip the light fantastic ; trip the light fantastic toe 	 danser 	 verb 
+ dance band ; band ; dance orchestra 	 orchestre 	 art 
+ danger 	 danger 	 abstract 
+ dangerous ; unsafe 	 dangereux 	 adjective 
+ dark 	 foncé 	 adjective 
+ data ; information 	 données 	 communication 
+ date ; appointment ; engagement 	 rendez-vous 	 relations 
+ date ; day of the month 	 date 	 time 
+ daughter ; girl 	 fille 	 family 
+ day ; twenty-four hours ; twenty-four hour period ; 24-hour interval ; solar day ; mean solar day 	 journée 	 nature 
+ daze ; shock ; stupor 	 choc 	 abstract 
+ dead 	 crevé 	 adjective 
+ dead 	 mort 	 society 
+ death 	 mort 	 nature 
+ death ; decease ; expiry 	 déces 	 abstract 
+ decide ; make up one's mind ; determine 	 décider 	 verb 
+ decision ; determination ; conclusion 	 décision 	 communication 
+ decoration ; ornament ; ornamentation 	 ornement 	 object 
+ defense ; defence ; defense force ; defence force 	 défense 	 abstract 
+ degree 	 degré 	 linguistics 
+ degree ; grade ; level 	 niveau 	 linguistics 
+ delicate 	 délicat 	 adjective 
+ delicate ; fragile ; frail 	 fragile 	 adjective 
+ deliver 	 remettre 	 verb 
+ demeanor ; demeanour ; behavior ; behaviour ; conduct ; deportment 	 conduite 	 abstract 
+ democracy ; republic ; commonwealth 	 république 	 society 
+ department ; section 	 département 	 society 
+ deplorable ; distressing ; lamentable ; pitiful ; sad ; sorry 	 triste 	 adjective 
+ depository financial institution ; bank ; banking concern ; banking company 	 banque 	 city 
+ describe ; depict ; draw 	 décrire 	 verb 
+ design ; designing 	 projet 	 abstract 
+ design ; plan 	 concevoir 	 verb 
+ desire ; want 	 vouloir 	 verb 
+ desk 	 bureau 	 house 
+ despite 	 nonobstant 	 preposition 
+ destruction ; devastation 	 destruction 	 abstract 
+ detail ; particular ; item 	 détail 	 logistics 
+ detect ; observe ; find ; discover ; notice 	 trouver 	 verb 
+ develop 	 développer 	 verb 
+ development ; evolution 	 évolution 	 nature 
+ deviation ; divergence ; departure ; difference 	 écart 	 mathematics 
+ dictionary ; lexicon 	 dictionnaire 	 linguistics 
+ die ; decease ; perish ; go ; exit ; pass away ; expire ; pass ; kick the bucket ; cash in one's chips ; buy the farm ; conk ; give-up the ghost ; drop dead ; pop off ; choke ; croak ; snuff it 	 mourir 	 verb 
+ difference 	 différence 	 abstract 
+ different 	 différent 	 adjective 
+ difficult ; hard 	 dur 	 adjective 
+ difficulty 	 difficulté 	 abstract 
+ direction 	 direction 	 mathematics 
+ directly ; straight ; direct 	 directement 	 adverb 
+ director ; manager ; managing director 	 directeur 	 profession 
+ dirty ; dingy ; muddied ; muddy 	 sale 	 adjective 
+ dirty ; soiled ; unclean 	 sale 	 adjective 
+ discipline ; subject ; subject area ; subject field ; field ; field of study ; study ; bailiwick 	 discipline 	 linguistics 
+ discover ; find 	 découvrir 	 verb 
+ discovery ; find ; uncovering 	 découverte 	 society 
+ discussion ; give-and-take ; word 	 argument 	 communication 
+ disease 	 maladie 	 medicine 
+ displace ; fire ; give notice ; can ; dismiss ; give the axe ; send away ; sack ; force out ; give the sack ; terminate 	 licencier 	 verb 
+ distance 	 distance 	 mathematics 
+ diverse ; various 	 divers 	 adjective 
+ diverseness ; diversity ; multifariousness ; variety 	 diversité 	 art 
+ divide ; split ; split up ; separate ; dissever ; carve up 	 diviser 	 verb 
+ division ; partition ; partitioning ; segmentation ; sectionalization ; sectionalisation 	 partage 	 mathematics 
+ doctor ; doc ; physician ; MD ; Dr. ; medico 	 docteur 	 profession 
+ dog ; domestic dog ; Canis familiaris 	 chien 	 animal 
+ dominance ; ascendance ; ascendence ; ascendancy ; ascendency ; control 	 autorité 	 abstract 
+ dominion ; rule 	 domination 	 society 
+ door 	 porte 	 house 
+ doubt 	 douter 	 verb 
+ doubt ; uncertainty ; incertitude ; dubiety ; doubtfulness ; dubiousness 	 doute 	 communication 
+ down 	 bas 	 adjective 
+ down ; downwards ; downward ; downwardly 	 bas 	 adverb 
+ drawer 	 tiroir 	 house 
+ drink ; imbibe 	 boire 	 verb 
+ drive 	 conduire 	 verb 
+ drop ; drib ; driblet 	 goutte 	 object 
+ dry 	 sec 	 adjective 
+ dry ; dry out 	 essuyer 	 verb 
+ dry ; dry out 	 sécher 	 verb 
+ during 	 pendant 	 preposition 
+ dust 	 poussière 	 material 
+ duty 	 devoir 	 abstract 
+ dwelling ; home ; domicile ; abode ; habitation ; dwelling house 	 maison 	 house 
+ each 	 chacun 	 adjective 
+ ear 	 oreille 	 anatomy 
+ earlier ; before 	 avant 	 adverb 
+ early 	 prématuré 	 adjective 
+ early on ; early 	 tôt 	 adverb 
+ earth ; ground 	 terre 	 material 
+ east 	 est 	 adjective 
+ east ; due east ; eastward ; E 	 est 	 logistics 
+ easy 	 facile 	 adjective 
+ eat 	 manger 	 verb 
+ economic 	 économique 	 adjective 
+ economic ; economical 	 économe 	 adjective 
+ economy ; economic system 	 économie 	 business 
+ edge ; border 	 bord 	 mathematics 
+ education 	 formation 	 education 
+ education 	 éducation 	 society 
+ education ; instruction ; teaching ; pedagogy ; didactics ; educational activity 	 enseignement 	 education 
+ effort ; elbow grease ; exertion ; travail ; sweat 	 peine 	 abstract 
+ egg 	 oeuf 	 food 
+ eight ; 8 ; viii 	 huit 	 number 
+ eighteen ; 18 ; xviii 	 dix-huit 	 number 
+ eighth ; 8th 	 huitieme 	 number 
+ eighty ; 80 ; lxxx ; fourscore 	 quatre-vingts 	 number 
+ either 	 soit 	 adverb 
+ election 	 élection 	 mathematics 
+ electric ; electrical 	 électrique 	 adjective 
+ elementary ; simple ; uncomplicated ; unproblematic 	 simple 	 adjective 
+ elephant 	 éléphant 	 animal 
+ elevator ; lift 	 ascenseur 	 device 
+ eleven ; 11 ; xi 	 onze 	 number 
+ eleventh ; 11th 	 onzième 	 number 
+ embrace ; encompass ; comprehend ; cover 	 comprendre 	 verb 
+ encourage 	 animer 	 verb 
+ end ; stop ; finish ; terminate ; cease 	 terminer 	 verb 
+ end ; terminal 	 fin 	 abstract 
+ energy ; free energy 	 énergie 	 nature 
+ engine 	 moteur 	 device 
+ engineering ; engineering science ; applied science ; technology 	 technologie 	 abstract 
+ enhance ; heighten ; raise 	 intensifier 	 verb 
+ enjoy ; bask ; relish ; savor ; savour 	 aimer 	 verb 
+ enough ; plenty 	 assez 	 adverb 
+ enter ; come in ; get into ; get in ; go into ; go in ; move into 	 entrer 	 verb 
+ entertainment ; amusement 	 divertissement 	 art 
+ entirely ; exclusively ; solely ; alone ; only 	 seul 	 adverb 
+ entitle ; title 	 intituler 	 verb 
+ envelope 	 enveloppe 	 object 
+ environment 	 milieu 	 nature 
+ environment ; environs ; surroundings ; surround 	 alentours 	 nature 
+ equal 	 égal 	 adjective 
+ equally ; as ; every bit 	 comme 	 adverb 
+ erstwhile ; former ; old ; onetime ; one-time ; quondam ; sometime 	 ancien 	 adjective 
+ especial ; exceptional ; particular ; special 	 spécial 	 adjective 
+ establish ; found ; plant ; constitute ; institute 	 établir 	 verb 
+ estimate ; gauge ; approximate ; guess ; judge 	 estimer 	 verb 
+ even 	 pair 	 adjective 
+ even 	 voire 	 adverb 
+ even ; fifty-fifty 	 égal 	 adjective 
+ evening ; eve ; even ; eventide 	 soir 	 time 
+ event 	 événement 	 abstract 
+ event ; case 	 événement 	 abstract 
+ every 	 chacun 	 adjective 
+ everybody ; everyone 	 tout le monde 	 pronoun 
+ everything 	 tout 	 pronoun 
+ evidence 	 évidence 	 abstract 
+ examination ; exam ; test 	 examen 	 communication 
+ example ; illustration ; instance ; representative 	 exemple 	 communication 
+ exceed ; transcend ; overstep ; pass ; go past ; top 	 dépasser 	 verb 
+ excellent ; first-class ; fantabulous ; splendid 	 excellent 	 adjective 
+ exist ; be 	 exister 	 verb 
+ exit ; go out ; get out ; leave 	 laisser 	 verb 
+ expect ; look ; await ; wait 	 attendre 	 verb 
+ experience 	 expérience 	 society 
+ expert 	 expert 	 profession 
+ explain ; explicate 	 expliquer 	 verb 
+ express ; limited 	 express 	 transport 
+ express ; state 	 formuler 	 verb 
+ expression ; look ; aspect ; facial expression ; face 	 regard 	 communication 
+ eye ; oculus ; optic 	 oeil 	 anatomy 
+ fabric ; cloth ; material ; textile 	 étoffe 	 material 
+ face ; human face 	 visage 	 anatomy 
+ fact 	 fait 	 abstract 
+ factory ; mill ; manufacturing plant ; manufactory 	 usine 	 city 
+ fail ; neglect 	 manquer 	 verb 
+ fake ; false ; faux ; imitation ; simulated 	 faux 	 adjective 
+ fall 	 tomber 	 verb 
+ fall ; autumn 	 automne 	 nature 
+ false ; mistaken 	 faux 	 adjective 
+ family ; family unit 	 famille 	 family 
+ family ; household ; house ; home ; menage 	 famille 	 family 
+ far 	 loin 	 adjective 
+ farm 	 ferme 	 nature 
+ fast 	 rapide 	 logistics 
+ fat 	 gras 	 material 
+ fat 	 gros 	 adjective 
+ father ; male parent ; begetter 	 papa 	 family 
+ fatty ; fat 	 gros 	 adjective 
+ fear 	 craindre 	 verb 
+ fear ; fearfulness ; fright 	 peur 	 relations 
+ feather ; plume ; plumage 	 plume 	 object 
+ feature ; characteristic 	 caractéristique 	 abstract 
+ feel ; experience 	 éprouver 	 verb 
+ feel ; sense 	 sentir 	 verb 
+ feeling 	 sentiment 	 communication 
+ female 	 féminin 	 adjective 
+ female ; female person 	 femme 	 society 
+ few 	 peu 	 adjective 
+ fiddling ; footling ; lilliputian ; little ; niggling ; piddling ; piffling ; petty ; picayune ; trivial 	 petit 	 adjective 
+ field 	 terrain 	 nature 
+ fierce ; tearing ; vehement ; violent ; trigger-happy 	 violent 	 adjective 
+ fifteen ; 15 ; xv 	 quinze 	 number 
+ fifth ; 5th 	 cinquième 	 number 
+ fifty ; 50 ; l 	 cinquante 	 number 
+ fight ; fighting ; combat ; scrap 	 lutte 	 abstract 
+ fill ; fill up ; make full 	 emplir 	 verb 
+ film ; cinema ; celluloid 	 pellicule 	 object 
+ find ; regain 	 trouver 	 verb 
+ finger 	 doigt 	 anatomy 
+ finish ; destination ; goal 	 destination 	 abstract 
+ fire 	 feu 	 nature 
+ fire ; flame ; flaming 	 flamme 	 nature 
+ firm ; house ; business firm 	 maison 	 business 
+ firm ; solid 	 ferme 	 adjective 
+ first ; firstly ; foremost ; first of all ; first off 	 d'abord 	 adverb 
+ fiscal ; financial 	 financier 	 adjective 
+ fish 	 poisson 	 animal 
+ five ; 5 ; v 	 cinq 	 number 
+ fix ; prepare ; set up ; ready ; gear up ; set 	 préparer 	 verb 
+ fixed 	 déterminé 	 adjective 
+ flag 	 drapeau 	 object 
+ flat ; level ; plane 	 plan 	 adjective 
+ flight ; flying 	 vol 	 transport 
+ flim-flam ; play a joke on ; play tricks ; trick ; fob ; fox ; pull a fast one on ; play a trick on 	 attraper 	 verb 
+ floor ; flooring 	 sol 	 house 
+ floor ; level ; storey ; story 	 étage 	 house 
+ flower 	 fleur 	 nature 
+ flush ; level ; even out ; even 	 égaliser 	 verb 
+ fly 	 mouche 	 animal 
+ fly ; wing 	 voler 	 verb 
+ fold ; crease ; plication ; flexure ; crimp ; bend 	 pli 	 object 
+ follow 	 suivre 	 verb 
+ following ; next 	 suivant 	 adjective 
+ food ; nutrient 	 nourriture 	 food 
+ foot ; human foot ; pes 	 pied 	 anatomy 
+ football ; football game 	 football 	 sports 
+ footing ; basis ; ground 	 base 	 mathematics 
+ footstep ; pace ; step ; stride 	 pas 	 mathematics 
+ for 	 car 	 conjunction 
+ force ; forcefulness ; strength 	 force 	 abstract 
+ foreign ; strange 	 étranger 	 adjective 
+ forest ; wood ; woods 	 forêt 	 nature 
+ forget 	 oublier 	 verb 
+ forgive 	 pardonner 	 verb 
+ fork 	 fourchette 	 food 
+ form 	 questionnaire 	 society 
+ form ; shape ; cast 	 forme 	 art 
+ forty ; 40 ; xl ; twoscore 	 quarante 	 number 
+ forward ; forwards ; frontward ; frontwards ; forrad ; forrard 	 avant 	 adverb 
+ four ; 4 ; iv 	 quatre 	 number 
+ fourteen ; 14 ; xiv 	 quatorze 	 number 
+ fourth ; 4th ; quaternary 	 quatrième 	 number 
+ fourth dimension ; time 	 temps 	 physics 
+ frame 	 cadre 	 object 
+ free 	 libre 	 adjective 
+ free ; liberate ; release ; unloose ; unloosen ; loose 	 dégager 	 verb 
+ frequent 	 fréquent 	 adjective 
+ frequently ; often ; oftentimes ; oft ; ofttimes 	 souvent 	 adverb 
+ fresh 	 frais 	 adjective 
+ friend 	 copain 	 family 
+ friendly 	 amical 	 adjective 
+ front 	 premier 	 adjective 
+ front ; front end ; forepart 	 avant 	 abstract 
+ fruit 	 fruit 	 food 
+ full 	 plein 	 adjective 
+ full ; total 	 complet 	 adjective 
+ fume ; smoke 	 fumer 	 verb 
+ function ; office ; part ; role 	 fonction 	 mathematics 
+ function ; purpose ; role ; use 	 fonction 	 linguistics 
+ function ; work ; operate ; go ; run 	 travailler 	 verb 
+ furniture ; piece of furniture ; article of furniture 	 mobilier 	 house 
+ further ; farther 	 plus 	 adjective 
+ future 	 futur 	 adjective 
+ future ; hereafter ; futurity ; time to come 	 futur 	 time 
+ gamble ; chance ; risk ; hazard ; take chances ; adventure ; run a risk ; take a chance 	 risquer 	 verb 
+ game 	 jeu 	 mathematics 
+ game 	 jeu 	 sports 
+ garage 	 dépôt 	 transport 
+ garden 	 jardin 	 house 
+ gate 	 barrière 	 house 
+ gene ; cistron ; factor 	 gène 	 anatomy 
+ general 	 général 	 adjective 
+ general ; full general 	 général 	 profession 
+ get ; acquire 	 attraper 	 verb 
+ get down ; begin ; get ; start out ; start ; set about ; set out ; commence 	 débuter 	 verb 
+ girl ; miss ; missy ; young lady ; young woman ; fille 	 mademoiselle 	 family 
+ girlfriend ; girl ; lady friend 	 copine 	 family 
+ give 	 donner 	 verb 
+ glass 	 verre 	 material 
+ glass ; drinking glass 	 verre 	 food 
+ glue ; gum ; mucilage 	 colle 	 material 
+ glue ; paste 	 coller 	 verb 
+ gluey ; glutinous ; gummy ; mucilaginous ; pasty ; sticky ; viscid ; viscous 	 collant 	 adjective 
+ goal 	 but 	 sports 
+ goat ; caprine animal 	 chèvre 	 animal 
+ gold ; Au ; atomic number 79 	 or 	 material 
+ golf ; golf game 	 golf 	 travelling 
+ good 	 bon 	 adjective 
+ good ; goodness 	 bien 	 abstract 
+ good ; just ; upright 	 probe 	 adjective 
+ good ; sound 	 sain 	 adjective 
+ good ; well 	 bon 	 adjective 
+ govern ; rule 	 gouverner 	 verb 
+ government ; authorities ; regime 	 gouvernement 	 society 
+ gradient ; slope 	 pente 	 mathematics 
+ grain 	 grain 	 material 
+ grandfather ; gramps ; granddad ; grandad ; granddaddy ; grandpa 	 grand-père 	 family 
+ grass 	 herbe 	 nature 
+ gray ; grayness ; grey ; greyness 	 gris 	 color 
+ great 	 grand 	 adjective 
+ green ; greenish ; light-green ; dark-green 	 vert 	 color 
+ grey ; gray ; greyish ; grayish 	 gris 	 adjective 
+ group ; grouping 	 groupe 	 abstract 
+ grow 	 croître 	 verb 
+ guest ; invitee 	 hôte 	 travelling 
+ guitar 	 guitare 	 object 
+ gun 	 fusil 	 object 
+ hair 	 cheveux 	 anatomy 
+ hair ; pilus 	 cheveux 	 anatomy 
+ hammer 	 marteau 	 object 
+ hand ; manus ; mitt ; paw 	 main 	 anatomy 
+ handle ; grip ; handgrip ; hold 	 oreille 	 object 
+ hapless ; miserable ; misfortunate ; pathetic ; piteous ; pitiable ; pitiful ; poor ; wretched 	 pauvre 	 adjective 
+ happen ; hap ; go on ; pass off ; occur ; pass ; fall out ; come about ; take place 	 arriver 	 verb 
+ happy 	 heureux 	 adjective 
+ hash out ; discuss ; talk over 	 discuter 	 verb 
+ hat ; chapeau ; lid 	 chapeau 	 clothes 
+ hate ; detest 	 mépriser 	 verb 
+ hate ; hatred 	 haine 	 relations 
+ hateful ; mean 	 misérable 	 adjective 
+ have ; have got ; hold 	 avoir 	 verb 
+ hazard ; jeopardy ; peril ; risk ; endangerment 	 aléa 	 transport 
+ he 	 lui 	 pronoun 
+ head ; caput 	 tête 	 anatomy 
+ head ; chief ; top dog 	 chef 	 society 
+ health 	 santé 	 abstract 
+ health ; wellness 	 santé 	 medicine 
+ healthy ; salubrious ; good for you 	 salubre 	 adjective 
+ hear 	 entendre 	 verb 
+ heart ; pump ; ticker 	 coeur 	 anatomy 
+ heavy 	 lourd 	 adjective 
+ heed ; mind ; listen 	 attention 	 verb 
+ hello ; hullo ; hi ; howdy ; how-do-you-do 	 salut 	 linguistics 
+ help ; assist ; aid 	 soulager 	 verb 
+ her 	 son 	 pronoun 
+ here 	 ici 	 adverb 
+ here ; hither 	 ici 	 adverb 
+ herself 	 se 	 pronoun 
+ hill 	 colline 	 nature 
+ him 	 le 	 pronoun 
+ himself 	 se 	 pronoun 
+ his 	 sa 	 pronoun 
+ historic period ; age 	 âge 	 time 
+ history 	 histoire 	 society 
+ hit ; hitting ; striking 	 coup 	 abstract 
+ hit ; smash ; smasher ; strike ; bang 	 succès 	 art 
+ hog ; pig ; grunter ; squealer ; Sus scrofa 	 porc 	 animal 
+ hold ; take hold 	 tenir 	 verb 
+ hole 	 trou 	 abstract 
+ home ; place 	 foyer 	 house 
+ homo ; man ; human being ; human 	 homme 	 family 
+ hook ; claw 	 agrafe 	 object 
+ hope 	 espérer 	 verb 
+ horse ; Equus caballus 	 cheval 	 animal 
+ hospital ; infirmary 	 hôpital 	 city 
+ hot 	 chaud 	 adjective 
+ hotel 	 hôtel 	 city 
+ hotness ; heat ; high temperature 	 chaleur 	 medicine 
+ hour ; hr ; 60 minutes 	 heure 	 time 
+ house 	 maison 	 house 
+ however ; nevertheless ; withal ; still ; yet ; all the same ; even so ; nonetheless ; notwithstanding 	 cependant 	 adverb 
+ human 	 humain 	 adjective 
+ humor ; humour ; sense of humor ; sense of humour 	 humour 	 communication 
+ hundred ; one hundred ; 100 ; c 	 cent 	 number 
+ hungry 	 affamé 	 adjective 
+ hurt ; injure 	 blesser 	 verb 
+ husband ; hubby ; married man 	 mari 	 family 
+ ice 	 glace 	 nature 
+ ice ; water ice 	 glace 	 material 
+ idea ; thought 	 pensée 	 communication 
+ identify ; place 	 identifier 	 verb 
+ if 	 si 	 conjunction 
+ ill ; sick 	 malade 	 adjective 
+ image 	 image 	 art 
+ imitate ; copy ; simulate 	 imiter 	 verb 
+ immediately ; instantly ; straightaway ; straight off ; directly ; now ; right away ; at once ; forthwith ; like a shot 	 immédiatement 	 adverb 
+ impatient 	 impatient 	 adjective 
+ imperial ; majestic ; purple ; regal ; royal 	 royal 	 adjective 
+ imply ; involve 	 impliquer 	 verb 
+ in ; inwards ; inward 	 dans 	 adverb 
+ include 	 comprendre 	 verb 
+ income 	 revenu 	 business 
+ incorporate ; contain ; comprise 	 rétention 	 verb 
+ incorrect ; wrong 	 mal 	 adjective 
+ increase 	 augmenter 	 verb 
+ increase ; increment 	 augmentation 	 abstract 
+ increase ; increment ; growth 	 agrandissement 	 abstract 
+ indeed ; so 	 vraiment 	 adverb 
+ individual 	 individu 	 society 
+ individual ; private 	 individuel 	 adjective 
+ induce ; stimulate ; cause ; have ; get ; make 	 pousser 	 verb 
+ industrial 	 industriel 	 adjective 
+ industry ; manufacture 	 industrie 	 society 
+ infinitesimal ; minute 	 minuscule 	 adjective 
+ information 	 information 	 communication 
+ information ; info 	 information 	 communication 
+ injure ; wound 	 blesser 	 verb 
+ ink 	 encre 	 material 
+ inquiry ; enquiry ; research 	 investigation 	 abstract 
+ insect 	 insecte 	 animal 
+ inside ; within 	 à 	 adverb 
+ institution ; establishment 	 institution 	 society 
+ instrument 	 instrument 	 device 
+ insurance 	 assurance 	 business 
+ intelligent 	 habile 	 adjective 
+ intend ; mean ; think 	 entendre 	 verb 
+ interest 	 intérêt 	 business 
+ interest ; involvement 	 intérêt 	 communication 
+ interesting 	 intéressant 	 adjective 
+ international 	 international 	 adjective 
+ internet ; net ; cyberspace 	 internet 	 mathematics 
+ interview 	 interview 	 communication 
+ into 	 dans 	 preposition 
+ introduce ; innovate 	 présenter 	 verb 
+ introduce ; present ; acquaint 	 présenter 	 verb 
+ invention ; innovation ; excogitation ; conception ; design 	 invention 	 art 
+ iron ; Fe ; atomic number 26 	 fer 	 material 
+ island 	 île 	 nature 
+ issue 	 question 	 communication 
+ issue ; number 	 numéro 	 mathematics 
+ it 	 ça 	 pronoun 
+ its 	 sa 	 pronoun 
+ jacket 	 veste 	 clothes 
+ jewel ; gem ; precious stone 	 bijou 	 object 
+ job ; task ; chore 	 travail 	 business 
+ join ; bring together 	 joindre 	 verb 
+ jolt ; jar ; jounce ; shock 	 secousse 	 transport 
+ journalist 	 journaliste 	 profession 
+ journey ; journeying 	 trajet 	 transport 
+ judge ; justice ; jurist 	 juge 	 profession 
+ jump ; leap ; bound ; spring 	 sauter 	 verb 
+ keep ; maintain ; hold 	 tenir 	 verb 
+ kernel ; substance ; core ; center ; centre ; essence ; gist ; heart ; heart and soul ; inwardness ; marrow ; meat ; nub ; pith ; sum ; nitty-gritty 	 essence 	 abstract 
+ key 	 clé 	 house 
+ key 	 touche 	 object 
+ kick 	 coup de pied 	 verb 
+ kick ; boot ; kicking 	 coup de pied 	 abstract 
+ kill 	 éliminer 	 verb 
+ kind 	 gentil 	 adjective 
+ kind ; sort ; form ; variety 	 sorte 	 abstract 
+ king ; male monarch ; Rex 	 roi 	 society 
+ kiss ; buss ; osculation 	 baiser 	 relations 
+ kitchen 	 cuisine 	 house 
+ knee ; knee joint ; human knee ; articulatio genus ; genu 	 genou 	 anatomy 
+ knife 	 couteau 	 food 
+ knot 	 noeud 	 object 
+ know ; cognize ; cognise 	 savoir 	 verb 
+ laid ; set 	 déterminé 	 adjective 
+ lake 	 lac 	 nature 
+ land ; dry land ; earth ; ground ; solid ground ; terra firma 	 terre 	 nature 
+ land ; ground ; soil 	 sol 	 material 
+ land ; set down 	 atterrir 	 verb 
+ language ; linguistic communication 	 langage 	 communication 
+ large ; big 	 grand 	 adjective 
+ last 	 dernier 	 adjective 
+ last ; lastly ; in conclusion ; finally 	 dernier 	 adverb 
+ late 	 tard 	 adjective 
+ late ; belatedly ; tardily 	 tard 	 adverb 
+ laugh ; express joy ; express mirth 	 rire 	 verb 
+ law 	 loi 	 society 
+ lead ; Pb ; atomic number 82 	 plomb 	 material 
+ lead ; take ; direct ; conduct ; guide 	 conduire 	 verb 
+ leader 	 chef 	 society 
+ leaf ; leafage ; foliage 	 feuille 	 nature 
+ leap ; jump ; saltation 	 saut 	 abstract 
+ learn ; larn ; acquire 	 étudier 	 verb 
+ least ; to the lowest degree 	 le moins 	 adverb 
+ leather 	 cuir 	 material 
+ leave 	 laisser 	 verb 
+ leave ; leave of absence 	 congé 	 society 
+ left 	 gauche 	 adjective 
+ leg 	 jambe 	 anatomy 
+ legal 	 légal 	 adjective 
+ less 	 moins 	 adjective 
+ let 	 laisser 	 verb 
+ let ; allow ; permit 	 permettre 	 verb 
+ letter ; letter of the alphabet ; alphabetic character 	 lettre 	 linguistics 
+ letter ; missive 	 lettre 	 object 
+ library 	 bibliothèque 	 city 
+ lie 	 mentir 	 verb 
+ lie 	 reposer 	 verb 
+ lie ; prevarication 	 mensonge 	 communication 
+ life 	 vie 	 nature 
+ life 	 vie 	 time 
+ light 	 léger 	 adjective 
+ light ; visible light ; visible radiation 	 lumière 	 nature 
+ like 	 aimer 	 verb 
+ limit ; bound ; boundary 	 limite 	 mathematics 
+ line 	 ligne 	 mathematics 
+ lion ; king of beasts ; Panthera leo 	 lion 	 animal 
+ lip 	 lèvre 	 anatomy 
+ liquid 	 liquide 	 adjective 
+ liquid 	 liquide 	 nature 
+ list ; listing 	 liste 	 abstract 
+ listen ; hear ; take heed 	 ausculter 	 verb 
+ little 	 peu 	 adverb 
+ load ; charge 	 charger 	 verb 
+ local 	 local 	 adjective 
+ lock 	 fermer 	 verb 
+ lock 	 serrure 	 house 
+ long 	 long 	 adjective 
+ look 	 regarder 	 verb 
+ look ; appear ; seem 	 paraître 	 verb 
+ lookout ; lookout man ; sentinel ; sentry ; watch ; spotter ; scout ; picket 	 sentinelle 	 profession 
+ lose 	 perdre 	 verb 
+ lose 	 perdre 	 verb 
+ loss 	 perte 	 business 
+ loud 	 fort 	 adjective 
+ love 	 aimer 	 verb 
+ love 	 passion 	 relations 
+ low 	 bas 	 adjective 
+ low ; depression 	 dépression 	 nature 
+ lucky 	 chanceux 	 adjective 
+ lunch ; luncheon ; tiffin ; dejeuner 	 déjeuner 	 food 
+ machine 	 machine 	 device 
+ magazine ; mag 	 revue 	 object 
+ mail ; mail service ; postal service ; post 	 poste 	 communication 
+ mail ; post ; send 	 poster 	 verb 
+ major 	 majeur 	 adjective 
+ majority ; bulk 	 majorité 	 abstract 
+ make ; create 	 faire 	 verb 
+ make ; do 	 rendre 	 verb 
+ male 	 mâle 	 adjective 
+ male ; male person 	 mâle 	 society 
+ male ; manful ; manlike ; manly ; virile 	 mâle 	 adjective 
+ male child ; boy 	 garçon 	 family 
+ man ; adult male 	 homme 	 family 
+ manage ; deal ; care ; handle 	 administrer 	 verb 
+ management 	 direction 	 business 
+ management ; direction 	 direction 	 society 
+ manner ; mode ; style ; way ; fashion 	 manière 	 mathematics 
+ many 	 beaucoup 	 adjective 
+ map 	 carte 	 object 
+ mark ; grade ; score 	 note 	 education 
+ marker ; marking ; mark 	 marque 	 abstract 
+ market ; marketplace ; market place 	 marché 	 business 
+ marriage ; matrimony ; union ; spousal relationship ; wedlock 	 mariage 	 society 
+ marriage ; wedding ; marriage ceremony 	 mariage 	 family 
+ married 	 marié 	 adjective 
+ marry ; get married ; wed ; conjoin ; hook up with ; get hitched with ; espouse 	 épouser 	 verb 
+ mass 	 masse 	 physics 
+ master ; master copy ; original 	 original 	 object 
+ match 	 partie 	 sports 
+ match ; fit ; correspond ; check ; jibe ; gibe ; tally ; agree 	 aller 	 verb 
+ match ; lucifer ; friction match 	 allumette 	 object 
+ material 	 matériel 	 adjective 
+ material ; stuff 	 matériau 	 material 
+ matter 	 matière 	 material 
+ matter ; affair ; thing 	 occupation 	 abstract 
+ me 	 me 	 pronoun 
+ meal ; repast 	 repas 	 food 
+ mean ; intend 	 projeter 	 verb 
+ mean ; mean value 	 milieu 	 mathematics 
+ meaning ; pregnant ; significant 	 important 	 adjective 
+ means ; agency ; way 	 manière 	 abstract 
+ measure ; mensurate ; measure out 	 mesurer 	 verb 
+ measure ; step 	 mesure 	 abstract 
+ measurement ; measuring ; measure ; mensuration 	 mesurage 	 art 
+ meat 	 viande 	 food 
+ medical 	 médical 	 adjective 
+ meet ; run into ; encounter ; run across ; come across ; see 	 rencontrer 	 verb 
+ meeting ; coming together 	 rencontre 	 communication 
+ member ; fellow member 	 membre 	 society 
+ memory 	 mémoire 	 communication 
+ memory ; retention ; retentiveness ; retentivity 	 mémoire 	 communication 
+ menstruation ; menses ; menstruum ; catamenia ; period ; flow 	 menstruation 	 medicine 
+ mention ; advert ; bring up ; cite ; name ; refer 	 citer 	 verb 
+ menu ; bill of fare ; card ; carte du jour ; carte 	 menu 	 object 
+ merely ; simply ; just ; only ; but 	 seulement 	 adverb 
+ metallic ; metal 	 métallique 	 adjective 
+ metallic element ; metal 	 métal 	 material 
+ method 	 méthode 	 mathematics 
+ metro ; tube ; underground ; subway system ; subway 	 métro 	 transport 
+ midnight 	 minuit 	 time 
+ might ; mightiness ; power 	 force 	 abstract 
+ military 	 militaire 	 adjective 
+ military ; armed forces ; armed services ; military machine ; war machine 	 armée 	 society 
+ milk 	 lait 	 food 
+ milkshake ; milk shake ; shake 	 milk-shake 	 food 
+ million ; 1000000 ; one thousand thousand ; meg 	 million 	 number 
+ mind ; head ; brain ; psyche ; nous 	 esprit 	 mathematics 
+ mine 	 mine 	 object 
+ minister ; government minister 	 ministre 	 profession 
+ minor ; modest ; small ; small-scale ; pocket-size ; pocket-sized 	 modeste 	 adjective 
+ minute ; min 	 minute 	 time 
+ mirror 	 miroir 	 house 
+ miss 	 manquer 	 verb 
+ miss 	 manquer 	 verb 
+ mistake ; error ; fault 	 erreur 	 communication 
+ mod ; modern ; modernistic 	 moderne 	 adjective 
+ model 	 patron 	 object 
+ modern 	 moderne 	 adjective 
+ moisture ; wet 	 humidité 	 nature 
+ moment ; minute ; second ; instant 	 instant 	 mathematics 
+ moment ; mo ; minute ; second ; bit 	 moment 	 time 
+ money 	 argent 	 business 
+ monkey 	 singe 	 animal 
+ month 	 mois 	 transport 
+ more ; more than 	 plus 	 adjective 
+ morning ; morn ; morning time ; forenoon 	 matin 	 time 
+ mother ; female parent 	 maman 	 family 
+ motion ; movement ; move ; motility 	 mouvement 	 physics 
+ mountain ; mount 	 montagne 	 nature 
+ mouth ; oral cavity ; oral fissure ; rima oris 	 bouche 	 anatomy 
+ move ; displace 	 bouger 	 verb 
+ movement ; motion 	 mouvement 	 physics 
+ movie ; film ; picture ; moving picture ; moving-picture show ; motion picture ; motion-picture show ; picture show ; pic ; flick 	 pellicule 	 art 
+ much 	 beaucoup 	 adjective 
+ muscle ; musculus 	 muscle 	 anatomy 
+ museum 	 musée 	 city 
+ music 	 musique 	 art 
+ musician ; instrumentalist ; player 	 musicien 	 profession 
+ my 	 mon 	 pronoun 
+ nail 	 clou 	 object 
+ nail 	 ongle 	 anatomy 
+ name 	 nom 	 linguistics 
+ name ; call 	 nommer 	 verb 
+ narrow 	 étroit 	 adjective 
+ nation ; land ; country 	 nation 	 society 
+ national 	 national 	 adjective 
+ national 	 national 	 adjective 
+ natural 	 naturel 	 adjective 
+ natural language ; tongue 	 langue 	 linguistics 
+ nature 	 nature 	 nature 
+ near ; close ; nigh 	 proche 	 adjective 
+ necessary 	 nécessaire 	 adjective 
+ necessitate ; ask ; postulate ; need ; require ; take ; involve ; call for ; demand 	 avoir besoin 	 verb 
+ neck ; cervix 	 cou 	 anatomy 
+ necktie ; tie 	 cravate 	 clothes 
+ need ; demand 	 besoin 	 abstract 
+ needle 	 aiguille 	 medicine 
+ neighbor ; neighbour 	 voisin 	 family 
+ nerve ; nervus 	 nerf 	 anatomy 
+ net ; network ; mesh ; meshing ; meshwork 	 filet 	 material 
+ net income ; net ; net profit ; lucre ; profit ; profits ; earnings 	 gain 	 business 
+ nether ; under 	 au-dessous 	 adjective 
+ never 	 jamais 	 adverb 
+ new 	 neuf 	 adjective 
+ news ; intelligence ; tidings ; word 	 nouvelles 	 society 
+ newspaper ; paper 	 journal 	 object 
+ nice 	 gentil 	 adjective 
+ night ; nighttime ; dark 	 nuit 	 nature 
+ nine ; 9 ; ix 	 neuf 	 number 
+ nineteen ; 19 ; xix 	 dix-neuf 	 number 
+ ninety ; 90 ; xc 	 quatre-vingt-dix 	 number 
+ ninth ; 9th 	 neuvième 	 number 
+ no 	 aucun 	 adjective 
+ no 	 non 	 abstract 
+ noise ; dissonance ; racket 	 bruit 	 society 
+ normal 	 normal 	 adjective 
+ normally ; usually ; unremarkably ; commonly ; ordinarily 	 normalement 	 adverb 
+ north 	 nord 	 adjective 
+ north ; due north ; northward ; N 	 nord 	 logistics 
+ nose ; olfactory organ 	 nez 	 anatomy 
+ not ; non 	 non 	 adverb 
+ note ; annotation ; notation 	 note 	 communication 
+ note ; musical note ; tone 	 note 	 art 
+ nothing ; nil ; nix ; nada ; null ; aught ; cipher ; cypher ; goose egg ; naught ; zero ; zilch ; zip ; zippo 	 rien 	 mathematics 
+ now 	 maintenant 	 time 
+ now ; at present 	 actuellement 	 adverb 
+ number 	 compter 	 verb 
+ number 	 nombre 	 linguistics 
+ nurse 	 infirmière 	 profession 
+ nut 	 fruit sec 	 food 
+ nut 	 écrou 	 object 
+ obtain 	 obtenir 	 verb 
+ obviously ; evidently ; manifestly ; patently ; apparently ; plainly ; plain 	 manifestement 	 adverb 
+ occupation ; business ; job ; line of work ; line 	 occupation 	 business 
+ of 	 de 	 preposition 
+ offer 	 offrir 	 verb 
+ offer ; offering 	 offre 	 abstract 
+ office ; business office 	 bureau 	 business 
+ officeholder ; officer 	 fonctionnaire 	 profession 
+ oil 	 huile 	 material 
+ old 	 vieux 	 adjective 
+ olfactory property ; smell ; aroma ; odor ; odour ; scent 	 odeur 	 nature 
+ on 	 à 	 preposition 
+ once ; one time ; in one case 	 autrefois 	 adverb 
+ one ; 1 ; i ; ane 	 un 	 number 
+ one-half ; half 	 moitié 	 mathematics 
+ open ; open up 	 ouvrir 	 verb 
+ open ; opened 	 ouvert 	 adjective 
+ open ; unfastened 	 ouvert 	 adjective 
+ open fire ; fire 	 tirer 	 verb 
+ operate ; control 	 manoeuvrer 	 verb 
+ operation 	 opération 	 abstract 
+ operation ; functioning ; performance 	 fonctionnement 	 mathematics 
+ operation ; surgery ; surgical operation ; surgical procedure ; surgical process 	 opération 	 medicine 
+ opinion ; sentiment ; persuasion ; view ; thought 	 avis 	 communication 
+ opportunity ; chance 	 occasion 	 abstract 
+ opposite 	 opposé 	 adjective 
+ option ; alternative ; choice 	 alternative 	 abstract 
+ or 	 ou 	 conjunction 
+ orange 	 orange 	 food 
+ orange ; orangish 	 orange 	 color 
+ orchestra 	 orchestre 	 art 
+ order 	 ordre 	 linguistics 
+ order 	 ordre 	 society 
+ order ; monastic order 	 ordre 	 society 
+ order ; tell ; enjoin ; say 	 ordonner 	 verb 
+ organization ; organisation 	 organisation 	 society 
+ original 	 original 	 adjective 
+ other 	 autre 	 adjective 
+ our 	 nous 	 pronoun 
+ outburst ; burst ; flare-up 	 salve 	 abstract 
+ outside 	 dehors 	 adverb 
+ outside ; exterior 	 extérieur 	 mathematics 
+ oven 	 four 	 device 
+ own ; ain 	 propre 	 adjective 
+ own ; have ; possess 	 avoir 	 verb 
+ owner ; possessor 	 possesseur 	 business 
+ package ; bundle ; packet ; parcel 	 paquet 	 object 
+ page 	 page 	 object 
+ pain ; hurting 	 douleur 	 medicine 
+ paint ; pigment 	 peinture 	 art 
+ painting ; picture 	 tableau 	 art 
+ paper 	 papier 	 material 
+ parallel 	 parallèle 	 adjective 
+ parent 	 parent 	 family 
+ park ; commons ; common ; green 	 parc 	 city 
+ part ; portion ; component part ; component ; constituent 	 partie 	 abstract 
+ part ; section ; division 	 secteur 	 mathematics 
+ particular 	 particulier 	 adjective 
+ particularly ; peculiarly ; especially ; specially 	 particulièrement 	 adverb 
+ party 	 partie 	 society 
+ pass ; hand ; reach ; pass on ; turn over ; give 	 remettre 	 verb 
+ passenger ; rider 	 passager 	 transport 
+ passport 	 passeport 	 object 
+ past 	 passé 	 adjective 
+ past ; past times ; yesteryear 	 dernier 	 time 
+ patient 	 patient 	 adjective 
+ patient 	 patient 	 medicine 
+ pause ; intermission ; break ; interruption ; suspension 	 pause 	 time 
+ pay 	 payer 	 verb 
+ payment 	 paiement 	 business 
+ peace 	 paix 	 abstract 
+ pen 	 plume 	 object 
+ pencil 	 crayon 	 object 
+ people 	 gens 	 society 
+ percentage ; percent ; per centum ; pct 	 pourcentage 	 mathematics 
+ person ; individual ; someone ; somebody ; mortal ; soul 	 personne 	 family 
+ personal 	 personnel 	 adjective 
+ personality 	 caractère 	 abstract 
+ petroleum ; crude oil ; crude ; rock oil ; fossil oil ; oil 	 pétrole 	 material 
+ phase ; stage 	 étape 	 time 
+ photographer ; lensman 	 photographe 	 profession 
+ physical 	 physique 	 adjective 
+ physical 	 physique 	 adjective 
+ picture ; image ; icon ; ikon 	 image 	 art 
+ piece 	 morceau 	 object 
+ pilot ; airplane pilot 	 pilote 	 profession 
+ pin 	 épingle 	 object 
+ pink ; pinkish 	 rose 	 color 
+ pipe ; pipage ; piping 	 tuyauterie 	 object 
+ pivot ; pin 	 pivot 	 object 
+ plain ; field ; champaign 	 plaine 	 nature 
+ plan 	 organiser 	 verb 
+ plan ; program ; programme 	 plan 	 abstract 
+ plant ; flora ; plant life 	 plante 	 house 
+ plant ; works ; industrial plant 	 usine 	 city 
+ plate 	 assiette 	 food 
+ play 	 jouer 	 verb 
+ player ; participant 	 joueur 	 sports 
+ pleasure ; pleasance 	 plaisir 	 abstract 
+ plow ; plough ; turn 	 labourer 	 verb 
+ poem ; verse form 	 poème 	 art 
+ poetry ; poesy ; verse 	 poésie 	 art 
+ point ; dot 	 point 	 linguistics 
+ poison 	 empoisonner 	 verb 
+ poison ; toxicant ; poisonous substance 	 venin 	 material 
+ police ; police force ; constabulary ; law 	 police 	 society 
+ policeman ; police officer ; officer 	 policier 	 profession 
+ policy 	 politique 	 society 
+ polish ; smooth ; smoothen ; shine 	 cirer 	 verb 
+ political 	 politique 	 adjective 
+ politician ; politico ; pol ; political leader 	 politicien 	 profession 
+ poor 	 indigent 	 adjective 
+ populace ; public ; world 	 peuple 	 society 
+ popular 	 populaire 	 adjective 
+ popular ; pop 	 populaire 	 adjective 
+ population 	 population 	 society 
+ position ; place 	 poste 	 linguistics 
+ possible 	 possible 	 adjective 
+ possibly ; perchance ; perhaps ; maybe ; mayhap ; peradventure 	 peut-être 	 adverb 
+ postage ; postage stamp ; stamp 	 port 	 object 
+ potato ; white potato ; Irish potato ; murphy ; spud ; tater 	 pomme de terre 	 food 
+ potent ; strong ; stiff 	 puissant 	 adjective 
+ powder ; pulverization ; pulverisation 	 poussière 	 material 
+ power ; powerfulness 	 faculté 	 abstract 
+ practice 	 clientèle 	 art 
+ practice ; practise ; exercise ; do 	 exercer 	 verb 
+ precisely ; exactly ; just 	 exactement 	 adverb 
+ preferably ; sooner ; rather 	 plutôt 	 adverb 
+ present 	 présent 	 adjective 
+ present 	 présent 	 object 
+ present ; nowadays 	 présent 	 time 
+ president 	 président 	 profession 
+ press 	 presser 	 verb 
+ pressure ; pressure level ; force per unit area 	 pression 	 nature 
+ prevent ; forestall ; foreclose ; preclude ; forbid 	 empêcher 	 verb 
+ previous ; old 	 précédent 	 adjective 
+ price 	 prix 	 transport 
+ price 	 évaluer 	 verb 
+ price ; cost ; toll 	 prix 	 business 
+ price ; terms ; damage 	 prix 	 transport 
+ principle ; rule 	 principe 	 linguistics 
+ print ; impress 	 imprimer 	 verb 
+ prison ; prison house 	 prison 	 city 
+ private 	 privé 	 adjective 
+ probable ; likely 	 possible 	 adjective 
+ probably ; likely ; in all likelihood ; in all probability ; belike 	 vraisemblablement 	 adverb 
+ problem ; job 	 problème 	 mathematics 
+ procedure ; process 	 méthode 	 mathematics 
+ process ; physical process 	 processus 	 nature 
+ process ; treat 	 traiter 	 verb 
+ produce ; make ; create 	 produire 	 verb 
+ product ; production 	 produit 	 object 
+ production 	 production 	 abstract 
+ professional 	 professionnel 	 adjective 
+ professional ; professional person 	 professionnel 	 profession 
+ profit ; turn a profit 	 profit 	 verb 
+ program ; programme ; computer program ; computer programme 	 programme 	 abstract 
+ project ; projection 	 projet 	 abstract 
+ promise ; hope 	 espoir 	 relations 
+ pronunciation 	 prononciation 	 linguistics 
+ property 	 propriété 	 abstract 
+ property ; belongings ; holding 	 propriété 	 society 
+ proposal 	 proposition 	 abstract 
+ propose ; suggest ; advise 	 suggérer 	 verb 
+ protest 	 protester 	 verb 
+ protest ; protestation 	 objection 	 communication 
+ prototype ; paradigm ; epitome ; image 	 prototype 	 linguistics 
+ public 	 public 	 travelling 
+ publish ; bring out ; put out ; issue ; release 	 promulguer 	 verb 
+ pull ; draw ; force 	 tirer 	 verb 
+ pump 	 pompe 	 device 
+ pump 	 pomper 	 verb 
+ punishment ; penalty ; penalization ; penalisation 	 châtiment 	 society 
+ purple ; violet ; purplish 	 violet 	 color 
+ push ; force 	 pousser 	 verb 
+ push button ; push ; button 	 bouton 	 object 
+ put ; set ; place ; pose ; position ; lay 	 pondre 	 verb 
+ quality 	 qualité 	 abstract 
+ quality ; character ; lineament 	 caractère 	 abstract 
+ question ; inquiry ; enquiry ; query ; interrogation 	 question 	 linguistics 
+ quickly ; rapidly ; speedily ; chop-chop ; apace 	 vite 	 adverb 
+ quiet 	 tranquille 	 adjective 
+ quite ; rather 	 suffisamment 	 adverb 
+ rain ; pelting 	 pluie 	 nature 
+ rain ; rain down 	 pleuvoir 	 verb 
+ rain ; rainfall 	 pluie 	 nature 
+ raise ; lift ; elevate ; get up ; bring up 	 lever 	 verb 
+ rate ; charge per unit 	 cours 	 business 
+ rate ; rank ; range ; order ; grade ; place 	 apprécier 	 verb 
+ reach ; make ; attain ; hit ; arrive at ; gain 	 arriver 	 verb 
+ reaction 	 réaction 	 abstract 
+ read 	 lire 	 verb 
+ ready 	 prêt 	 adjective 
+ real ; existent 	 vrai 	 adjective 
+ rear ; raise ; bring up ; nurture ; parent 	 élever 	 verb 
+ reason 	 raison 	 communication 
+ reason 	 raisonner 	 verb 
+ reason ; ground 	 raison 	 communication 
+ receive ; have 	 recevoir 	 verb 
+ recent 	 récent 	 adjective 
+ recently ; late ; lately ; of late ; latterly 	 récemment 	 adverb 
+ record 	 record 	 abstract 
+ record ; tape 	 enregistrer 	 verb 
+ red ; reddish ; ruddy ; blood-red ; carmine ; cerise ; cherry ; cherry-red ; crimson ; ruby ; ruby-red ; scarlet 	 rouge 	 color 
+ reduce ; cut down ; cut back ; trim ; trim down ; trim back ; cut ; bring down 	 réduire 	 verb 
+ reflect ; reverberate 	 réfléchir 	 verb 
+ refuse ; reject ; pass up ; turn down ; decline 	 refuser 	 verb 
+ region ; part 	 région 	 nature 
+ regular 	 habituel 	 adjective 
+ relation 	 relation 	 communication 
+ relationship ; human relationship 	 relation 	 society 
+ religion ; faith ; organized religion 	 religion 	 society 
+ religion ; faith ; religious belief 	 foi 	 society 
+ remainder ; balance ; residual ; residue ; residuum ; rest 	 reste 	 business 
+ remember ; retrieve ; recall ; call back ; call up ; recollect ; think 	 rappeler 	 verb 
+ remove ; take ; take away ; withdraw 	 supprimer 	 verb 
+ render ; return 	 rendre 	 verb 
+ report 	 signaler 	 verb 
+ report ; study ; written report 	 rapport 	 abstract 
+ repose ; quiet ; placidity ; serenity ; tranquillity ; tranquility 	 sérénité 	 abstract 
+ represent ; stand for ; correspond 	 représenter 	 verb 
+ representative 	 représentant 	 profession 
+ request ; asking 	 demande 	 communication 
+ request ; bespeak ; call for ; quest 	 appeler 	 verb 
+ research 	 recherche 	 abstract 
+ research 	 recherche 	 verb 
+ respect ; honor ; honour ; abide by ; observe 	 honorer 	 verb 
+ respite ; recess ; break ; time out 	 récréation 	 abstract 
+ responsibility ; responsibleness 	 responsabilité 	 abstract 
+ responsible 	 responsable 	 adjective 
+ rest 	 se reposer 	 verb 
+ rest ; ease ; repose ; relaxation 	 repos 	 abstract 
+ restaurant ; eating house ; eating place ; eatery 	 restaurant 	 city 
+ restrict ; restrain ; trammel ; limit ; bound ; confine ; throttle 	 contenir 	 verb 
+ result ; resultant ; final result ; outcome ; termination 	 résultat 	 mathematics 
+ return ; homecoming 	 retour 	 abstract 
+ reverse ; contrary ; opposite 	 contraire 	 abstract 
+ rhythm ; beat ; musical rhythm 	 rythme 	 art 
+ rice 	 riz 	 food 
+ rice 	 riz 	 food 
+ right 	 droit 	 adjective 
+ right 	 droit 	 society 
+ right 	 exactement 	 adverb 
+ rigid ; stiff 	 rigide 	 adjective 
+ ring ; band 	 anneau 	 clothes 
+ rise ; rising ; ascent ; ascension 	 ascension 	 abstract 
+ rival ; challenger ; competitor ; competition ; contender 	 concurrent 	 business 
+ river 	 fleuve 	 nature 
+ road ; route 	 chemin 	 transport 
+ rock ; stone 	 caillou 	 nature 
+ roof 	 toit 	 house 
+ room 	 pièce 	 house 
+ root 	 racine 	 mathematics 
+ root 	 racine 	 nature 
+ rope 	 corde 	 transport 
+ rough ; unsmooth 	 approximatif 	 adjective 
+ round ; circular 	 rond 	 adjective 
+ round off ; round down ; round out ; round 	 arrondir 	 verb 
+ rug ; carpet ; carpeting 	 tapis 	 house 
+ rule ; regulation 	 règlement 	 linguistics 
+ run 	 courir 	 verb 
+ sad 	 triste 	 adjective 
+ safe 	 coffre 	 object 
+ safe 	 sûr 	 adjective 
+ sail ; canvas ; canvass ; sheet 	 voile 	 object 
+ sailor ; crewman 	 marin 	 profession 
+ salad 	 salade 	 food 
+ sale 	 vente 	 business 
+ salt 	 saler 	 verb 
+ salt ; table salt ; common salt 	 sel 	 food 
+ salvage ; salve ; relieve ; save 	 assurer 	 verb 
+ same 	 même 	 adjective 
+ sand 	 sable 	 material 
+ sandwich 	 sandwich 	 food 
+ sauce 	 sauce 	 food 
+ save ; preserve 	 épargner 	 verb 
+ school ; schoolhouse 	 école 	 city 
+ science ; scientific discipline 	 science 	 society 
+ scientist 	 scientifique 	 profession 
+ scissors ; pair of scissors 	 ciseaux 	 object 
+ scope ; range ; reach ; orbit ; compass ; ambit 	 zone 	 abstract 
+ screen ; cover ; covert ; concealment 	 couvercle 	 object 
+ screw 	 visser 	 verb 
+ sea 	 mer 	 nature 
+ season 	 saison 	 nature 
+ season ; flavor ; flavour 	 relever 	 verb 
+ seat 	 place 	 house 
+ seat ; place 	 place 	 abstract 
+ second ; 2nd ; 2d 	 deuxième 	 adjective 
+ second ; sec ; s 	 seconde 	 time 
+ secret 	 secret 	 communication 
+ secretary ; secretarial assistant 	 secrétaire 	 profession 
+ section ; subdivision 	 rayon 	 mathematics 
+ see 	 voir 	 verb 
+ see ; consider ; reckon ; view ; regard 	 considérer 	 verb 
+ seed 	 graine 	 food 
+ sell 	 vendre 	 verb 
+ sentence 	 phrase 	 linguistics 
+ separate 	 séparée 	 adjective 
+ serial ; series 	 feuilleton 	 abstract 
+ serious 	 grave 	 adjective 
+ servant ; retainer 	 serviteur 	 profession 
+ serve 	 servir 	 verb 
+ service 	 service 	 sports 
+ set 	 collection 	 sports 
+ set 	 série 	 mathematics 
+ seven ; 7 ; vii 	 sept 	 number 
+ seventh ; 7th 	 septième 	 number 
+ seventy ; 70 ; lxx 	 soixante-dix 	 number 
+ several 	 quelque 	 adjective 
+ sew ; run up ; sew together ; stitch 	 coudre 	 verb 
+ sex 	 sexe 	 nature 
+ sexual activity ; sexual practice ; sex ; sex activity 	 sexe 	 relations 
+ share 	 action 	 business 
+ share 	 partager 	 verb 
+ share ; portion ; part ; percentage 	 partie 	 society 
+ she 	 elle 	 pronoun 
+ sheep 	 mouton 	 animal 
+ shelf 	 clayette 	 house 
+ ship 	 navire 	 transport 
+ shirt 	 chemise 	 clothes 
+ shock ; offend ; scandalize ; scandalise ; appal ; appall ; outrage 	 choquer 	 verb 
+ shoe 	 chaussure 	 clothes 
+ shop ; store 	 boutique 	 business 
+ short 	 court 	 adjective 
+ shout ; shout out ; cry ; call ; yell ; scream ; holler ; hollo ; squall 	 glapir 	 verb 
+ show 	 show 	 abstract 
+ show ; demo ; exhibit ; present ; demonstrate 	 montrer 	 verb 
+ shower 	 douche 	 house 
+ shroud ; enshroud ; hide ; cover 	 envelopper 	 verb 
+ shut ; unopen ; closed 	 fermé 	 adjective 
+ side 	 côté 	 mathematics 
+ sign 	 signe 	 linguistics 
+ significant ; important 	 important 	 adjective 
+ silence ; quiet 	 silence 	 abstract 
+ silent ; soundless ; still 	 calme 	 adjective 
+ silk 	 soie 	 material 
+ silver ; Ag ; atomic number 47 	 argent 	 material 
+ similar 	 semblable 	 adjective 
+ since 	 depuis 	 preposition 
+ sincere 	 sincère 	 adjective 
+ sing 	 chanter 	 verb 
+ singer ; vocalist ; vocalizer ; vocaliser 	 chanteur 	 profession 
+ single 	 seul 	 adjective 
+ sink 	 évier 	 house 
+ sister ; sis 	 soeur 	 family 
+ sit ; sit down 	 poser 	 verb 
+ situation ; state of affairs 	 situation 	 abstract 
+ six ; 6 ; vi ; half dozen ; half-dozen 	 six 	 number 
+ sixteen ; 16 ; xvi 	 seize 	 number 
+ sixth ; 6th 	 sixième 	 number 
+ sixty ; 60 ; lx ; threescore 	 soixante 	 number 
+ size 	 taille 	 physics 
+ skid ; slip ; sideslip 	 dérapage 	 abstract 
+ skill ; science 	 adresse 	 sports 
+ skin ; peel ; pare 	 peler 	 verb 
+ skin ; tegument ; cutis 	 peau 	 anatomy 
+ skirt 	 jupe 	 clothes 
+ sky 	 ciel 	 nature 
+ sleep ; slumber 	 sommeil 	 nature 
+ slice ; piece 	 morceau 	 abstract 
+ slow 	 lent 	 adjective 
+ slowly ; slow ; easy ; tardily 	 lentement 	 adverb 
+ small ; little 	 petit 	 adjective 
+ smell 	 embaumer 	 verb 
+ smell 	 sentir 	 verb 
+ smell 	 sentir 	 verb 
+ smile 	 sourire 	 verb 
+ smile ; smiling ; grin ; grinning 	 sourire 	 abstract 
+ smoke ; fume 	 fumée 	 nature 
+ smooth 	 lissé 	 adjective 
+ snake ; serpent ; ophidian 	 serpent 	 animal 
+ snog ; kiss ; buss ; osculate 	 baiser 	 verb 
+ snow 	 neige 	 nature 
+ snow 	 neiger 	 verb 
+ snow ; snowfall 	 neige 	 nature 
+ so 	 ainsi 	 adverb 
+ soap 	 savon 	 material 
+ soap ; lather 	 savonner 	 verb 
+ social 	 social 	 adjective 
+ society 	 société 	 society 
+ sock 	 chaussette 	 clothes 
+ soft 	 doux 	 adjective 
+ soldier 	 militaire 	 profession 
+ solid 	 solide 	 adjective 
+ sometimes 	 parfois 	 adverb 
+ son ; boy 	 fils 	 family 
+ song ; vocal 	 chanson 	 art 
+ soon ; shortly ; presently ; before long 	 bientôt 	 adverb 
+ sound 	 son 	 nature 
+ soup 	 soupe 	 food 
+ south 	 austral 	 adjective 
+ south ; due south ; southward ; S 	 sud 	 logistics 
+ space ; infinite 	 espace 	 mathematics 
+ sparse ; thin 	 clairsemé 	 adjective 
+ specific 	 spécifique 	 adjective 
+ speech ; speech communication ; spoken communication ; spoken language ; language ; voice communication ; oral communication 	 langue 	 linguistics 
+ spelling 	 orthographe 	 linguistics 
+ spend ; pass 	 passer 	 verb 
+ spill ; tumble ; fall 	 chute 	 abstract 
+ spoon 	 cuiller 	 food 
+ spring 	 ressort 	 object 
+ spring ; fountain ; outflow ; outpouring ; natural spring 	 source 	 nature 
+ spring ; springtime 	 printemps 	 nature 
+ square 	 carré 	 adjective 
+ square ; foursquare 	 carré 	 mathematics 
+ square ; second power 	 carré 	 mathematics 
+ squash ; crush ; squelch ; mash ; squeeze 	 écraser 	 verb 
+ staff 	 personnel 	 society 
+ stage 	 scène 	 object 
+ stalk ; stem 	 tige 	 nature 
+ stamp 	 tampon 	 object 
+ stand ; stand up 	 être debout 	 verb 
+ standard 	 normal 	 adjective 
+ standard ; criterion ; measure ; touchstone 	 critère 	 communication 
+ star 	 étoile 	 nature 
+ state 	 état 	 mathematics 
+ state 	 état 	 society 
+ state ; province 	 état 	 society 
+ state ; say ; tell 	 dire 	 verb 
+ statement 	 déclaration 	 communication 
+ station 	 poste 	 society 
+ stay ; remain ; rest 	 rester 	 verb 
+ steal 	 voler 	 verb 
+ steam 	 vapeur 	 physics 
+ steel 	 acier 	 material 
+ step ; stair 	 marche 	 house 
+ stick 	 bâton 	 object 
+ still 	 encore 	 adverb 
+ stitch 	 point 	 medicine 
+ stomach ; tummy ; tum ; breadbasket 	 estomac 	 anatomy 
+ stop ; halt 	 arrêt 	 abstract 
+ stop ; halt 	 arrêter 	 verb 
+ straight 	 droit 	 adjective 
+ strange ; unusual 	 bizarre 	 adjective 
+ stream ; flow ; current 	 courant 	 nature 
+ street 	 route 	 city 
+ stretch 	 section 	 art 
+ structure 	 structure 	 linguistics 
+ structure ; construction 	 construction 	 house 
+ student ; pupil ; educatee 	 étudiant 	 profession 
+ study 	 étudier 	 verb 
+ stupid 	 stupide 	 adjective 
+ style 	 style 	 art 
+ stylish ; fashionable 	 élégant 	 adjective 
+ subject ; dependent 	 sujet 	 adjective 
+ subject ; topic ; theme 	 sujet 	 linguistics 
+ subsequently ; later ; afterwards ; afterward ; after ; later on 	 ensuite 	 adverb 
+ substitution ; exchange ; commutation 	 échange 	 abstract 
+ success 	 succès 	 society 
+ successful 	 fructueux 	 adjective 
+ such 	 tel 	 adverb 
+ sudden 	 soudain 	 adjective 
+ suddenly ; all of a sudden ; of a sudden 	 subitement 	 adverb 
+ suffer ; endure 	 endurer 	 verb 
+ sugar ; refined sugar 	 sucre 	 food 
+ sugar ; saccharify 	 sucrer 	 verb 
+ suggestion ; proposition ; proffer 	 proposition 	 abstract 
+ sum ; amount ; total 	 montant 	 mathematics 
+ summation ; addition ; plus 	 addition 	 mathematics 
+ summer ; summertime 	 été 	 nature 
+ sun ; Sun 	 soleil 	 nature 
+ supermarket 	 supermarché 	 city 
+ supplant ; replace ; supersede ; supervene upon ; supercede 	 remplacer 	 verb 
+ supply ; provide ; render ; furnish 	 fournir 	 verb 
+ support 	 appui 	 abstract 
+ support ; back up 	 soutenir 	 verb 
+ suppose ; say 	 supposer 	 verb 
+ surely ; certainly ; sure ; for sure ; for certain ; sure enough ; sure as shooting 	 assurément 	 adverb 
+ surface 	 surface 	 mathematics 
+ surprise 	 surprendre 	 verb 
+ surprise 	 surprise 	 abstract 
+ surrender ; give up 	 abdiquer 	 verb 
+ survive ; last ; live ; live on ; go ; endure ; hold up ; hold out 	 durer 	 verb 
+ sweet 	 sucré 	 adjective 
+ sweet ; sweetness ; sugariness 	 douceur 	 food 
+ sympathize ; sympathise ; empathize ; empathise ; understand 	 saisir 	 verb 
+ system ; scheme 	 système 	 linguistics 
+ table 	 table 	 house 
+ table ; tabular array 	 table 	 object 
+ tail 	 queue 	 anatomy 
+ take ; get hold of 	 saisir 	 verb 
+ talk ; speak ; utter ; mouth ; verbalize ; verbalise 	 parler 	 verb 
+ tall 	 grand 	 adjective 
+ taste ; gustation ; sense of taste ; gustatory modality 	 goût 	 nature 
+ taste ; savor ; savour 	 goût 	 verb 
+ tax ; taxation ; revenue enhancement 	 contribution 	 business 
+ tea 	 thé 	 food 
+ teach ; learn ; instruct 	 enseigner 	 verb 
+ teacher ; instructor 	 maître 	 profession 
+ team ; squad 	 équipe 	 society 
+ technology ; engineering 	 technologie 	 society 
+ television camera ; tv camera ; camera 	 caméra 	 object 
+ television receiver ; television ; television set ; tv ; tv set ; idiot box ; boob tube ; telly ; goggle box 	 téléviseur 	 device 
+ ten ; 10 ; x 	 dix 	 number 
+ tendency ; trend 	 tendance 	 abstract 
+ tennis ; lawn tennis 	 tennis 	 sports 
+ test ; prove ; try ; try out ; examine ; essay 	 essayer 	 verb 
+ testify ; bear witness ; prove ; evidence ; show 	 prouver 	 verb 
+ than 	 que 	 conjunction 
+ thank ; give thanks 	 remercier 	 verb 
+ that 	 ce 	 pronoun 
+ the 	 la 	 article 
+ theater ; theatre ; house 	 théâtre 	 city 
+ their 	 leur 	 pronoun 
+ them 	 les 	 pronoun 
+ then ; so ; and so ; and then 	 alors 	 adverb 
+ theory 	 théorie 	 education 
+ there ; at that place ; in that location 	 là 	 adverb 
+ therefore ; hence ; thence ; thus ; so 	 donc 	 adverb 
+ these 	 ces 	 pronoun 
+ they 	 ils 	 pronoun 
+ thick 	 dense 	 adjective 
+ thick 	 épais 	 adjective 
+ thin 	 maigre 	 adjective 
+ thin ; lean 	 maigre 	 adjective 
+ thing 	 chose 	 object 
+ think ; cogitate ; cerebrate 	 réfléchir 	 verb 
+ third ; 3rd ; tertiary 	 troisième 	 mathematics 
+ thirsty 	 assoiffé 	 adjective 
+ thirteen ; 13 ; xiii 	 treize 	 number 
+ thirty ; 30 ; xxx 	 trente 	 number 
+ this 	 cette 	 pronoun 
+ thorax ; chest ; pectus 	 poitrine 	 anatomy 
+ those 	 ces 	 pronoun 
+ thousand ; one thousand ; 1000 ; M ; K ; chiliad ; G ; grand ; thou ; yard 	 mille 	 number 
+ three ; 3 ; iii 	 trois 	 number 
+ throat ; pharynx 	 gorge 	 anatomy 
+ throw 	 jeter 	 verb 
+ throw 	 lancer 	 sports 
+ thumb ; pollex 	 pouce 	 anatomy 
+ ticket 	 billet 	 object 
+ tight 	 serré 	 adjective 
+ time period ; period of time ; period 	 période 	 time 
+ tired 	 fatigué 	 adjective 
+ title 	 titre 	 society 
+ to 	 vers 	 preposition 
+ today 	 aujourd'hui 	 adverb 
+ toe 	 orteil 	 anatomy 
+ together 	 ensemble 	 adverb 
+ toilet ; lavatory ; lav ; can ; john ; privy ; bathroom 	 toilettes 	 house 
+ tomato 	 tomate 	 food 
+ tomato ; love apple ; tomato plant ; Lycopersicon esculentum 	 tomate 	 food 
+ tomorrow 	 demain 	 adverb 
+ tomorrow 	 demain 	 time 
+ tongue ; lingua ; glossa ; clapper 	 langue 	 anatomy 
+ tonight ; this evening ; this night 	 ce soir 	 adverb 
+ tooth 	 dent 	 anatomy 
+ topographic point ; place ; spot 	 lieu 	 abstract 
+ torso ; trunk ; body 	 tronc 	 anatomy 
+ touch ; touching 	 toucher 	 abstract 
+ town 	 ville 	 society 
+ trace ; draw ; line ; describe ; delineate 	 dessiner 	 verb 
+ track ; rail ; rails ; runway 	 rail 	 transport 
+ trade 	 affaire 	 business 
+ trade ; merchandise 	 commercer 	 verb 
+ train ; develop ; prepare ; educate 	 former 	 verb 
+ train ; railroad train 	 train 	 transport 
+ training ; preparation ; grooming 	 entraînement 	 abstract 
+ transport ; carry 	 porter 	 verb 
+ transport ; send ; ship 	 transporter 	 verb 
+ transportation ; shipping ; transport 	 transport 	 transport 
+ travel ; go ; move ; locomote 	 aller 	 verb 
+ treat ; care for 	 traiter 	 verb 
+ treatment ; handling 	 traitement 	 abstract 
+ tree 	 arbre 	 house 
+ tremble ; shiver ; shake 	 frisson 	 abstract 
+ trick 	 ruse 	 abstract 
+ trouble ; problem 	 problème 	 abstract 
+ true 	 vrai 	 adjective 
+ truly ; genuinely ; really 	 en réalité 	 adverb 
+ truthful ; true 	 vrai 	 adjective 
+ try ; seek ; attempt ; essay ; assay 	 essayer 	 verb 
+ turn 	 tourner 	 verb 
+ twelfth ; 12th 	 douzième 	 number 
+ twenty ; 20 ; xx 	 vingt 	 number 
+ type 	 espèce 	 abstract 
+ ugly 	 laid 	 adjective 
+ understand 	 comprendre 	 verb 
+ undertaking ; project ; task ; labor 	 tâche 	 abstract 
+ unemployed 	 chômeur 	 adjective 
+ union 	 union 	 society 
+ unit of measurement ; unit 	 unité 	 mathematics 
+ university 	 université 	 city 
+ university 	 université 	 education 
+ unlike ; dissimilar ; different 	 différent 	 adjective 
+ unmarried ; single 	 simple 	 adjective 
+ until 	 jusqu'à 	 conjunction 
+ unusual 	 inhabituel 	 adjective 
+ unwrap ; disclose ; let on ; bring out ; reveal ; discover ; expose ; divulge ; break ; give away ; let out 	 révéler 	 verb 
+ up ; upwards ; upward ; upwardly 	 haut 	 adverb 
+ us 	 nous 	 pronoun 
+ use ; usage ; utilization ; utilisation ; employment ; exercise 	 usage 	 linguistics 
+ use ; utilize ; utilise ; apply ; employ 	 utiliser 	 verb 
+ user 	 utilisateur 	 society 
+ usual 	 usuel 	 adjective 
+ vacation ; holiday 	 vacance 	 travelling 
+ value 	 valeur 	 art 
+ very ; really ; real ; rattling 	 très 	 adverb 
+ village ; hamlet 	 village 	 society 
+ village ; small town ; settlement 	 village 	 society 
+ violent 	 violent 	 adjective 
+ visit 	 visite 	 abstract 
+ visit ; see 	 visiter 	 verb 
+ vogue ; trend ; style 	 mode 	 abstract 
+ voice ; vocalization ; vocalisation ; vocalism ; phonation ; vox 	 voix 	 communication 
+ volition ; will 	 volonté 	 abstract 
+ wages ; reward ; payoff 	 récompense 	 society 
+ wait ; hold off ; hold back 	 attendre 	 verb 
+ walk 	 marcher 	 verb 
+ wall 	 mur 	 house 
+ war ; state of war 	 guerre 	 society 
+ warm 	 chaleureux 	 adjective 
+ warm 	 chauffer 	 verb 
+ wash ; launder 	 laver 	 verb 
+ waste ; waste material ; waste matter ; waste product 	 déchets 	 material 
+ watch ; ticker 	 montre 	 object 
+ watch ; view ; see ; catch ; take in 	 regarder 	 verb 
+ water ; H2O 	 eau 	 material 
+ wave ; moving ridge 	 vague 	 nature 
+ we 	 nous 	 pronoun 
+ wear 	 usure 	 abstract 
+ wear ; have on 	 mettre 	 verb 
+ weather ; weather condition ; conditions ; atmospheric condition 	 temps 	 nature 
+ wedding ; wedding ceremony ; nuptials ; hymeneals 	 mariage 	 family 
+ week ; calendar week 	 semaine 	 time 
+ weekend 	 weekend 	 time 
+ weigh 	 peser 	 verb 
+ weight 	 poids 	 physics 
+ well 	 puits 	 object 
+ well ; good 	 bien 	 adverb 
+ west 	 ouest 	 adjective 
+ west ; due west ; westward ; W 	 ouest 	 logistics 
+ wet 	 mouiller 	 verb 
+ wet 	 mouillé 	 adjective 
+ what 	 quoi 	 pronoun 
+ wheel 	 roue 	 object 
+ whether 	 si 	 conjunction 
+ which 	 quel 	 pronoun 
+ while ; piece ; spell ; patch 	 temps 	 transport 
+ whip 	 fouet 	 object 
+ white 	 blanc 	 adjective 
+ who 	 qui 	 pronoun 
+ whole 	 entier 	 adjective 
+ whole 	 tout 	 abstract 
+ whom 	 que 	 pronoun 
+ whose 	 de qui 	 pronoun 
+ why 	 pourquoi 	 adverb 
+ wide ; broad 	 large 	 adjective 
+ wife ; married woman 	 femme 	 family 
+ will 	 volonté 	 society 
+ will ; testament 	 testament 	 society 
+ win 	 gagner 	 verb 
+ win 	 victoire 	 sports 
+ wind ; air current ; current of air 	 vent 	 nature 
+ wind ; wrap ; roll ; twine 	 enrouler 	 verb 
+ window 	 fenêtre 	 house 
+ wine ; vino 	 vin 	 food 
+ wing 	 aile 	 anatomy 
+ winter ; wintertime 	 hiver 	 nature 
+ wire 	 fil 	 object 
+ wise 	 sage 	 adjective 
+ wish 	 désirer 	 verb 
+ wish ; wishing ; want 	 souhait 	 abstract 
+ with 	 avec 	 preposition 
+ woman ; adult female 	 femme 	 family 
+ wood 	 bois 	 material 
+ wool 	 laine 	 material 
+ word 	 mot 	 linguistics 
+ work 	 travail 	 abstract 
+ work ; piece of work 	 oeuvre 	 abstract 
+ worker 	 employé 	 profession 
+ world 	 monde 	 nature 
+ write 	 écrire 	 verb 
+ writer ; author 	 écrivain 	 profession 
+ writing 	 écriture 	 linguistics 
+ year ; twelvemonth ; yr 	 année 	 time 
+ yellow ; yellowish ; xanthous 	 jaune 	 color 
+ yes 	 oui 	 abstract 
+ young ; immature 	 jeune 	 adjective 
+ your 	 tes 	 pronoun 
+ yourself 	 te 	 pronoun 

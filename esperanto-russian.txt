@@ -1,0 +1,1593 @@
+# Esperanto-Russian translations created from the Universal dictionary at 2011-08-27T09:40:50-06:00
+# (c) Copyright 2011 by All free dictionaries project
+# ALL FREE DICTIONARIES PROJECT DISCLAIMS ALL
+# WARRANTIES WITH REGARD TO THESE TRANSLATIONS, INCLUDING ALL
+# IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO
+# EVENT SHALL ALL FREE DICTIONARIES PROJECT OR ANY OF ITS CONTRIBUTORS
+# BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES
+# OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR
+# PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE
+# OR OTHER ACTION, ARISING OUT OF OR IN CONNECTION
+# WITH THE USE OR PERFORMANCE OF THESE TRANSLATIONS.
+#
+# In other words there may be incorrect translations.
+# If you need to be sure never use these translations!
+#
+# French, German and Czech entries are added manually. The entries for
+# remaining languages are added automatically. Entries for these languages
+# are only experimental.
+#
+# You may not place this file on WWW, ftp and equivalent servers because
+# this file gets outdated very quickly. You may not distribute this file
+# with your dictionary applications without permission. You can contact
+# authors of the Universal dictionary at: http://dicts.info/contact.php
+#
+# This file is for personal use only. You may not distribute this file.
+#
+# New version of this file can be created at: http://www.dicts.info/uddl.php
+#
+
+ Angla lingvo 	 английский язык 	 language 
+ Britio 	 Англия ; Великобритания 	 country 
+ Francio 	 Франция 	 country 
+ Germana lingvo 	 немецкий язык 	 linguistics 
+ Germanio 	 Германия 	 country 
+ Hindio 	 Индия 	 country 
+ Hispanujo 	 Испания 	 country 
+ Italio 	 Италия 	 country 
+ Japanio 	 Япония 	 country 
+ Tero 	 Земля 	 nature 
+ Usono 	 США ; Соединенные Штаты Америки 	 country 
+ abelo 	 пчела 	 animal 
+ abrupta 	 крутой 	 adjective 
+ acido 	 кислота 	 material 
+ adicio 	 сложение 	 mathematics 
+ adjektivo 	 имя прилагательное 	 linguistics 
+ administri 	 вести 	 verb 
+ adreso 	 адрес 	 abstract 
+ aero 	 воздух 	 nature 
+ aerodromo 	 аэродром ; аэропорт 	 city 
+ aeroplano 	 самолёт 	 object 
+ afabla 	 любезный 	 adjective 
+ afranko 	 почтовая марка 	 object 
+ agi 	 действовать 	 verb 
+ ago 	 дело 	 abstract 
+ ago 	 деятельность 	 mathematics 
+ ago 	 поступок ; действие 	 mathematics 
+ ajna 	 любой 	 adjective 
+ ajxo 	 предмет ; вещь 	 object 
+ akcepti 	 принять 	 verb 
+ akcidento 	 несчастный случай ; авария 	 transport 
+ akcio 	 акция 	 business 
+ akiri 	 получать 	 verb 
+ akiri 	 получить 	 verb 
+ akra 	 острый 	 adjective 
+ aktorino 	 актриса 	 profession 
+ aktoro 	 актёр 	 profession 
+ akuzi 	 обвинить 	 verb 
+ akuzo 	 нарекание 	 society 
+ akvo 	 вода 	 material 
+ al 	 на 	 preposition 
+ al 	 на 	 preposition 
+ aldoni 	 сосчитать 	 verb 
+ aldono 	 дополнение 	 abstract 
+ alia 	 другой 	 adjective 
+ alia 	 другой 	 adjective 
+ alia 	 другой 	 adjective 
+ alporti 	 принести 	 verb 
+ alta 	 высокий 	 adjective 
+ alteco 	 высота 	 abstract 
+ alternativo 	 альтернатива 	 abstract 
+ alumeto 	 спичка 	 object 
+ alveni 	 приехать 	 verb 
+ alvoki 	 звонить 	 verb 
+ amara 	 горький 	 adjective 
+ ambaux 	 обе 	 adjective 
+ ami 	 любить 	 verb 
+ amika 	 дружеский 	 adjective 
+ amiko 	 друг 	 family 
+ amisto 	 поклонник 	 family 
+ amo 	 любовь 	 relations 
+ amplekso 	 диапазон 	 abstract 
+ angulo 	 угол 	 mathematics 
+ animala 	 животное 	 nature 
+ ankaŭ 	 tакже ; тоже 	 adverb 
+ ankoraux 	 постоянно 	 adverb 
+ anonci 	 сообщить 	 verb 
+ anso 	 ручка 	 object 
+ antaux 	 вперед 	 adverb 
+ antaux 	 впереди 	 adverb 
+ antauxa 	 передний 	 adjective 
+ antauxajxo 	 передняя часть 	 abstract 
+ antauxcxambro 	 прихожая ; вестибюль ; передняя 	 house 
+ antauxen 	 вперёд 	 adverb 
+ aparato 	 станок 	 device 
+ aparta 	 отдельный 	 adjective 
+ apartamento 	 квартира 	 society 
+ apogo 	 поддержка ; опора 	 abstract 
+ aprilo 	 апрель 	 time 
+ aprobo 	 одобрение ; согласие 	 communication 
+ apuda 	 соседний 	 adjective 
+ arbaro 	 лес 	 nature 
+ arbo 	 дерево 	 house 
+ argumenti 	 аргументировать 	 verb 
+ argumento 	 аргумент 	 communication 
+ armeo 	 армия 	 society 
+ armeo 	 армия 	 society 
+ artisto 	 художник 	 profession 
+ arto 	 искусство 	 art 
+ arĝento 	 серебро 	 material 
+ ascendo 	 подъём 	 abstract 
+ asekuro 	 страховка 	 business 
+ aserto 	 утверждения 	 communication 
+ aspekti 	 казаться 	 verb 
+ aspekto 	 аспект 	 abstract 
+ astro 	 звезда 	 nature 
+ ataki 	 атаковать 	 verb 
+ atako 	 набег 	 abstract 
+ atendi 	 ждать 	 verb 
+ atenti 	 заботиться 	 verb 
+ atento 	 внимание 	 communication 
+ atingi 	 достигать 	 verb 
+ atingodistanco 	 досягаемость 	 abstract 
+ atributo 	 способность 	 abstract 
+ auxdi 	 слышать 	 verb 
+ avantagxo 	 преимущество 	 abstract 
+ aĉeti 	 купить 	 verb 
+ aĝo 	 возраст 	 time 
+ aĵo 	 дело 	 abstract 
+ aŭ 	 или 	 conjunction 
+ aŭdi 	 слушать 	 verb 
+ aŭstrala 	 южный 	 adjective 
+ aŭtobuso 	 автобус 	 transport 
+ aŭtomata 	 автоматический 	 adjective 
+ aŭtomobilo 	 автомобиль ; машина 	 transport 
+ aŭtoritato 	 авторитет 	 society 
+ aŭtuno 	 осень 	 nature 
+ bagatela 	 малый 	 adjective 
+ baldaux 	 скоро 	 adverb 
+ bancxambro 	 ванная 	 house 
+ banko 	 банк 	 city 
+ bano 	 ванна 	 house 
+ barbara 	 жестокий 	 adjective 
+ basbalo 	 бейсбол 	 sports 
+ bastono 	 палка 	 object 
+ bastono 	 персонал 	 society 
+ batalado 	 борьба 	 abstract 
+ batali 	 драться 	 verb 
+ bato 	 удар 	 abstract 
+ baza 	 основной 	 adjective 
+ bazaro 	 рынок ; базар 	 business 
+ bazo 	 военная база 	 society 
+ bazo 	 основа ; база 	 mathematics 
+ beko 	 клюв 	 anatomy 
+ bela 	 красивый 	 adjective 
+ beleta 	 красивый ; хороший 	 adjective 
+ bezono 	 потребность 	 abstract 
+ biblioteko 	 библиотека 	 city 
+ biciklo 	 велосипед 	 object 
+ biero 	 пиво 	 food 
+ bildo 	 изображение 	 art 
+ bildo 	 имидж 	 art 
+ bileto 	 билет 	 object 
+ biologio 	 биология 	 science 
+ birdo 	 птица 	 animal 
+ blanka 	 белый 	 adjective 
+ blua 	 голубой 	 color 
+ boato 	 лодка 	 object 
+ bobeni 	 намотать 	 verb 
+ bobeno 	 круг 	 object 
+ boltingo 	 гайка 	 object 
+ bona 	 хороший ; хорошая 	 adjective 
+ bona 	 хороший ; хорошо 	 adjective 
+ bone 	 хорошо 	 adverb 
+ bonega 	 замечательный 	 adjective 
+ bonŝanca 	 счастливый 	 adjective 
+ bordo 	 берег 	 nature 
+ botelo 	 бутылка 	 food 
+ boto 	 ботинок 	 clothes 
+ bovino 	 корова 	 animal 
+ brako 	 рука 	 anatomy 
+ brancxo 	 ветвь 	 nature 
+ bretaro 	 полка 	 house 
+ briko 	 кирпич 	 house 
+ broso 	 щётка 	 object 
+ bruna 	 коричневый 	 color 
+ bruo 	 шум ; гам 	 society 
+ bruska 	 обрывистый 	 adjective 
+ brusto 	 грудная клетка ; грудь 	 anatomy 
+ brusto 	 грудь 	 anatomy 
+ busxo 	 рот 	 anatomy 
+ butero 	 масло 	 food 
+ butono 	 кнопка 	 object 
+ buŝo 	 уста ; рот 	 anatomy 
+ celo 	 цель 	 abstract 
+ cent 	 сто 	 number 
+ centra 	 центральный 	 adjective 
+ centro 	 середина ; средняя часть 	 mathematics 
+ centro 	 центр 	 mathematics 
+ cerbo 	 мозг 	 anatomy 
+ certa 	 верный 	 adjective 
+ certe 	 непременно 	 adverb 
+ cirkla 	 круглый 	 adjective 
+ cxar 	 ибо 	 conjunction 
+ cxefo 	 шеф 	 society 
+ cxeko 	 чек 	 business 
+ cxelo 	 келья 	 society 
+ cxevalo 	 лошадь ; конь 	 animal 
+ cxielo 	 небо 	 nature 
+ cxio 	 все 	 pronoun 
+ cxio 	 все ; бсё 	 adjective 
+ cxirkaux 	 кругом ; вокруг 	 adverb 
+ cxirkauxajxo 	 среда ; окружающая среда 	 nature 
+ cxiu 	 каждый 	 adjective 
+ cxiu 	 каждый 	 adjective 
+ cxu 	 либо 	 conjunction 
+ damagxi 	 ранить 	 verb 
+ damagxo 	 поломка 	 transport 
+ danci 	 танцевать 	 verb 
+ danki 	 благодарить 	 verb 
+ danĝera 	 опасный 	 adjective 
+ danĝero 	 опасность 	 abstract 
+ dato 	 дата ; число 	 time 
+ datumoj 	 сведениe ; информация 	 communication 
+ dauxrigi 	 продолжать 	 verb 
+ de 	 о 	 preposition 
+ decembro 	 декабрь 	 time 
+ decidi 	 решить 	 verb 
+ decido 	 заключение ; решение 	 communication 
+ defendo 	 оборона 	 abstract 
+ defii 	 давать отпор ; противостоять 	 verb 
+ dek 	 десять 	 number 
+ deka 	 десятый 	 number 
+ dekdua 	 двенадцатый 	 number 
+ deklivo 	 склон 	 mathematics 
+ dekoro 	 декорация 	 object 
+ dekstra 	 правый 	 adjective 
+ delikata 	 деликатный ; щекотливый 	 adjective 
+ demando 	 вопрос 	 linguistics 
+ dento 	 зуб 	 anatomy 
+ depago 	 такса 	 business 
+ desegni 	 рисовать 	 verb 
+ desegno 	 образец 	 object 
+ detalo 	 подробность ; деталь 	 logistics 
+ detruo 	 разрушение 	 abstract 
+ devio 	 отклонение 	 mathematics 
+ devo 	 повинность 	 abstract 
+ deziri 	 пожелать ; хотеть 	 verb 
+ deziro 	 желание 	 abstract 
+ difekti 	 повредить 	 verb 
+ diferenca 	 непохожий 	 adjective 
+ diferenco 	 разница 	 abstract 
+ dika 	 толстый 	 adjective 
+ dika 	 толстый 	 adjective 
+ dikfingro 	 большой палец 	 anatomy 
+ dimancxo 	 воскресенье 	 time 
+ direkto 	 направление 	 mathematics 
+ direktoro 	 директор 	 profession 
+ diri 	 говорить 	 verb 
+ disciplino 	 дисциплина 	 linguistics 
+ diskuti 	 дискутировать 	 verb 
+ diskuto 	 диспут ; прения ; беседа 	 communication 
+ dispremi 	 смять 	 verb 
+ disputi 	 спорить 	 verb 
+ disputo 	 спор 	 mathematics 
+ distanco 	 расстояние 	 mathematics 
+ distraĵo 	 веселье ; развлечение ; забава ; увеселение 	 art 
+ diversa 	 различный 	 adjective 
+ diverseco 	 разнообразность ; разнообразие ; пестрота 	 art 
+ divido 	 разделение 	 mathematics 
+ divizio 	 секция ; отделение 	 mathematics 
+ do 	 поэтому 	 adverb 
+ doktoro 	 врач ; доктор 	 profession 
+ dolcxa 	 сладкое 	 adjective 
+ doloro 	 боль 	 medicine 
+ dolĉeco 	 сладость 	 food 
+ domo 	 дом 	 house 
+ domo 	 дом 	 house 
+ domo 	 здание 	 city 
+ donaco 	 подарок 	 object 
+ doni 	 давать 	 verb 
+ dormado 	 сон 	 nature 
+ dormcxambro 	 спальня 	 house 
+ dorso 	 большой чан ; спина 	 anatomy 
+ drato 	 провод 	 object 
+ du 	 два 	 number 
+ dua 	 второй 	 adjective 
+ dubi 	 сомневаться 	 verb 
+ dubo 	 сомнение ; неуверенность 	 communication 
+ dudek 	 двадцать 	 number 
+ dum 	 в течение 	 preposition 
+ duono 	 половина 	 mathematics 
+ duŝo 	 душ 	 house 
+ ebena 	 ровный 	 adjective 
+ ebenejo 	 равнина 	 nature 
+ eble 	 может быть 	 adverb 
+ ecx 	 даже 	 adverb 
+ edukado 	 воспитание 	 society 
+ eduki 	 воспитать 	 verb 
+ edzeco 	 брак 	 society 
+ edzigxi 	 жениться 	 verb 
+ edzinigxinta 	 женатый 	 adjective 
+ edzino 	 жена 	 family 
+ edzo 	 муж 	 family 
+ efektiva 	 действительный 	 adjective 
+ egala 	 равный ; одинаковый 	 adjective 
+ ekde 	 с 	 preposition 
+ eklezio 	 церковь ; храм 	 city 
+ ekonomia 	 экономический 	 adjective 
+ ekonomia 	 экономический 	 adjective 
+ ekonomio 	 хозяйство ; экономика 	 business 
+ ekspliki 	 объяснять 	 verb 
+ eksplodo 	 извержение 	 abstract 
+ ekster 	 снаружи 	 adverb 
+ eksterajxo 	 наружность ; внешность 	 mathematics 
+ eksterlanda 	 иностранный 	 adjective 
+ ekvilibro 	 баланц 	 physics 
+ ekzameno 	 экзамен 	 communication 
+ ekzemplo 	 пример 	 communication 
+ ekzerci 	 проводить ; практиковать 	 verb 
+ ekzistado 	 существование 	 society 
+ ekzisti 	 быть 	 verb 
+ elcento 	 процент 	 mathematics 
+ elefanto 	 слон 	 animal 
+ eleganta 	 элегантный 	 adjective 
+ elekti 	 выбрать 	 verb 
+ elekto 	 выбор 	 abstract 
+ elekto 	 выборы 	 mathematics 
+ elektra 	 электрический 	 adjective 
+ elemento 	 элемент 	 mathematics 
+ elpreni 	 убрать 	 verb 
+ elŝeligi 	 чистить 	 verb 
+ emigi 	 побудить 	 verb 
+ en 	 в 	 preposition 
+ en 	 внутрь ; в ; до 	 adverb 
+ ene 	 внутри 	 adverb 
+ energio 	 энергия 	 nature 
+ enhavi 	 заключать в себе ; охватывать 	 verb 
+ eniri 	 вступить 	 verb 
+ enspezo 	 оклад ; заработок ; плата 	 business 
+ envolvi 	 закрыть 	 verb 
+ epoko 	 возраст 	 time 
+ epoko 	 период 	 time 
+ erara 	 ошибочный 	 adjective 
+ eraro 	 ошибка 	 communication 
+ esenco 	 суть 	 abstract 
+ esperi 	 надеяться 	 verb 
+ esplorado 	 обследование 	 abstract 
+ esploro 	 исследование 	 abstract 
+ esprimi 	 выразить 	 verb 
+ esti 	 быть 	 verb 
+ estinta 	 бывший 	 adjective 
+ estonteco 	 будущее 	 time 
+ estro 	 лидер 	 society 
+ eta 	 малый 	 adjective 
+ eta 	 небольшой 	 adjective 
+ etagxo 	 этаж 	 house 
+ evento 	 событие 	 abstract 
+ eventuala 	 возможный 	 adjective 
+ evidente 	 очевидно 	 adverb 
+ eviti 	 уклониться ; избежать 	 verb 
+ evolucii 	 развиваться 	 verb 
+ evoluo 	 эволюция ; развитие 	 nature 
+ eĝo 	 кромка ; край 	 mathematics 
+ fabriki 	 изготовить 	 verb 
+ fabriko 	 завод 	 city 
+ fabriko 	 завод ; фабрика 	 city 
+ facila 	 лёгкий 	 adjective 
+ fakto 	 факт 	 abstract 
+ fakturo 	 фактура ; счёт 	 business 
+ fali 	 падать ; упасть 	 verb 
+ falo 	 падение 	 abstract 
+ falsa 	 фальшивый 	 adjective 
+ falto 	 загиб 	 object 
+ familio 	 семья 	 family 
+ familio 	 семья 	 family 
+ farbo 	 краска 	 art 
+ fari 	 делать 	 verb 
+ fari 	 творить 	 verb 
+ farmbieno 	 ферма 	 nature 
+ faro 	 поступок ; действие 	 mathematics 
+ fazo 	 фаза 	 time 
+ februaro 	 февраль 	 time 
+ feliĉa 	 счастливый 	 adjective 
+ fendeto 	 брешь 	 abstract 
+ fendi 	 разделить 	 verb 
+ fenestro 	 окно 	 house 
+ fermi 	 закрывать 	 verb 
+ fermita 	 закрытый 	 adjective 
+ fero 	 железо 	 material 
+ festo 	 вечеринка 	 society 
+ fetori 	 вонять 	 verb 
+ fido 	 вероисповедание 	 society 
+ fiksita 	 данный ; установленный 	 adjective 
+ filino 	 дочь 	 family 
+ filmo 	 фильм ; кинокартина 	 art 
+ filo 	 сын 	 family 
+ fina 	 конечный 	 adjective 
+ financa 	 финансовый 	 adjective 
+ fingro 	 палец 	 anatomy 
+ fini 	 закончить ; докончить 	 verb 
+ fini 	 кончать 	 verb 
+ fino 	 конец 	 abstract 
+ firma 	 твёрдый ; жёсткий 	 adjective 
+ firmo 	 фирма ; торговый дом 	 business 
+ fizika 	 телесный ; физический 	 adjective 
+ fizika 	 физический 	 adjective 
+ fiŝo 	 рыба 	 animal 
+ flago 	 флаг 	 object 
+ flamo 	 огонь ; пламя 	 nature 
+ flava 	 жёлтый 	 color 
+ flegado 	 попечение 	 abstract 
+ flegistino 	 медсестра ; няня 	 profession 
+ floro 	 цветок 	 nature 
+ flugi 	 летать 	 verb 
+ flugilo 	 крыло 	 anatomy 
+ flugo 	 летание ; полёт 	 transport 
+ fluo 	 поток 	 nature 
+ fluo 	 струя 	 nature 
+ fluo 	 течение ; поток 	 nature 
+ fojfoje 	 иногда 	 adverb 
+ folio 	 листва 	 nature 
+ fondi 	 основать 	 verb 
+ fonto 	 источник 	 nature 
+ fora 	 далёкий 	 adjective 
+ forgesi 	 забыть ; забывать 	 verb 
+ foriri 	 уйти 	 verb 
+ forko 	 вилка 	 food 
+ formiko 	 муравей 	 animal 
+ formo 	 конфигурация, форма 	 art 
+ formularo 	 формуляр 	 society 
+ forpermeso 	 отпуск 	 society 
+ forta 	 сильный 	 adjective 
+ forto 	 сила 	 abstract 
+ forto 	 сила 	 abstract 
+ fotoaparato 	 фотоаппарат 	 object 
+ fotografisto 	 фотограф 	 profession 
+ fragila 	 хрупкий 	 adjective 
+ framo 	 рамка 	 object 
+ frapo 	 удар 	 abstract 
+ fratino 	 сестра 	 family 
+ frato 	 брат 	 family 
+ frauxlino 	 девушка ; девочка 	 family 
+ frazo 	 предложение 	 linguistics 
+ fresxa 	 свежий 	 adjective 
+ fresxdata 	 недавний 	 adjective 
+ fromaĝo 	 сыр 	 food 
+ frue 	 ранний ; скорый 	 adjective 
+ frue 	 скоро 	 adverb 
+ frukto 	 фрукты 	 food 
+ frunto 	 лоб ; чело 	 anatomy 
+ fumi 	 коптить 	 verb 
+ fumo 	 дым 	 nature 
+ funkciado 	 действие 	 mathematics 
+ funkcio 	 намерение ; цель 	 linguistics 
+ funkcio 	 функция 	 mathematics 
+ gajni 	 выиграть ; победить 	 verb 
+ gajni 	 достичь 	 verb 
+ garaĝo 	 гараж 	 transport 
+ gardo 	 сторож 	 profession 
+ gasto 	 гость 	 travelling 
+ geedzigxo 	 брак 	 family 
+ generalo 	 генерал 	 profession 
+ geno 	 ген 	 anatomy 
+ genuo 	 колено 	 anatomy 
+ gildo 	 клуб 	 society 
+ gitaro 	 гитара 	 object 
+ glacio 	 лёд 	 material 
+ glacio 	 лёд 	 nature 
+ glaso 	 стакан 	 food 
+ glata 	 гладкий 	 adjective 
+ glito 	 буксовка 	 abstract 
+ glueca 	 клейкий 	 adjective 
+ glui 	 клеить 	 verb 
+ gluo 	 клей 	 material 
+ golfo 	 гольф 	 travelling 
+ golo 	 гол 	 sports 
+ gorgxo 	 глотка ; зев ; горло 	 anatomy 
+ grado 	 степень 	 linguistics 
+ grado 	 уровень 	 linguistics 
+ granda 	 большой ; великий 	 adjective 
+ granda 	 крупный ; большой 	 adjective 
+ grandeco 	 размер 	 physics 
+ grasa 	 жирный 	 adjective 
+ graso 	 жир 	 material 
+ grava 	 важный 	 adjective 
+ grizo 	 серый 	 adjective 
+ grizo 	 серый 	 color 
+ grundo 	 земля 	 material 
+ grundo 	 земля ; почва 	 nature 
+ grupo 	 группа 	 abstract 
+ grupo 	 общество 	 society 
+ gusto 	 вкус 	 nature 
+ gustumi 	 poпробовать 	 verb 
+ guto 	 капля 	 object 
+ gvidi 	 вести 	 verb 
+ gxenerala 	 всеобщий ; общий 	 adjective 
+ gxia 	 его 	 pronoun 
+ gxin 	 это 	 pronoun 
+ gxis 	 до 	 conjunction 
+ gxojigi 	 обрадовать 	 verb 
+ gxusta 	 правильный 	 adjective 
+ gxuste 	 точно 	 adverb 
+ haltigi 	 останавить 	 verb 
+ halto 	 остановить 	 abstract 
+ haro 	 волос ; ворс 	 anatomy 
+ haroj 	 волосы 	 anatomy 
+ hauxto 	 кожа 	 anatomy 
+ havebla 	 доступный 	 adjective 
+ havi 	 владеть 	 verb 
+ havi 	 иметь 	 verb 
+ havo 	 имущество 	 society 
+ hejmo 	 жилище ; дом 	 house 
+ hela 	 светлый 	 adjective 
+ hela 	 явный 	 adjective 
+ helpi 	 помочь 	 verb 
+ helpo 	 помощь ; содействие 	 communication 
+ herbo 	 трава 	 nature 
+ historio 	 история 	 society 
+ hodiaŭ 	 сегодня 	 adverb 
+ homa 	 гуманный 	 adjective 
+ homo 	 лицо ; человек 	 family 
+ homo 	 мужчина ; человек 	 family 
+ honori 	 учитывать 	 verb 
+ horlogxo 	 часы 	 device 
+ horloĝo 	 часы 	 object 
+ horo 	 час 	 time 
+ hotelo 	 гостиница ; отель 	 city 
+ humideco 	 влажность 	 nature 
+ humoro 	 юмор 	 communication 
+ hundo 	 собака 	 animal 
+ iam 	 раз 	 adverb 
+ identigi 	 опознать 	 verb 
+ ili 	 они 	 pronoun 
+ ilia 	 их 	 pronoun 
+ ilin 	 их 	 pronoun 
+ imiti 	 подражать 	 verb 
+ impostigo 	 налогообложение ; налог 	 business 
+ ina 	 женский 	 adjective 
+ indiki 	 сигнализировать 	 verb 
+ individua 	 единочный 	 adjective 
+ individuo 	 индивидуум 	 society 
+ industria 	 промышленный ; индустриальный 	 adjective 
+ industrio 	 промышленность 	 society 
+ infaneto 	 ребёнок 	 family 
+ infano 	 юноша ; паренёк 	 family 
+ informo 	 сведениe ; информация 	 communication 
+ inkluzivi 	 включить 	 verb 
+ inko 	 чернила 	 material 
+ insekto 	 насекомые 	 animal 
+ institucio 	 учреждение 	 society 
+ instruado 	 образование 	 education 
+ instrui 	 обучать 	 verb 
+ instruisto 	 учитель 	 profession 
+ instrumento 	 инструмент ; орудие 	 device 
+ insulo 	 остров 	 nature 
+ inteligenta 	 разумный ; интеллигентный 	 adjective 
+ intenci 	 замышлять 	 verb 
+ inter 	 среди 	 preposition 
+ interesa 	 интересный 	 adjective 
+ intereso 	 интерес 	 communication 
+ interezo 	 процент 	 business 
+ interkonsento 	 соглашение ; договор ;контракт ; урегулирование 	 business 
+ internacia 	 международный 	 adjective 
+ interreto 	 интернет 	 mathematics 
+ intervjuo 	 разговор ; беседа ; диалог 	 communication 
+ inĝenierarto 	 технология 	 abstract 
+ iri 	 ходить 	 verb 
+ iĝi 	 стать 	 verb 
+ jako 	 куртка ; пиджак 	 clothes 
+ jam 	 уже 	 adverb 
+ januaro 	 январь 	 time 
+ jarcento 	 век 	 time 
+ jaro 	 год 	 time 
+ jes 	 да 	 abstract 
+ julio 	 июль 	 time 
+ juna 	 молодой 	 adjective 
+ junio 	 июнь 	 time 
+ jupo 	 юбка 	 clothes 
+ juro 	 право 	 society 
+ juvelo 	 драгоценность 	 object 
+ juĝisto 	 судья 	 profession 
+ jxauxdo 	 четверг 	 time 
+ jxeti 	 бросать ; кидать 	 verb 
+ kafo 	 кофе 	 food 
+ kaj 	 и 	 conjunction 
+ kalkuli 	 высчитать 	 verb 
+ kalkulilo 	 арифмометр ; счётчик 	 device 
+ kalkulo 	 счёт 	 business 
+ kampo 	 поле 	 nature 
+ kantisto 	 певец 	 profession 
+ kanzono 	 песня 	 art 
+ kapabla 	 способный 	 adjective 
+ kapitalo 	 капитал 	 business 
+ kapitulaci 	 поддаться 	 verb 
+ kapo 	 голова 	 anatomy 
+ kapro 	 козёл ; коза 	 animal 
+ kapti 	 схватить 	 verb 
+ karaktero 	 качество 	 abstract 
+ karaktro 	 знак 	 linguistics 
+ karbo 	 уголь 	 material 
+ karbonhidrato 	 углевод 	 food 
+ kardinala 	 основной 	 adjective 
+ karto 	 карточка 	 object 
+ kastelo 	 замок ; кремль 	 city 
+ kato 	 кот ; кошка 	 animal 
+ kauxzo 	 причина 	 abstract 
+ kemia 	 химический 	 adjective 
+ kemia elemento 	 элемент 	 material 
+ kemiaĵo 	 химикат 	 material 
+ kemio 	 химия 	 science 
+ kesteto 	 коробка 	 object 
+ kesto 	 ларь 	 object 
+ kial 	 почему 	 adverb 
+ kiel 	 как 	 adverb 
+ kies 	 чей 	 pronoun 
+ kiki 	 лягнуть 	 verb 
+ kino 	 кино ; кинотеатр 	 city 
+ kio 	 который 	 pronoun 
+ kisi 	 целовать 	 verb 
+ kiso 	 поцелуй 	 relations 
+ kiu 	 какой 	 pronoun 
+ kiu 	 кого 	 pronoun 
+ kiu 	 кто 	 pronoun 
+ klabo 	 дубинка 	 object 
+ klasi 	 сортировать 	 verb 
+ klaso 	 ранг ; класс 	 art 
+ klavo 	 клавиша 	 object 
+ kliento 	 покупатель ; заказчик ; клиент 	 business 
+ klingo 	 лезвие 	 object 
+ knabo 	 мальчик ; парень 	 family 
+ kognicio 	 знание 	 education 
+ kolo 	 шея ; горло 	 anatomy 
+ koloro 	 окрашенность ; цвет 	 art 
+ koloroj 	 краска 	 art 
+ kolumo 	 воротник ; туфля 	 clothes 
+ komandi 	 контролировать 	 verb 
+ komenciĝi 	 начинаться 	 verb 
+ komenco 	 старт 	 abstract 
+ komerco 	 занятие ; торговля 	 business 
+ komisiono 	 комитет ; комиссия 	 society 
+ kompari 	 сравнивать 	 verb 
+ komparo 	 сравнение 	 abstract 
+ kompleta 	 комплектный 	 adjective 
+ kompleto 	 комплект 	 sports 
+ kompleto 	 множество 	 mathematics 
+ kompreni 	 понимать 	 verb 
+ kompreni 	 понимать 	 verb 
+ komputero 	 компьютер 	 device 
+ komuna 	 совместный 	 adjective 
+ komunumo 	 община 	 society 
+ koncedi 	 припустить ; признать 	 verb 
+ koncerto 	 концерт 	 art 
+ koncilio 	 совет 	 society 
+ kondimenti 	 приправить 	 verb 
+ kondiĉo 	 состояние 	 abstract 
+ kondukado 	 руководство ; предводительство 	 society 
+ konduki 	 завести 	 verb 
+ konduti 	 относиться 	 verb 
+ konduto 	 поведения 	 abstract 
+ konkurado 	 соревнование ; состязание 	 society 
+ konkuranto 	 соперник 	 business 
+ konkurenco 	 конкуренция ; соревнование 	 business 
+ konscia 	 сознающий 	 adjective 
+ konsekvenco 	 последствие 	 medicine 
+ konsenti 	 согласиться 	 verb 
+ konservi 	 сохранить 	 verb 
+ konsideri 	 считать 	 verb 
+ konsilo 	 совет 	 communication 
+ konstruado 	 стройка 	 house 
+ konstrui 	 строить 	 verb 
+ kontrakto 	 контракт 	 business 
+ kontraux 	 против 	 preposition 
+ kontrauxa 	 противоположный 	 adjective 
+ kopii 	 копировать 	 verb 
+ kopio 	 копия 	 object 
+ koramikino 	 девочка ; поклонница 	 family 
+ korbo 	 корзина 	 object 
+ korespondi 	 сходиться 	 verb 
+ koro 	 сердце 	 anatomy 
+ kosmo 	 космос 	 mathematics 
+ kosto 	 расход 	 society 
+ kosto 	 стоимость ; цена 	 business 
+ kostumo 	 одежда ; платье 	 clothes 
+ kotono 	 хлопок 	 material 
+ koverto 	 конверт 	 object 
+ kovrilo 	 крышка 	 object 
+ krajono 	 карандаш 	 object 
+ kravato 	 галстук 	 clothes 
+ kredi 	 верить 	 verb 
+ kreski 	 расти 	 verb 
+ kreski 	 увеличивать(ся) 	 verb 
+ kresko 	 рост 	 abstract 
+ kriegi 	 кричать 	 verb 
+ krimo 	 преступление 	 society 
+ kriterio 	 критерий 	 communication 
+ krocxilo 	 крючок 	 object 
+ kruda 	 грубый 	 adjective 
+ kruda 	 грубый 	 adjective 
+ kruro 	 нога 	 anatomy 
+ kudri 	 шить 	 verb 
+ kudrilo 	 иголка ; игла 	 medicine 
+ kuiradi 	 варить 	 verb 
+ kuirejo 	 кухня 	 house 
+ kuirforno 	 печь 	 device 
+ kuiri 	 готовить 	 verb 
+ kuiristo 	 повар ; кухарка 	 profession 
+ kuko 	 сладкое ; пирожное 	 food 
+ kulero 	 ложка 	 food 
+ kulturo 	 культура 	 society 
+ kun 	 с 	 preposition 
+ kune 	 вместе 	 adverb 
+ kunligi 	 соединить(ся) 	 verb 
+ kuracado 	 обхождение 	 abstract 
+ kuranta 	 современный 	 adjective 
+ kuraĝigi 	 ободрить 	 verb 
+ kurbo 	 искривление ; кривизна ; изгиб 	 mathematics 
+ kurbo 	 кривая ; дуга 	 art 
+ kuri 	 бежать 	 verb 
+ kurso 	 курс 	 education 
+ kurta 	 короткий 	 adjective 
+ kurteno 	 занавеска 	 house 
+ kusxi 	 лежать 	 verb 
+ kutime 	 обычно 	 adverb 
+ kvadrata 	 квадратный 	 adjective 
+ kvadrato 	 вторая степень 	 mathematics 
+ kvadrato 	 квадрат 	 mathematics 
+ kvalito 	 качество 	 abstract 
+ kvar 	 четыре 	 number 
+ kvara 	 четвёртый 	 number 
+ kvardek 	 сорок 	 number 
+ kvieta 	 тихий 	 adjective 
+ kvieteco 	 тишина 	 abstract 
+ kvin 	 пять 	 number 
+ kvina 	 пятый 	 number 
+ kvindek 	 пятьдесят 	 number 
+ la 	 ''not used'' 	 article 
+ labori 	 обрабатывать 	 verb 
+ labori 	 работать 	 verb 
+ laboristo 	 рабочий 	 profession 
+ laboro 	 дело 	 abstract 
+ laboro 	 работа 	 abstract 
+ laca 	 усталый 	 adjective 
+ ladskatolo 	 консерва 	 object 
+ lago 	 озеро 	 nature 
+ lakto 	 молоко 	 food 
+ lamentinda 	 грустный 	 adjective 
+ lango 	 язык 	 anatomy 
+ lano 	 волна ; шерсть 	 material 
+ lanta 	 медленный 	 adjective 
+ lante 	 медленно 	 adverb 
+ largxa 	 широкий 	 adjective 
+ lasta 	 прошлый 	 adjective 
+ latero 	 сторона 	 mathematics 
+ laux 	 вдоль 	 adverb 
+ lauxta 	 громкий 	 adjective 
+ lavi 	 вымыть 	 verb 
+ lavkuvo 	 лохань 	 house 
+ ledo 	 кожа 	 material 
+ lefta 	 левый 	 adjective 
+ legi 	 читать 	 verb 
+ leono 	 лев 	 animal 
+ lernanto 	 студент ; ученик 	 profession 
+ lernejo 	 школа 	 city 
+ lerni 	 учить(ся) 	 verb 
+ lerta 	 опытный 	 adjective 
+ lerteco 	 искусство 	 sports 
+ levi 	 поднять 	 verb 
+ levi 	 увеличить 	 verb 
+ levigxi 	 встать 	 verb 
+ leĝa 	 законный 	 adjective 
+ leĝo 	 закон 	 society 
+ li 	 его 	 pronoun 
+ lia 	 его 	 pronoun 
+ libera 	 свободный 	 adjective 
+ liberigi 	 освободить 	 verb 
+ libro 	 книга 	 object 
+ lifto 	 лифт 	 device 
+ ligno 	 дерево 	 material 
+ likva 	 жидкий 	 adjective 
+ likva 	 жидкость 	 nature 
+ limigi 	 ограничивать 	 verb 
+ limito 	 граница ; лимит 	 mathematics 
+ lingvo 	 язык 	 communication 
+ lipo 	 губа 	 anatomy 
+ listo 	 перечень 	 abstract 
+ litero 	 буква 	 linguistics 
+ litero 	 письмо 	 object 
+ lito 	 кровать ; постель 	 house 
+ liveri 	 вручить 	 verb 
+ liveri 	 предоставить 	 verb 
+ logxantaro 	 население 	 society 
+ loka 	 местный 	 adjective 
+ loko 	 место 	 abstract 
+ longa 	 длинный 	 adjective 
+ ludanto 	 игрок 	 sports 
+ ludi 	 играть 	 verb 
+ ludo 	 игра 	 mathematics 
+ ludo 	 игра 	 sports 
+ lumo 	 свет 	 nature 
+ lundo 	 понедельник 	 time 
+ luno 	 месяц 	 nature 
+ majusklo 	 заглавная буква 	 linguistics 
+ majxora 	 главный 	 adjective 
+ malalta 	 низкий ; невысокий 	 adjective 
+ malami 	 ненавидеть 	 verb 
+ malamo 	 ненависть 	 relations 
+ malantaux 	 сзади ; позади 	 adverb 
+ malbela 	 безобразный ; некрасивый 	 adjective 
+ malbona 	 плохой 	 adjective 
+ maldika 	 узкий 	 adjective 
+ maldorma 	 бдительный 	 adjective 
+ maldungi 	 сократить 	 verb 
+ malfacila 	 трудный 	 adjective 
+ malfacileco 	 трудность 	 abstract 
+ malfermi 	 открыть 	 verb 
+ malfrue 	 поздно 	 adverb 
+ malgaja 	 печальный 	 adjective 
+ malgranda 	 маленький 	 adjective 
+ malgrasa 	 нежирный 	 adjective 
+ malgrauxe 	 хотя 	 adverb 
+ malgraŭ 	 несмотря 	 preposition 
+ malgxusta 	 неправильный 	 adjective 
+ maljuna 	 старый 	 adjective 
+ malmulta 	 немного ; мало 	 adjective 
+ malmulta 	 немного ; мало 	 adverb 
+ malmultekosta 	 дешевый 	 adjective 
+ malo 	 противоположность 	 abstract 
+ malpeza 	 лёгкий 	 adjective 
+ malpura 	 грязный 	 adjective 
+ malpura 	 грязный 	 adjective 
+ malricxa 	 бедный 	 adjective 
+ malriĉa 	 жалкий ; жалобный 	 adjective 
+ malsana 	 больной 	 adjective 
+ malsano 	 болезнь 	 medicine 
+ malsanulejo 	 больница 	 city 
+ malsata 	 голодный 	 adjective 
+ malseka 	 мокрый 	 adjective 
+ malsekigi 	 намочить 	 verb 
+ malsupren 	 книзу ; вниз 	 adverb 
+ malvarma 	 холодный 	 adjective 
+ malvarmo 	 холод 	 nature 
+ malvarmumo 	 простуда ; насморк 	 medicine 
+ malvasta 	 узкий 	 adjective 
+ maniero 	 способ ; метод ; стиль 	 mathematics 
+ mano 	 рука 	 anatomy 
+ mansaketo 	 сумка ; сумочка 	 clothes 
+ manĝi 	 есть 	 verb 
+ manĝo 	 блюдо ; еда 	 food 
+ mapo 	 карта 	 object 
+ maristo 	 матрос ; моряк 	 profession 
+ marko 	 марка 	 abstract 
+ maro 	 море 	 nature 
+ marsxi 	 идти 	 verb 
+ martelo 	 молоток 	 object 
+ maskla 	 мужской 	 adjective 
+ masklo 	 самец 	 society 
+ maso 	 масса 	 physics 
+ matcxo 	 матч 	 sports 
+ matenmangxo 	 завтрак 	 food 
+ mateno 	 утро 	 time 
+ materia 	 материальный 	 adjective 
+ materialo 	 материал 	 material 
+ materio 	 вещество 	 material 
+ mebloj 	 мебель 	 house 
+ medicina 	 лечебный 	 adjective 
+ medio 	 окружение 	 nature 
+ membro 	 член 	 society 
+ memoro 	 воспоминание 	 communication 
+ memoro 	 память 	 communication 
+ mencii 	 цитировать 	 verb 
+ mendo 	 приказ ; команда 	 society 
+ menso 	 ум, мысль 	 mathematics 
+ mensogi 	 лгать 	 verb 
+ mensogo 	 ложь 	 communication 
+ mentono 	 подбородок 	 anatomy 
+ menuo 	 меню 	 object 
+ merkredo 	 среда 	 time 
+ metala 	 металлический 	 adjective 
+ metalo 	 металл 	 material 
+ meti 	 класть 	 verb 
+ metodo 	 способ ; метод 	 mathematics 
+ metroo 	 метро 	 transport 
+ metropolo 	 мегаполис 	 society 
+ meznombro 	 среднее 	 mathematics 
+ mezurado 	 измерение 	 art 
+ mezuri 	 мерить 	 verb 
+ mezuro 	 мероприятия 	 abstract 
+ mia 	 мой 	 pronoun 
+ mil 	 тысяча 	 number 
+ miliono 	 миллион 	 number 
+ militisto 	 военный 	 adjective 
+ min 	 меня 	 pronoun 
+ minejo 	 шахта 	 object 
+ ministro 	 министр 	 profession 
+ minuto 	 минута 	 time 
+ minuto 	 момент ; миг 	 time 
+ modelo 	 модель ; макет 	 object 
+ moderna 	 современный 	 adjective 
+ moderna 	 современный 	 adjective 
+ modo 	 мода 	 abstract 
+ mola 	 мягкий 	 adjective 
+ momente 	 немедленно 	 adverb 
+ momento 	 момент ; мгновение 	 mathematics 
+ monatajxo 	 менструация 	 medicine 
+ monato 	 месяц 	 time 
+ monato 	 месяц 	 transport 
+ monbileto 	 банкнот ; кредитный билет 	 business 
+ mondo 	 свет ; мир 	 nature 
+ mono 	 деньги 	 business 
+ monteto 	 взгорье ; холм 	 nature 
+ monto 	 гора 	 nature 
+ montri 	 доказать 	 verb 
+ montri 	 показать 	 verb 
+ mordi 	 куснуть 	 verb 
+ morgaŭ 	 завтра 	 adverb 
+ morta 	 мёртвый 	 adjective 
+ morti 	 умереть 	 verb 
+ mortigi 	 убить 	 verb 
+ morto 	 смерть 	 nature 
+ motivo 	 причина 	 communication 
+ motoro 	 двигатель 	 device 
+ movado 	 движение 	 physics 
+ movi 	 двигать 	 verb 
+ movo 	 движение 	 physics 
+ multaj 	 много 	 adjective 
+ multe 	 много 	 adjective 
+ muro 	 стена 	 house 
+ muskolo 	 мускул ; мышца 	 anatomy 
+ muzeo 	 музей 	 city 
+ muzikisto 	 музыкант 	 profession 
+ muziko 	 музыка 	 art 
+ muŝo 	 муха 	 animal 
+ nacia 	 национальный ; народный 	 adjective 
+ nacio 	 народ ; нация 	 society 
+ najbaro 	 сосед 	 family 
+ najlo 	 гвоздь 	 object 
+ naskiĝtago 	 день рождения 	 family 
+ natura 	 натуральный 	 adjective 
+ natura lingvo 	 язык 	 linguistics 
+ naturo 	 природа 	 nature 
+ nazo 	 нос 	 anatomy 
+ naŭ 	 девять 	 number 
+ naŭa 	 девятый 	 number 
+ ne 	 нет 	 abstract 
+ ne 	 нет 	 adverb 
+ necesa 	 необходимый 	 adjective 
+ necesejo 	 уборная ; туалет 	 house 
+ necesi 	 требовать 	 verb 
+ nefleksebla 	 жёсткий ; негнущийся 	 adjective 
+ neglekti 	 запустить 	 verb 
+ negoci 	 торговать 	 verb 
+ negocisto 	 бизнесмен 	 profession 
+ negxi 	 идёт снег 	 verb 
+ negxo 	 снег 	 nature 
+ nelge 	 недавно 	 adverb 
+ nenia 	 никакой ; никто 	 adjective 
+ nenio 	 нуль ; ничто ; ничего 	 mathematics 
+ nervo 	 нерв 	 anatomy 
+ neĝo 	 снег 	 nature 
+ ni 	 мы 	 pronoun 
+ nia 	 наш 	 pronoun 
+ nigra 	 чёрный 	 adjective 
+ nin 	 нас 	 pronoun 
+ niveli 	 выравнить 	 verb 
+ nodo 	 узел 	 object 
+ nokto 	 ночь 	 nature 
+ noktomezo 	 полночь 	 time 
+ nombro 	 количество 	 abstract 
+ nombro 	 количество ; число 	 linguistics 
+ nomi 	 назвать 	 verb 
+ nomo 	 имя 	 linguistics 
+ norda 	 северный 	 adjective 
+ nordo 	 север 	 logistics 
+ normala 	 нормальный 	 adjective 
+ normala 	 стандартный 	 adjective 
+ noto 	 заметка 	 communication 
+ noto 	 отметка 	 education 
+ nova 	 новый 	 adjective 
+ novaĵo 	 новость 	 society 
+ novembro 	 ноябрь 	 time 
+ nubo 	 облако 	 nature 
+ nukso 	 орех 	 food 
+ nun 	 сейчас 	 time 
+ nuna 	 современный ; настойащий 	 adjective 
+ nuntempe 	 теперь ; сейчас 	 adverb 
+ nupto 	 брак 	 family 
+ nur 	 просто ; только 	 adverb 
+ nutraĵo 	 блюдо ; питание 	 food 
+ observi 	 смотреть 	 verb 
+ odori 	 пахнуть 	 verb 
+ odori 	 чуять 	 verb 
+ odoro 	 запах 	 nature 
+ oferti 	 предложить 	 verb 
+ oferto 	 предложение 	 abstract 
+ oficejo 	 офис ; контора ; канцелярия 	 business 
+ oficisto 	 чиновник 	 profession 
+ ofte 	 часто 	 adverb 
+ ok 	 восемь 	 number 
+ oka 	 восьмой 	 number 
+ okazi 	 случиться 	 verb 
+ okazo 	 возможность 	 abstract 
+ okazo 	 случай 	 abstract 
+ okcidento 	 запад 	 logistics 
+ okdek 	 восемьдесят 	 number 
+ oktobro 	 октябрь 	 time 
+ okulo 	 глаз 	 anatomy 
+ okupo 	 профессия ; работа 	 business 
+ ol 	 чем 	 conjunction 
+ oleo 	 масло 	 material 
+ ondo 	 волна 	 nature 
+ operacio 	 операция 	 abstract 
+ opinii 	 думать 	 verb 
+ opinio 	 мнение ; суждение 	 communication 
+ ora 	 золотой ; золотистий 	 color 
+ orangxa 	 оранжевый 	 color 
+ oranĝo 	 апельсин 	 food 
+ ordeno 	 орден 	 society 
+ ordo 	 порядок 	 linguistics 
+ ordoni 	 приказать 	 verb 
+ orelo 	 ухо 	 anatomy 
+ organizado 	 организация 	 society 
+ oriento 	 выход 	 logistics 
+ origina 	 исходный ; оригинальный 	 adjective 
+ originalo 	 оригинал 	 object 
+ origino 	 источник 	 transport 
+ orkestro 	 оркестр 	 art 
+ oro 	 золото 	 material 
+ ortografio 	 правописание ; орфография 	 linguistics 
+ osto 	 кость 	 anatomy 
+ ovo 	 яйцо 	 food 
+ pacienca 	 терпеливый 	 adjective 
+ paciento 	 пациент ; больной 	 medicine 
+ paco 	 мир 	 abstract 
+ pafi 	 стрелять 	 verb 
+ pafilo 	 оружие 	 object 
+ pagi 	 платить 	 verb 
+ pako 	 пакет 	 object 
+ palpi 	 чувствовать 	 verb 
+ palto 	 пальто ; пиджак 	 clothes 
+ pano 	 хлеб 	 food 
+ papero 	 бумага 	 material 
+ para 	 чётный 	 adjective 
+ paralela 	 параллельный 	 adjective 
+ pardoni 	 простить 	 verb 
+ parko 	 парк ; сад 	 city 
+ paro 	 пара 	 number 
+ parolado 	 язык 	 linguistics 
+ paroli 	 говорить 	 verb 
+ parto 	 часть 	 abstract 
+ parto 	 часть 	 society 
+ pasagxero 	 пассажир 	 transport 
+ pasinta 	 прошлый 	 adjective 
+ pasporto 	 паспорт 	 object 
+ pasxo 	 шаг ; поступь 	 mathematics 
+ patrino 	 мамочка 	 family 
+ patro 	 папа ; отец 	 family 
+ pauxzo 	 пауза ; перерыв 	 abstract 
+ paĝo 	 страница 	 object 
+ paŭzo 	 перерыв ; пауза 	 time 
+ peco 	 кусок 	 abstract 
+ peco 	 кусок 	 object 
+ peco 	 кусок 	 object 
+ peno 	 надсада 	 abstract 
+ peno 	 старание 	 abstract 
+ penso 	 мысль 	 communication 
+ pentrado 	 картина 	 art 
+ perdi 	 проиграть 	 verb 
+ perdi 	 терять 	 verb 
+ perdo 	 утрата ; пропадание ; урон 	 business 
+ perforta 	 насильственный 	 adjective 
+ permesi 	 оставить 	 verb 
+ permesi 	 разрешить 	 verb 
+ persona 	 личный 	 adjective 
+ personeco 	 характер 	 abstract 
+ persono 	 лицо ; человек 	 family 
+ peti 	 просить 	 verb 
+ peti 	 спрашивать 	 verb 
+ peto 	 просьба 	 communication 
+ petrolo 	 нефть 	 material 
+ peza 	 трудный 	 adjective 
+ pezi 	 взвешивать(ся) 	 verb 
+ pezo 	 вес 	 physics 
+ piedbato 	 пинок 	 abstract 
+ piedfingro 	 палец на ноге 	 anatomy 
+ piedo 	 подошва 	 anatomy 
+ piedpilko 	 футбол 	 sports 
+ pilko 	 мяч 	 object 
+ piloto 	 пилот 	 profession 
+ pinglo 	 булавка 	 object 
+ pisti 	 разгромить 	 verb 
+ plani 	 наметить 	 verb 
+ plani 	 предложить 	 verb 
+ planko 	 настил ; пол 	 house 
+ plano 	 план 	 abstract 
+ planto 	 растение 	 house 
+ plata 	 плоский 	 adjective 
+ plejparto 	 большинство 	 abstract 
+ plena 	 полный 	 adjective 
+ plenigi 	 наполнить 	 verb 
+ plezuro 	 удовольствие 	 abstract 
+ pli 	 более ; болше 	 adjective 
+ plibonigi 	 улучшить 	 verb 
+ pliigo 	 прирост 	 abstract 
+ plimalgrandigi 	 сократить 	 verb 
+ plori 	 плакать 	 verb 
+ plue 	 дальше 	 adjective 
+ plugi 	 пахать 	 verb 
+ plumbo 	 свинец 	 material 
+ plumo 	 перо 	 object 
+ plumo 	 ручка 	 object 
+ pluvi 	 дождить ; идёт дождь 	 verb 
+ pluvo 	 дождь 	 nature 
+ pluvo 	 дождь 	 nature 
+ poemo 	 стихотворение ; поэма 	 art 
+ poezio 	 поэзия 	 art 
+ pokalo 	 кубок 	 object 
+ policano 	 милиционер 	 profession 
+ polico 	 полиция 	 society 
+ politika 	 политический 	 adjective 
+ politikisto 	 политик 	 profession 
+ politiko 	 политика 	 society 
+ poluri 	 глянцевать 	 verb 
+ polvo 	 порошок 	 material 
+ polvo 	 пыль 	 material 
+ pomo 	 яблоко 	 food 
+ ponto 	 мост 	 object 
+ popolamaso 	 общественность 	 society 
+ pordego 	 ворота ; калитка 	 house 
+ pordo 	 дверь ; створка 	 house 
+ porko 	 свинья 	 animal 
+ porti 	 нести 	 verb 
+ porti 	 носить 	 verb 
+ porti 	 перенести 	 verb 
+ posedanto 	 собственник ; владелец ; обладатель 	 business 
+ post 	 после ; потом 	 adjective 
+ poste 	 потом 	 adverb 
+ posttagmezo 	 время после полудня 	 time 
+ povo 	 сила 	 abstract 
+ povo 	 способность 	 abstract 
+ pozicio 	 позиция ; положение 	 linguistics 
+ poŝtelefono 	 мобильный телефон ; мобильник 	 device 
+ poŝto 	 почта 	 communication 
+ praktiko 	 практика 	 art 
+ prefere 	 лучше 	 adverb 
+ premo 	 давление 	 nature 
+ preni 	 взять ; брать 	 verb 
+ presi 	 напечатать 	 verb 
+ preskaux 	 почти 	 adverb 
+ preta 	 готовый ; приготовленный 	 adjective 
+ pretigi 	 приготовить 	 verb 
+ preventi 	 предотвратить 	 verb 
+ prezenti 	 представить 	 verb 
+ prezenti 	 привести 	 verb 
+ prezidento 	 президент 	 profession 
+ prezo 	 оценка 	 transport 
+ prilabori 	 выработать 	 verb 
+ printempo 	 весна 	 nature 
+ priskribi 	 описать 	 verb 
+ privata 	 скромный 	 adjective 
+ prizono 	 тюрьма ; заточение 	 city 
+ problemo 	 проблема 	 abstract 
+ problemo 	 проблема 	 mathematics 
+ procedo 	 процесс ; процедура 	 mathematics 
+ produktado 	 производство 	 abstract 
+ produkto 	 продукт 	 object 
+ profesia 	 профессиональный 	 adjective 
+ profesiisto 	 профессионал 	 profession 
+ profiti 	 нажива ; получать доход 	 verb 
+ profito 	 прибыль ; нажива 	 business 
+ programo 	 программа 	 abstract 
+ proklamo 	 провозглашение ; объявление 	 communication 
+ proksima 	 близкий ; недалёкий 	 adjective 
+ proksimume 	 приблизительно 	 adverb 
+ prononco 	 произношение 	 linguistics 
+ proponi 	 предложить 	 verb 
+ propono 	 предложение 	 abstract 
+ propono 	 проект 	 abstract 
+ propra 	 свой 	 adjective 
+ protesti 	 возражать ; протестовать 	 verb 
+ protesto 	 протест 	 communication 
+ prototipo 	 образец 	 linguistics 
+ provi 	 попробовать 	 verb 
+ publika 	 общественный 	 travelling 
+ publikigi 	 издать 	 verb 
+ pumpi 	 качать 	 verb 
+ pumpilo 	 насос 	 device 
+ punkto 	 точка 	 linguistics 
+ puno 	 наказание 	 society 
+ pura 	 чистый 	 adjective 
+ purigi 	 чистить 	 verb 
+ puto 	 колодец 	 object 
+ puŝi 	 толкнуть 	 verb 
+ radiko 	 корень 	 mathematics 
+ radiko 	 корень 	 nature 
+ rado 	 колесо 	 object 
+ rapida 	 быстрый 	 logistics 
+ rapide 	 быстро 	 adverb 
+ raporto 	 рапорт 	 abstract 
+ reago 	 реакция 	 abstract 
+ redoni 	 вернуть 	 verb 
+ ree 	 опять 	 adverb 
+ reflekti 	 отражать 	 verb 
+ regado 	 правительство 	 society 
+ regi 	 править 	 verb 
+ regiono 	 район 	 nature 
+ registri 	 записать 	 verb 
+ regula 	 регулярный 	 adjective 
+ regulo 	 правило ; предписание 	 linguistics 
+ regxa 	 королевский 	 adjective 
+ regxo 	 король 	 society 
+ reklamo 	 пропаганда ; реклама ; объявление 	 business 
+ rekompenco 	 оплата 	 society 
+ rekordo 	 рекорд 	 abstract 
+ rekta 	 прямой 	 adjective 
+ rekte 	 прямо 	 adverb 
+ religio 	 религия 	 society 
+ relo 	 рельс 	 transport 
+ rendevuo 	 встреча ; свидание 	 relations 
+ renkonti 	 встречать(ся) 	 verb 
+ renkontigxo 	 встреча 	 communication 
+ reprezentanto 	 заместитель 	 profession 
+ reprezenti 	 символизировать 	 verb 
+ respondeca 	 ответственный 	 adjective 
+ respondeco 	 ответственность 	 abstract 
+ respondi 	 отвечать ; ответить 	 verb 
+ respondo 	 ответ 	 communication 
+ respubliko 	 демократия ; республика 	 society 
+ resti 	 остаться 	 verb 
+ resto 	 остаток 	 business 
+ restoracio 	 ресторан 	 city 
+ reto 	 сплетение 	 material 
+ revuo 	 журнал 	 object 
+ rezulto 	 результат 	 mathematics 
+ ricevi 	 получить 	 verb 
+ rideti 	 улыбаться 	 verb 
+ rideto 	 улыбка 	 abstract 
+ ridi 	 смеяться 	 verb 
+ rifuzi 	 отказаться 	 verb 
+ rigardi 	 смотреть 	 verb 
+ rigardo 	 вид ; взгляд 	 communication 
+ rilato 	 соотношение 	 communication 
+ ringo 	 кольцо 	 clothes 
+ riporti 	 сообщать 	 verb 
+ ripozi 	 отдыхать 	 verb 
+ ripozo 	 отдых 	 abstract 
+ riski 	 рисковать 	 verb 
+ risko 	 риск 	 transport 
+ risorto 	 пружина 	 object 
+ ritmo 	 ритм 	 art 
+ riveli 	 разоблачить ; открыть 	 verb 
+ rivero 	 река 	 nature 
+ rizo 	 рис 	 food 
+ rizo 	 рис 	 food 
+ rompi 	 разбить 	 verb 
+ rompita 	 разбитый 	 adjective 
+ rondigi 	 округлять(ся) 	 verb 
+ rondo 	 круг 	 mathematics 
+ rozkolora 	 розоватый ; розовый 	 color 
+ rubo 	 отходы 	 material 
+ rugxa 	 красный 	 color 
+ ruro 	 страна 	 society 
+ ruzo 	 трюк 	 abstract 
+ sabato 	 суббота 	 time 
+ sablo 	 песок 	 material 
+ sagaca 	 проницательный 	 adjective 
+ sagxa 	 мудрый 	 adjective 
+ saketo 	 мешок 	 object 
+ salato 	 салат 	 food 
+ sali 	 солить 	 verb 
+ salo 	 соль 	 food 
+ salti 	 прыгать ; скакать 	 verb 
+ salto 	 скачок ; прыжок 	 abstract 
+ salubra 	 здоровый 	 adjective 
+ sama 	 одинаковый 	 adjective 
+ sandvicxo 	 сандвич ; бутерброд 	 food 
+ sango 	 кровь 	 anatomy 
+ sano 	 здоровье 	 abstract 
+ sano 	 здоровье 	 medicine 
+ sapi 	 намылить 	 verb 
+ sapo 	 мыло 	 material 
+ sauxco 	 соус 	 food 
+ savi 	 спасти 	 verb 
+ scenejo 	 сцена 	 object 
+ scienco 	 наука 	 society 
+ scienculo 	 учёный 	 profession 
+ scii 	 знать 	 verb 
+ se 	 если 	 conjunction 
+ seka 	 сухой 	 adjective 
+ sekcio 	 отделение 	 society 
+ sekcio 	 секция ; участок 	 mathematics 
+ sekigi 	 высоцхнуть 	 verb 
+ sekigi 	 высушить 	 verb 
+ sekreta 	 секрет ; тайна 	 communication 
+ sekretario 	 секретарь ; секретарша 	 profession 
+ seksardo 	 гон 	 nature 
+ sekso 	 пол 	 nature 
+ sekso 	 секс 	 relations 
+ sekundo 	 секунда 	 time 
+ sekura 	 безопасный 	 adjective 
+ sekura 	 обеспеченный 	 adjective 
+ sekvi 	 следовать 	 verb 
+ semajnfino 	 выходных 	 time 
+ semajno 	 неделя 	 time 
+ senbrua 	 тихий 	 adjective 
+ sendi 	 послать ; отправить 	 verb 
+ senlabora 	 безработный 	 adjective 
+ senpaga 	 бесплатный 	 adjective 
+ sento 	 ощущение 	 communication 
+ sep 	 семь 	 number 
+ sepa 	 седьмой 	 number 
+ sepdek 	 семьдесят 	 number 
+ sereneco 	 спокойствие 	 abstract 
+ serioza 	 серьёзный 	 adjective 
+ serpento 	 змея 	 animal 
+ seruro 	 замок 	 house 
+ servado 	 услуга 	 sports 
+ ses 	 шесть 	 number 
+ sesa 	 шестой 	 number 
+ sesdek 	 шестьдесят 	 number 
+ sezono 	 времена года 	 nature 
+ seĝo 	 стул 	 house 
+ sidi 	 сидеть 	 verb 
+ signifoplena 	 важный 	 adjective 
+ silko 	 шёлк ; шелк 	 material 
+ simila 	 подобный 	 adjective 
+ simio 	 обезьяна 	 animal 
+ simpla 	 простой 	 adjective 
+ sincera 	 искренний 	 adjective 
+ sinuo 	 povorod 	 transport 
+ sistemo 	 система 	 linguistics 
+ situacio 	 ситуация 	 abstract 
+ skribi 	 писать 	 verb 
+ skribo 	 почерк 	 linguistics 
+ skribotablo 	 письменный стол 	 house 
+ sociala 	 общественный 	 adjective 
+ socio 	 общество 	 society 
+ soifa 	 жаждущий 	 adjective 
+ sola 	 единственный 	 adjective 
+ sola 	 одинокий 	 adjective 
+ soldato 	 солдат 	 profession 
+ sole 	 сам 	 adverb 
+ somero 	 лето 	 nature 
+ sono 	 звук 	 abstract 
+ sono 	 звук 	 nature 
+ sonorilo 	 колокол 	 object 
+ spaco 	 пространство 	 mathematics 
+ speciala 	 особенный 	 adjective 
+ speciale 	 особенно 	 adverb 
+ specifa 	 специфический 	 adjective 
+ speco 	 вид 	 abstract 
+ speco 	 тип 	 abstract 
+ spegulo 	 зеркало 	 house 
+ spermo 	 зерно ; семя 	 food 
+ sperto 	 опыт 	 society 
+ spertulo 	 специалист 	 profession 
+ stacio 	 станция 	 society 
+ stampilo 	 печать ;штемпель 	 object 
+ stari 	 стоять 	 verb 
+ stato 	 состояние 	 mathematics 
+ stilo 	 стиль 	 art 
+ stiri 	 водить 	 verb 
+ stomako 	 желудок 	 anatomy 
+ strando 	 пляж 	 nature 
+ stranga 	 странный 	 adjective 
+ strato 	 улица 	 city 
+ streko 	 черта ; линия 	 mathematics 
+ strikta 	 тесный 	 adjective 
+ strukturo 	 структура 	 linguistics 
+ studi 	 изучать 	 verb 
+ stulta 	 глупый 	 adjective 
+ stulta 	 глупый 	 adjective 
+ sub 	 нижний 	 adjective 
+ suben 	 понизу 	 adjective 
+ subita 	 неожиданный 	 adjective 
+ subite 	 вдруг 	 adverb 
+ subjekto 	 сюжет ; тема 	 linguistics 
+ substituo 	 замена 	 abstract 
+ subteni 	 поддерживать 	 verb 
+ sudo 	 юг 	 logistics 
+ suferi 	 терпеть 	 verb 
+ suficxe 	 довольно 	 adverb 
+ sukcesa 	 успешный 	 adjective 
+ sukceso 	 успех 	 society 
+ sukero 	 сахар 	 food 
+ sumo 	 итог ; сумма 	 mathematics 
+ suno 	 солнце 	 nature 
+ super 	 над 	 adverb 
+ superbazaro 	 супермаркет ; универсам 	 city 
+ superi 	 преодолеть 	 verb 
+ supo 	 суп 	 food 
+ supozi 	 предполагать 	 verb 
+ supren 	 вверх 	 adverb 
+ supro 	 верхушка 	 abstract 
+ sur 	 включённый 	 adjective 
+ surfaco 	 поверхность 	 mathematics 
+ surprizi 	 удивить 	 verb 
+ surprizo 	 сюрприз 	 abstract 
+ suturero 	 стежок 	 medicine 
+ sxargajxo 	 заряд 	 nature 
+ sxargxi 	 зарядить 	 verb 
+ sxia 	 её 	 pronoun 
+ sxlosi 	 замкнуть 	 verb 
+ sxranko 	 шкаф 	 house 
+ sxteli 	 красть ; воровать 	 verb 
+ sxtofo 	 ткань 	 material 
+ sxtupo 	 ступень 	 house 
+ tabelo 	 таблица 	 object 
+ tablo 	 стол 	 house 
+ tagmanĝo 	 обед 	 food 
+ tago 	 день 	 nature 
+ taksi 	 оценивать 	 verb 
+ taksi 	 оценить 	 verb 
+ tapiŝo 	 ковёр 	 house 
+ tasko 	 дело ; труда ; работа 	 business 
+ tasko 	 проект 	 abstract 
+ taso 	 чашка 	 food 
+ teamo 	 команда 	 society 
+ teatro 	 театр 	 city 
+ teda 	 нудный 	 adjective 
+ tegmento 	 крыша 	 house 
+ teknologio 	 технология 	 society 
+ telefoncentralo 	 коммутатор 	 society 
+ telero 	 тарелка 	 food 
+ tempo 	 время 	 physics 
+ tendenco 	 тенденция 	 abstract 
+ tenebra 	 тёмный 	 adjective 
+ teni 	 держать 	 verb 
+ teniso 	 теннис 	 sports 
+ teo 	 чай 	 food 
+ teorio 	 теория 	 education 
+ tero 	 основание ; мотив 	 communication 
+ tero 	 почва ; земля 	 material 
+ terpomo 	 картофелина 	 food 
+ testamento 	 завещание 	 society 
+ testi 	 испытать 	 verb 
+ tia 	 такой 	 adverb 
+ tiam 	 потом ; после 	 adverb 
+ tie 	 там 	 adverb 
+ tiel 	 так ; таким образом 	 adverb 
+ tigo 	 стебель 	 nature 
+ timi 	 бояться 	 verb 
+ timo 	 страх 	 relations 
+ tiri 	 тянуть 	 verb 
+ tirkesto 	 ящик 	 house 
+ titoli 	 назвать 	 verb 
+ titolo 	 надпись ; заголовок 	 society 
+ titolo 	 чемпионат 	 sports 
+ tiu 	 тот 	 pronoun 
+ tiu cxi 	 эта 	 pronoun 
+ tomato 	 помидор ; томат 	 food 
+ tondilo 	 ножницы 	 object 
+ tononomo 	 нота 	 art 
+ torso 	 торс 	 anatomy 
+ totala 	 весь ; целый 	 adjective 
+ trajno 	 поезд 	 transport 
+ trakti 	 лечить 	 verb 
+ trancxi 	 резать 	 verb 
+ transporti 	 доставить 	 verb 
+ transporto 	 перевозка ; транспорт 	 transport 
+ tranĉilo 	 нож 	 food 
+ travivi 	 ощущать ; чуствовать 	 verb 
+ tre 	 очень 	 adverb 
+ trejnado 	 обучение 	 abstract 
+ trejni 	 дрессировать 	 verb 
+ tri 	 три 	 number 
+ tria 	 третий 	 mathematics 
+ tribunalo 	 суд 	 society 
+ tridek 	 тридцать 	 number 
+ trinkajxo 	 напиток 	 food 
+ trinki 	 пить 	 verb 
+ trovi 	 находить 	 verb 
+ trovi 	 обнаружить 	 verb 
+ truo 	 дыра 	 abstract 
+ tubaro 	 труба 	 object 
+ turni 	 повернуть 	 verb 
+ tusi 	 кашлять 	 verb 
+ tuso 	 кашель 	 medicine 
+ tusxo 	 прикосновение 	 abstract 
+ tuta 	 весь ; целый 	 adjective 
+ tutajxo 	 целое 	 abstract 
+ ungo 	 ноготь 	 anatomy 
+ unito 	 единица 	 mathematics 
+ universitato 	 университет ; вуз 	 city 
+ universitato 	 университет ; вуз 	 education 
+ unue 	 сначала 	 adverb 
+ unuiĝo 	 союз 	 society 
+ unuopa 	 холостой ; незамужняя 	 adjective 
+ urbo 	 город 	 society 
+ urso 	 медведь 	 animal 
+ utilo 	 польза 	 abstract 
+ uzanto 	 пользователь 	 society 
+ uzi 	 использовать 	 verb 
+ uzo 	 употребление 	 linguistics 
+ valizo 	 чемодан 	 clothes 
+ valoro 	 ценность 	 art 
+ vaporo 	 пар 	 physics 
+ varma 	 горячий 	 adjective 
+ varma 	 тёплый 	 adjective 
+ varmego 	 жара 	 medicine 
+ varmigi 	 нагревать 	 verb 
+ velo 	 парус 	 object 
+ vendejo 	 лавка ; магазин 	 business 
+ vendi 	 продать 	 verb 
+ vendo 	 продажа ; сбыт 	 business 
+ vendredo 	 пятница 	 time 
+ veneni 	 отравить 	 verb 
+ veneno 	 яд ; отрава 	 material 
+ veni 	 приходить 	 verb 
+ venki 	 победить 	 verb 
+ venonta 	 будущий 	 adjective 
+ venonta 	 следующий 	 adjective 
+ vento 	 ветер 	 nature 
+ vera 	 правильный 	 adjective 
+ verda 	 зелёный 	 color 
+ vere 	 всерьёз 	 adverb 
+ vere 	 действительно 	 adverb 
+ verema 	 правильный ; верный 	 adjective 
+ verkisto 	 писатель 	 profession 
+ versxajna 	 вероятный 	 adjective 
+ versxajne 	 вероятно 	 adverb 
+ vespero 	 вечер 	 time 
+ vestoj 	 одежда 	 clothes 
+ vetero 	 погода 	 nature 
+ viando 	 мясо 	 food 
+ vidi 	 видеть 	 verb 
+ vilagxo 	 деревня 	 society 
+ vilaĝo 	 деревня 	 society 
+ vino 	 вино 	 food 
+ vintro 	 зима 	 nature 
+ violkolora 	 фиолетовый ; тёмно-лиловый 	 color 
+ vipo 	 бич 	 object 
+ virino 	 женщина 	 family 
+ virino 	 женщина 	 society 
+ viskoza 	 густой 	 adjective 
+ vitro 	 стекло 	 material 
+ vivanta 	 живой 	 adjective 
+ vivi 	 жить 	 verb 
+ vivo 	 жизнь 	 nature 
+ vizaĝo 	 лицо 	 anatomy 
+ viziti 	 посетить 	 verb 
+ vizito 	 визит 	 abstract 
+ vocxo 	 голос 	 communication 
+ vojagxo 	 поездка 	 transport 
+ vojo 	 дорога ; путь 	 transport 
+ voko 	 крик ; возглас 	 communication 
+ voli 	 хотеть 	 verb 
+ volo 	 воля 	 abstract 
+ vortaro 	 словарь 	 linguistics 
+ vorto 	 слово 	 linguistics 
+ vosto 	 хвост 	 anatomy 
+ vundi 	 ранить 	 verb 
+ Ĉeĥio 	 Чехия ; Чешская Республика 	 country 
+ ĉambro 	 комната 	 house 
+ ĉapelo 	 шляпа 	 clothes 
+ ĉar 	 потому 	 conjunction 
+ ĉefa 	 главный 	 adjective 
+ ĉefurbo 	 столица 	 society 
+ ĉelo 	 ячейка ; клетка 	 anatomy 
+ ĉemizo 	 рубашка 	 clothes 
+ ĉeno 	 цепь 	 object 
+ ĉiam 	 всегда 	 adverb 
+ ĉokolado 	 шоколад 	 food 
+ ĝardeno 	 сад 	 house 
+ ĝenerale 	 обычно 	 adverb 
+ ĝui 	 радоваться 	 verb 
+ ĵeto 	 бросание 	 sports 
+ ĵurnalisto 	 журналист ; газетный сотрудник 	 profession 
+ ĵurnalo 	 газета 	 object 
+ ŝafo 	 овца 	 animal 
+ ŝanĝi 	 изменить 	 verb 
+ ŝanĝo 	 перемена 	 abstract 
+ ŝi 	 она 	 pronoun 
+ ŝipo 	 судно ; корабль 	 transport 
+ ŝlosilo 	 ключ 	 house 
+ ŝnuro 	 канат 	 transport 
+ ŝoko 	 шок 	 abstract 
+ ŝpari 	 копить 	 verb 
+ ŝtalo 	 сталь 	 material 
+ ŝtato 	 страна 	 society 
+ ŝtato 	 страна ; государство 	 society 
+ ŝtono 	 скала 	 nature 
+ ŝtrumpeto 	 носок ; гольфы = чулки до колен 	 clothes 
+ ŝuo 	 ботинок 	 clothes 

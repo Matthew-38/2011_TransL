@@ -1,0 +1,1771 @@
+# French-Russian translations created from the Universal dictionary at 2011-08-27T09:41:06-06:00
+# (c) Copyright 2011 by All free dictionaries project
+# ALL FREE DICTIONARIES PROJECT DISCLAIMS ALL
+# WARRANTIES WITH REGARD TO THESE TRANSLATIONS, INCLUDING ALL
+# IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO
+# EVENT SHALL ALL FREE DICTIONARIES PROJECT OR ANY OF ITS CONTRIBUTORS
+# BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES
+# OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR
+# PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE
+# OR OTHER ACTION, ARISING OUT OF OR IN CONNECTION
+# WITH THE USE OR PERFORMANCE OF THESE TRANSLATIONS.
+#
+# In other words there may be incorrect translations.
+# If you need to be sure never use these translations!
+#
+# French, German and Czech entries are added manually. The entries for
+# remaining languages are added automatically. Entries for these languages
+# are only experimental.
+#
+# You may not place this file on WWW, ftp and equivalent servers because
+# this file gets outdated very quickly. You may not distribute this file
+# with your dictionary applications without permission. You can contact
+# authors of the Universal dictionary at: http://dicts.info/contact.php
+#
+# This file is for personal use only. You may not distribute this file.
+#
+# New version of this file can be created at: http://www.dicts.info/uddl.php
+#
+
+ Britain 	 Англия ; Великобритания 	 country 
+ Chine 	 китай 	 country 
+ Italie 	 Италия 	 country 
+ Japon 	 Япония 	 country 
+ Royaume d'Espagne 	 Испания 	 country 
+ République de l'Inde 	 Индия 	 country 
+ République française 	 Франция 	 country 
+ République fédérale d'Allemagne 	 Германия 	 country 
+ République tchèque 	 Чехия ; Чешская Республика 	 country 
+ Terre 	 Земля 	 nature 
+ abdiquer 	 поддаться 	 verb 
+ abeille 	 пчела 	 animal 
+ accepter 	 принять 	 verb 
+ accepter 	 припустить ; признать 	 verb 
+ accident 	 несчастный случай ; авария 	 transport 
+ accusation 	 нарекание 	 society 
+ accuser 	 обвинить 	 verb 
+ acheter 	 купить 	 verb 
+ acide 	 кислота 	 material 
+ acier 	 сталь 	 material 
+ acte 	 дело 	 abstract 
+ action 	 акция 	 business 
+ action 	 поступок ; действие 	 mathematics 
+ action 	 поступок ; действие 	 mathematics 
+ activité 	 деятельность 	 mathematics 
+ actrice 	 актриса 	 profession 
+ actuel 	 современный 	 adjective 
+ actuellement 	 теперь ; сейчас 	 adverb 
+ addition 	 сложение 	 mathematics 
+ additionner 	 сосчитать 	 verb 
+ adjacent 	 соседний 	 adjective 
+ adjectif 	 имя прилагательное 	 linguistics 
+ administrer 	 вести 	 verb 
+ adresse 	 адрес 	 abstract 
+ adresse 	 искусство 	 sports 
+ affaire 	 занятие ; торговля 	 business 
+ affaire 	 коммерция ; бизнес 	 business 
+ affaire 	 случай 	 abstract 
+ affamé 	 голодный 	 adjective 
+ affecter 	 поблиять 	 verb 
+ affronter 	 давать отпор ; противостоять 	 verb 
+ agir 	 действовать 	 verb 
+ agrafe 	 крючок 	 object 
+ agrandissement 	 рост 	 abstract 
+ aide 	 помощь ; содействие 	 communication 
+ aiguille 	 иголка ; игла 	 medicine 
+ aiguisé 	 острый 	 adjective 
+ aile 	 крыло 	 anatomy 
+ aimer 	 любить 	 verb 
+ aimer 	 нравиться ; любить 	 verb 
+ aimer 	 радоваться 	 verb 
+ ainsi 	 так ; таким образом 	 adverb 
+ air 	 воздух 	 nature 
+ aire 	 пространство 	 mathematics 
+ alentours 	 среда ; окружающая среда 	 nature 
+ allemand 	 немецкий язык 	 linguistics 
+ aller 	 сходиться 	 verb 
+ aller 	 ходить 	 verb 
+ allumette 	 спичка 	 object 
+ alors 	 потом ; после 	 adverb 
+ alternative 	 альтернатива 	 abstract 
+ aléa 	 риск 	 transport 
+ amant 	 поклонник 	 family 
+ amer 	 горький 	 adjective 
+ amical 	 дружеский 	 adjective 
+ améliorer 	 улучшить 	 verb 
+ ancien 	 бывший 	 adjective 
+ anglais 	 английский язык 	 language 
+ angle 	 угол 	 mathematics 
+ animal 	 животное 	 nature 
+ animer 	 ободрить 	 verb 
+ anneau 	 кольцо 	 clothes 
+ anniversaire 	 день рождения 	 family 
+ annonce 	 пропаганда ; реклама ; объявление 	 business 
+ annoncer 	 сообщить 	 verb 
+ année 	 год 	 time 
+ anse 	 povorod 	 transport 
+ appartement 	 квартира 	 society 
+ appeler 	 просить 	 verb 
+ apporter 	 принести 	 verb 
+ approbation 	 одобрение ; согласие 	 communication 
+ approximatif 	 грубый 	 adjective 
+ apprécier 	 оценивать 	 verb 
+ appui 	 поддержка ; опора 	 abstract 
+ après-midi 	 время после полудня 	 time 
+ arbre 	 дерево 	 house 
+ arc 	 кривая ; дуга 	 art 
+ argent 	 деньги 	 business 
+ argent 	 серебро 	 material 
+ argenté 	 серебряный 	 adjective 
+ argument 	 аргумент 	 communication 
+ argument 	 диспут ; прения ; беседа 	 communication 
+ armée 	 армия 	 society 
+ armée 	 армия 	 society 
+ arrangement 	 соглашение ; договор ;контракт ; урегулирование 	 business 
+ arriver 	 достичь 	 verb 
+ arriver 	 приехать 	 verb 
+ arriver 	 случиться 	 verb 
+ arrière 	 задняя страница 	 clothes 
+ arrondir 	 округлять(ся) 	 verb 
+ arrêt 	 остановить 	 abstract 
+ arrêter 	 останавить 	 verb 
+ art 	 искусство 	 art 
+ artiste 	 художник 	 profession 
+ ascenseur 	 лифт 	 device 
+ ascension 	 подъём 	 abstract 
+ aspect 	 аспект 	 abstract 
+ assez 	 довольно 	 adverb 
+ assiette 	 тарелка 	 food 
+ assoiffé 	 жаждущий 	 adjective 
+ assurance 	 страховка 	 business 
+ assurer 	 спасти 	 verb 
+ assurément 	 непременно 	 adverb 
+ astucieux 	 проницательный 	 adjective 
+ attaque 	 набег 	 abstract 
+ attaquer 	 атаковать 	 verb 
+ attendre 	 ждать 	 verb 
+ attendre 	 ждать 	 verb 
+ attention 	 внимание 	 communication 
+ attention 	 заботиться 	 verb 
+ atterrir 	 приземлиться 	 verb 
+ attitude 	 точка зрения 	 abstract 
+ attraper 	 обмануть 	 verb 
+ attraper 	 получить 	 verb 
+ au lieu de 	 вместо 	 adverb 
+ au-dessous 	 нижний 	 adjective 
+ aucun 	 никакой ; никто 	 adjective 
+ audio 	 звук 	 abstract 
+ augmentation 	 прирост 	 abstract 
+ augmenter 	 увеличивать(ся) 	 verb 
+ aujourd'hui 	 сегодня 	 adverb 
+ ausculter 	 слушать 	 verb 
+ aussi 	 tакже ; тоже 	 adverb 
+ austral 	 южный 	 adjective 
+ autocar 	 автобус 	 transport 
+ automatique 	 автоматический 	 adjective 
+ automne 	 осень 	 nature 
+ automobile 	 автомобиль ; машина 	 transport 
+ autorité 	 авторитет 	 society 
+ autorité 	 перевес 	 abstract 
+ autour 	 кругом ; вокруг 	 adverb 
+ autre 	 другой 	 adjective 
+ autre 	 другой 	 adjective 
+ autrefois 	 раз 	 adverb 
+ avant 	 вперед 	 adverb 
+ avant 	 вперёд 	 adverb 
+ avant 	 передняя часть 	 abstract 
+ avantage 	 преимущество 	 abstract 
+ avec 	 с 	 preposition 
+ avion 	 самолёт 	 object 
+ avis 	 мнение ; суждение 	 communication 
+ avoir 	 владеть 	 verb 
+ avoir 	 иметь 	 verb 
+ avoir besoin 	 требовать 	 verb 
+ avril 	 апрель 	 time 
+ aérodrome 	 аэродром ; аэропорт 	 city 
+ bain 	 ванна 	 house 
+ baiser 	 поцелуй 	 relations 
+ baiser 	 целовать 	 verb 
+ ballon 	 мяч 	 object 
+ banque 	 банк 	 city 
+ barbare 	 жестокий 	 adjective 
+ barrière 	 ворота ; калитка 	 house 
+ bas 	 книзу ; вниз 	 adverb 
+ bas 	 низкий ; невысокий 	 adjective 
+ bas 	 понизу 	 adjective 
+ base 	 военная база 	 society 
+ base 	 основа ; база 	 mathematics 
+ base-ball 	 бейсбол 	 sports 
+ bateau 	 лодка 	 object 
+ beau 	 красивый 	 adjective 
+ beaucoup 	 много 	 adjective 
+ beaucoup 	 много 	 adjective 
+ bec 	 клюв 	 anatomy 
+ besoin 	 потребность 	 abstract 
+ beurre 	 масло 	 food 
+ bibliothèque 	 библиотека 	 city 
+ bicyclette 	 велосипед 	 object 
+ bien 	 добро 	 abstract 
+ bien 	 хорошо 	 adverb 
+ bientôt 	 скоро 	 adverb 
+ bijou 	 драгоценность 	 object 
+ billet 	 банкнот ; кредитный билет 	 business 
+ billet 	 билет 	 object 
+ biologie 	 биология 	 science 
+ bizarre 	 странный 	 adjective 
+ bière 	 пиво 	 food 
+ blanc 	 белый 	 adjective 
+ blesser 	 ранить 	 verb 
+ blesser 	 ранить 	 verb 
+ bleu 	 голубой 	 color 
+ boire 	 пить 	 verb 
+ bois 	 дерево 	 material 
+ boisson 	 напиток 	 food 
+ bon 	 хороший ; хорошая 	 adjective 
+ bon 	 хороший ; хорошо 	 adjective 
+ bord 	 кромка ; край 	 mathematics 
+ botte 	 ботинок 	 clothes 
+ bouche 	 уста ; рот 	 anatomy 
+ bouger 	 двигать 	 verb 
+ bouteille 	 бутылка 	 food 
+ boutique 	 лавка ; магазин 	 business 
+ bouton 	 кнопка 	 object 
+ boîte 	 консерва 	 object 
+ branche 	 ветвь 	 nature 
+ bras 	 рука 	 anatomy 
+ brique 	 кирпич 	 house 
+ brosse 	 щётка 	 object 
+ bruit 	 шум ; гам 	 society 
+ brusque 	 обрывистый 	 adjective 
+ bureau 	 офис ; контора ; канцелярия 	 business 
+ bureau 	 письменный стол 	 house 
+ but 	 гол 	 sports 
+ bâtir 	 строить 	 verb 
+ bâton 	 палка 	 object 
+ bébé 	 ребёнок 	 family 
+ cadre 	 рамка 	 object 
+ café 	 кофе 	 food 
+ cageot 	 коробка 	 object 
+ caillou 	 скала 	 nature 
+ calculateur 	 арифмометр ; счётчик 	 device 
+ calme 	 тихий 	 adjective 
+ campagne 	 кампания 	 abstract 
+ caméra 	 камера 	 object 
+ caméra 	 фотоаппарат 	 object 
+ capable 	 способный 	 adjective 
+ capacité 	 способность 	 abstract 
+ capital 	 капитал 	 business 
+ capitale 	 столица 	 society 
+ car 	 ибо 	 conjunction 
+ car 	 потому 	 conjunction 
+ caractère 	 знак 	 linguistics 
+ caractère 	 качество 	 abstract 
+ caractère 	 характер 	 abstract 
+ caractéristique 	 способность 	 abstract 
+ carré 	 вторая степень 	 mathematics 
+ carré 	 квадрат 	 mathematics 
+ carré 	 квадратный 	 adjective 
+ carte 	 карта 	 object 
+ carte 	 карточка 	 object 
+ cassé 	 разбитый 	 adjective 
+ cause 	 причина 	 abstract 
+ ce 	 тот 	 pronoun 
+ ce soir 	 сегодня вечером 	 adverb 
+ cellule 	 келья 	 society 
+ cellule 	 ячейка ; клетка 	 anatomy 
+ cent 	 сто 	 number 
+ central 	 коммутатор 	 society 
+ central 	 основной 	 adjective 
+ central 	 центральный 	 adjective 
+ centre 	 центр 	 mathematics 
+ cependant 	 хотя 	 adverb 
+ cercle 	 круг 	 mathematics 
+ certain 	 верный 	 adjective 
+ certificat 	 награда 	 society 
+ cerveau 	 мозг 	 anatomy 
+ ces 	 эти 	 pronoun 
+ ces 	 эти 	 pronoun 
+ cette 	 эта 	 pronoun 
+ chacun 	 каждый 	 adjective 
+ chacun 	 каждый 	 adjective 
+ chaise 	 стул 	 house 
+ chaleur 	 жара 	 medicine 
+ chaleureux 	 тёплый 	 adjective 
+ chambre à coucher 	 спальня 	 house 
+ championnat 	 чемпионат 	 sports 
+ chanceux 	 счастливый 	 adjective 
+ changement 	 перемена 	 abstract 
+ changer 	 изменить 	 verb 
+ chanson 	 песня 	 art 
+ chanter 	 петь 	 verb 
+ chanteur 	 певец 	 profession 
+ chapeau 	 шляпа 	 clothes 
+ charbon 	 уголь 	 material 
+ charge 	 заряд 	 nature 
+ charger 	 зарядить 	 verb 
+ chat 	 кот ; кошка 	 animal 
+ chaud 	 горячий 	 adjective 
+ chauffer 	 нагревать 	 verb 
+ chaussette 	 носок ; гольфы = чулки до колен 	 clothes 
+ chaussure 	 ботинок 	 clothes 
+ chaîne 	 цепь 	 object 
+ chef 	 лидер 	 society 
+ chef 	 шеф 	 society 
+ chemin 	 дорога ; путь 	 transport 
+ chemise 	 рубашка 	 clothes 
+ cheval 	 лошадь ; конь 	 animal 
+ cheveux 	 волос ; ворс 	 anatomy 
+ cheveux 	 волосы 	 anatomy 
+ chien 	 собака 	 animal 
+ chimie 	 химия 	 science 
+ chimique 	 химикат 	 material 
+ chimique 	 химический 	 adjective 
+ chinois 	 китайский язык 	 language 
+ choc 	 шок 	 abstract 
+ chocolat 	 шоколад 	 food 
+ choisir 	 выбрать 	 verb 
+ choquer 	 шокировать 	 verb 
+ chose 	 предмет ; вещь 	 object 
+ chute 	 падение 	 abstract 
+ château 	 замок ; кремль 	 city 
+ châtiment 	 наказание 	 society 
+ chèque 	 чек 	 business 
+ chèvre 	 козёл ; коза 	 animal 
+ chérie 	 дорогой ; дорогая 	 relations 
+ chômeur 	 безработный 	 adjective 
+ ciel 	 небо 	 nature 
+ cinq 	 пять 	 number 
+ cinquante 	 пятьдесят 	 number 
+ cinquième 	 пятый 	 number 
+ cinéma 	 кино ; кинотеатр 	 city 
+ cirer 	 глянцевать 	 verb 
+ ciseaux 	 ножницы 	 object 
+ citer 	 цитировать 	 verb 
+ clair 	 светлый 	 adjective 
+ clair 	 явный 	 adjective 
+ clairsemé 	 редкий 	 adjective 
+ clandestin 	 секретный 	 adjective 
+ classe 	 ранг ; класс 	 art 
+ classer 	 сортировать 	 verb 
+ clayette 	 полка 	 house 
+ clientèle 	 практика 	 art 
+ cloche 	 колокол 	 object 
+ clore 	 закрывать 	 verb 
+ clou 	 гвоздь 	 object 
+ club 	 клуб 	 society 
+ clé 	 ключ 	 house 
+ coeur 	 сердце 	 anatomy 
+ coffre 	 ларь 	 object 
+ coffre 	 сейф 	 object 
+ col 	 воротник ; туфля 	 clothes 
+ collant 	 клейкий 	 adjective 
+ colle 	 клей 	 material 
+ collection 	 комплект 	 sports 
+ coller 	 клеить 	 verb 
+ colline 	 взгорье ; холм 	 nature 
+ comme 	 как 	 adverb 
+ commercer 	 торговать 	 verb 
+ commettant 	 покупатель ; заказчик ; клиент 	 business 
+ commun 	 обычный 	 adjective 
+ commun 	 совместный 	 adjective 
+ communauté 	 община 	 society 
+ communication 	 звонок ; зов ; оклик 	 communication 
+ communiqué 	 провозглашение ; объявление 	 communication 
+ compagnie 	 общество 	 society 
+ comparer 	 сравнивать 	 verb 
+ complet 	 весь ; целый 	 adjective 
+ complet 	 комплектный 	 adjective 
+ composant additionnel 	 дополнение 	 abstract 
+ comprendre 	 включить 	 verb 
+ comprendre 	 заключать в себе ; охватывать 	 verb 
+ comprendre 	 понимать 	 verb 
+ compte 	 счёт 	 business 
+ compter 	 высчитать 	 verb 
+ comédien 	 актёр 	 profession 
+ concert 	 концерт 	 art 
+ concevoir 	 предложить 	 verb 
+ concurrence 	 конкуренция ; соревнование 	 business 
+ concurrence 	 соревнование ; состязание 	 society 
+ concurrent 	 соперник 	 business 
+ condition 	 состояние 	 abstract 
+ conduire 	 водить 	 verb 
+ conduire 	 завести 	 verb 
+ conduite 	 поведения 	 abstract 
+ confrontation 	 сравнение 	 abstract 
+ congé 	 отпуск 	 society 
+ connaissance 	 знание 	 education 
+ connecteur 	 подключение 	 abstract 
+ conscient 	 сознающий 	 adjective 
+ conseil 	 комитет ; комиссия 	 society 
+ conseil 	 совет 	 communication 
+ conseil 	 совет 	 society 
+ considérer 	 считать 	 verb 
+ construction 	 стройка 	 house 
+ conséquence 	 последствие 	 medicine 
+ contenir 	 ограничивать 	 verb 
+ continuer 	 продолжать 	 verb 
+ contraire 	 противоположность 	 abstract 
+ contrat 	 контракт 	 business 
+ contre 	 на 	 preposition 
+ contre 	 против 	 preposition 
+ contribution 	 налогообложение ; налог 	 business 
+ contrôler 	 контролировать 	 verb 
+ copain 	 друг 	 family 
+ copeau 	 кусок 	 object 
+ copie 	 копия 	 object 
+ copier 	 копировать 	 verb 
+ copine 	 девочка ; поклонница 	 family 
+ corde 	 канат 	 transport 
+ correct 	 правильный 	 adjective 
+ costume 	 одежда 	 clothes 
+ coton 	 хлопок 	 material 
+ coton 	 хлопок 	 material 
+ cou 	 шея ; горло 	 anatomy 
+ coudre 	 шить 	 verb 
+ couleur 	 краска 	 art 
+ coup 	 удар 	 abstract 
+ coup 	 удар 	 abstract 
+ coup de pied 	 лягнуть 	 verb 
+ coup de pied 	 пинок 	 abstract 
+ coupe 	 кубок 	 object 
+ coupe 	 чашка 	 food 
+ couper 	 резать 	 verb 
+ couple 	 пара 	 number 
+ coupure 	 срез 	 abstract 
+ courant 	 обычный 	 adjective 
+ courant 	 поток 	 nature 
+ courant 	 струя 	 nature 
+ courant 	 течение ; поток 	 nature 
+ courbure 	 искривление ; кривизна ; изгиб 	 mathematics 
+ courir 	 бежать 	 verb 
+ cours 	 курс 	 education 
+ cours 	 расценка ; тариф 	 business 
+ court 	 короткий 	 adjective 
+ couteau 	 нож 	 food 
+ couvercle 	 крышка 	 object 
+ craindre 	 бояться 	 verb 
+ cravate 	 галстук 	 clothes 
+ crayon 	 карандаш 	 object 
+ crevé 	 мёртвый 	 adjective 
+ cri 	 крик ; возглас 	 communication 
+ critère 	 критерий 	 communication 
+ croire 	 верить 	 verb 
+ croître 	 расти 	 verb 
+ cuiller 	 ложка 	 food 
+ cuir 	 кожа 	 material 
+ cuisine 	 кухня 	 house 
+ cuisiner 	 варить 	 verb 
+ cuisiner 	 готовить 	 verb 
+ cuisinier 	 повар ; кухарка 	 profession 
+ culture 	 культура 	 society 
+ côté 	 сторона 	 mathematics 
+ danger 	 опасность 	 abstract 
+ dangereux 	 опасный 	 adjective 
+ dans 	 в 	 preposition 
+ dans 	 внутрь ; в ; до 	 adverb 
+ danser 	 танцевать 	 verb 
+ date 	 дата ; число 	 time 
+ de 	 о 	 preposition 
+ de qui 	 чей 	 pronoun 
+ degré 	 степень 	 linguistics 
+ dehors 	 снаружи 	 adverb 
+ demain 	 завтра 	 adverb 
+ demain 	 завтрашний день ; завтра 	 time 
+ demande 	 просьба 	 communication 
+ demander 	 спрашивать 	 verb 
+ dense 	 густой 	 adjective 
+ dent 	 зуб 	 anatomy 
+ depuis 	 с 	 preposition 
+ dernier 	 наконец 	 adverb 
+ dernier 	 прошлое 	 time 
+ dernier 	 прошлый 	 adjective 
+ derrière 	 сзади ; позади 	 adverb 
+ dessiner 	 рисовать 	 verb 
+ dessus 	 над 	 adverb 
+ destination 	 цель 	 abstract 
+ destruction 	 разрушение 	 abstract 
+ deuxième 	 второй 	 adjective 
+ devant 	 впереди 	 adverb 
+ devenir 	 стать 	 verb 
+ devoir 	 повинность 	 abstract 
+ dictionnaire 	 словарь 	 linguistics 
+ difficulté 	 трудность 	 abstract 
+ différence 	 разница 	 abstract 
+ différent 	 другой 	 adjective 
+ différent 	 непохожий 	 adjective 
+ dimanche 	 воскресенье 	 time 
+ dire 	 говорить 	 verb 
+ directement 	 прямо 	 adverb 
+ directeur 	 директор 	 profession 
+ direction 	 направление 	 mathematics 
+ direction 	 руководство ; предводительство 	 society 
+ direction 	 управление ; менеджмент 	 business 
+ discipline 	 дисциплина 	 linguistics 
+ discussion 	 спор 	 mathematics 
+ discuter 	 дискутировать 	 verb 
+ disponible 	 доступный 	 adjective 
+ distance 	 расстояние 	 mathematics 
+ distinctement 	 ясно 	 adverb 
+ divers 	 различный 	 adjective 
+ diversité 	 разнообразность ; разнообразие ; пестрота 	 art 
+ divertissement 	 веселье ; развлечение ; забава ; увеселение 	 art 
+ diviser 	 разделить 	 verb 
+ dix 	 десять 	 number 
+ dix-huit 	 восемнадцать 	 number 
+ dix-neuf 	 девятнадцать 	 number 
+ docteur 	 врач ; доктор 	 profession 
+ doigt 	 палец 	 anatomy 
+ domination 	 господство 	 society 
+ donc 	 поэтому 	 adverb 
+ donner 	 давать 	 verb 
+ données 	 сведениe ; информация 	 communication 
+ dos 	 большой чан ; спина 	 anatomy 
+ douceur 	 сладость 	 food 
+ douche 	 душ 	 house 
+ douleur 	 боль 	 medicine 
+ doute 	 сомнение ; неуверенность 	 communication 
+ douter 	 сомневаться 	 verb 
+ doux 	 мягкий 	 adjective 
+ douzième 	 двенадцатый 	 number 
+ drapeau 	 флаг 	 object 
+ droit 	 право 	 society 
+ droit 	 правый 	 adjective 
+ droit 	 прямой 	 adjective 
+ dur 	 трудный 	 adjective 
+ durer 	 обойтись 	 verb 
+ d'abord 	 сначала 	 adverb 
+ d'or 	 золотой ; золотистий 	 color 
+ début 	 старт 	 abstract 
+ débuter 	 начинаться 	 verb 
+ décembre 	 декабрь 	 time 
+ déces 	 смерть 	 abstract 
+ déchets 	 отходы 	 material 
+ décider 	 решить 	 verb 
+ décision 	 заключение ; решение 	 communication 
+ déclaration 	 утверждения 	 communication 
+ découverte 	 находка 	 society 
+ découvrir 	 узнавать 	 verb 
+ décrire 	 описать 	 verb 
+ défense 	 оборона 	 abstract 
+ définitif 	 конечный 	 adjective 
+ dégager 	 освободить 	 verb 
+ déjeuner 	 завтрак 	 food 
+ déjeuner 	 обед 	 food 
+ déjà 	 уже 	 adverb 
+ délicat 	 деликатный ; щекотливый 	 adjective 
+ délit 	 преступление 	 society 
+ département 	 отделение 	 society 
+ dépasser 	 преодолеть 	 verb 
+ dépression 	 область низкого давления 	 nature 
+ dépôt 	 гараж 	 transport 
+ dérapage 	 буксовка 	 abstract 
+ désirer 	 пожелать ; хотеть 	 verb 
+ détail 	 подробность ; деталь 	 logistics 
+ déterminé 	 данный ; установленный 	 adjective 
+ déterminé 	 установленный 	 adjective 
+ développer 	 развиваться 	 verb 
+ eau 	 вода 	 material 
+ elle 	 она 	 pronoun 
+ embaumer 	 пахнуть 	 verb 
+ emplir 	 наполнить 	 verb 
+ employé 	 рабочий 	 profession 
+ empoisonner 	 отравить 	 verb 
+ empêcher 	 предотвратить 	 verb 
+ en réalité 	 всерьёз 	 adverb 
+ encore 	 опять 	 adverb 
+ encore 	 постоянно 	 adverb 
+ encre 	 чернила 	 material 
+ endommager 	 повредить 	 verb 
+ endurer 	 терпеть 	 verb 
+ enfant 	 юноша ; паренёк 	 family 
+ ennuyeux 	 нудный 	 adjective 
+ enregistrer 	 записать 	 verb 
+ enrouler 	 намотать 	 verb 
+ enseignement 	 образование 	 education 
+ enseigner 	 обучать 	 verb 
+ ensemble 	 вместе 	 adverb 
+ ensuite 	 потом 	 adverb 
+ entendre 	 замышлять 	 verb 
+ entendre 	 слышать 	 verb 
+ entier 	 весь ; целый 	 adjective 
+ entraînement 	 обучение 	 abstract 
+ entre 	 между 	 adverb 
+ entre 	 среди 	 preposition 
+ entrer 	 вступить 	 verb 
+ entrée 	 прихожая ; вестибюль ; передняя 	 house 
+ enveloppe 	 конверт 	 object 
+ envelopper 	 закрыть 	 verb 
+ environ 	 приблизительно 	 adverb 
+ erreur 	 ошибка 	 communication 
+ escarpé 	 крутой 	 adjective 
+ espace 	 космос 	 mathematics 
+ espagnol 	 испанский язык 	 language 
+ espoir 	 надежда 	 relations 
+ esprit 	 ум, мысль 	 mathematics 
+ espèce 	 тип 	 abstract 
+ espérer 	 надеяться 	 verb 
+ essai 	 надсада 	 abstract 
+ essayer 	 испытать 	 verb 
+ essayer 	 попробовать 	 verb 
+ essence 	 суть 	 abstract 
+ essuyer 	 высоцхнуть 	 verb 
+ est 	 восточный 	 adjective 
+ est 	 выход 	 logistics 
+ estimer 	 оценить 	 verb 
+ estomac 	 желудок 	 anatomy 
+ et 	 и 	 conjunction 
+ exactement 	 точно 	 adverb 
+ exactement 	 точно 	 adverb 
+ examen 	 экзамен 	 communication 
+ excellent 	 замечательный 	 adjective 
+ exemple 	 пример 	 communication 
+ exercer 	 проводить ; практиковать 	 verb 
+ existence 	 существование 	 society 
+ exister 	 быть 	 verb 
+ expert 	 опытный 	 adjective 
+ expert 	 специалист 	 profession 
+ expliquer 	 объяснять 	 verb 
+ express 	 экспресс 	 transport 
+ expérience 	 опыт 	 society 
+ extérieur 	 наружность ; внешность 	 mathematics 
+ facile 	 лёгкий 	 adjective 
+ facture 	 фактура ; счёт 	 business 
+ facturer 	 составлять фактуру ; засчитывать 	 verb 
+ facultatif 	 любой 	 adjective 
+ faculté 	 сила 	 abstract 
+ faire 	 творить 	 verb 
+ faire face 	 справиться 	 verb 
+ fait 	 факт 	 abstract 
+ famille 	 семья 	 family 
+ famille 	 семья 	 family 
+ fatigué 	 усталый 	 adjective 
+ faux 	 ошибочный 	 adjective 
+ faux 	 фальшивый 	 adjective 
+ femme 	 жена 	 family 
+ femme 	 женщина 	 family 
+ femme 	 женщина 	 society 
+ fenêtre 	 окно 	 house 
+ fer 	 железо 	 material 
+ ferme 	 твёрдый ; жёсткий 	 adjective 
+ ferme 	 ферма 	 nature 
+ fermer 	 замкнуть 	 verb 
+ fermé 	 закрытый 	 adjective 
+ feu 	 огонь ; пожар 	 nature 
+ feuille 	 листва 	 nature 
+ feuilleton 	 сериал ; многосерийный фильм 	 abstract 
+ fil 	 провод 	 object 
+ filet 	 сплетение 	 material 
+ fille 	 дочь 	 family 
+ fils 	 сын 	 family 
+ fin 	 конец 	 abstract 
+ financier 	 финансовый 	 adjective 
+ fissure 	 брешь 	 abstract 
+ flamme 	 огонь ; пламя 	 nature 
+ fleur 	 цветок 	 nature 
+ fleuve 	 река 	 nature 
+ foi 	 вероисповедание 	 society 
+ fonction 	 намерение ; цель 	 linguistics 
+ fonction 	 функция 	 mathematics 
+ fonctionnaire 	 чиновник 	 profession 
+ fonctionnement 	 действие 	 mathematics 
+ foncé 	 тёмный 	 adjective 
+ fondamental 	 основной 	 adjective 
+ football 	 футбол 	 sports 
+ force 	 сила 	 abstract 
+ force 	 сила 	 abstract 
+ formation 	 образование 	 education 
+ forme 	 конфигурация, форма 	 art 
+ former 	 дрессировать 	 verb 
+ formidable 	 замечательный 	 adjective 
+ formuler 	 выразить 	 verb 
+ fort 	 громкий 	 adjective 
+ forêt 	 лес 	 nature 
+ fouet 	 бич 	 object 
+ four 	 печь 	 device 
+ fourchette 	 вилка 	 food 
+ fourmi 	 муравей 	 animal 
+ fournir 	 предоставить 	 verb 
+ foyer 	 жилище ; дом 	 house 
+ fragile 	 хрупкий 	 adjective 
+ frais 	 расход 	 society 
+ frais 	 свежий 	 adjective 
+ français 	 францьзскый язык 	 language 
+ frisson 	 дрожание 	 abstract 
+ froid 	 холод 	 nature 
+ froid 	 холодный 	 adjective 
+ fromage 	 сыр 	 food 
+ front 	 лоб ; чело 	 anatomy 
+ fructueux 	 успешный 	 adjective 
+ fruit 	 фрукты 	 food 
+ fruit sec 	 орех 	 food 
+ frère 	 брат 	 family 
+ fréquent 	 частый 	 adjective 
+ fumer 	 коптить 	 verb 
+ fumée 	 дым 	 nature 
+ fusil 	 оружие 	 object 
+ futur 	 будущее 	 time 
+ futur 	 будущий 	 adjective 
+ fâché 	 разозлённый 	 adjective 
+ féminin 	 женский 	 adjective 
+ février 	 февраль 	 time 
+ gagner 	 выиграть ; победить 	 verb 
+ gain 	 прибыль ; нажива 	 business 
+ garçon 	 мальчик ; парень 	 family 
+ gauche 	 левый 	 adjective 
+ genou 	 колено 	 anatomy 
+ gens 	 люди ; народ 	 society 
+ gentil 	 красивый ; хороший 	 adjective 
+ gentil 	 любезный 	 adjective 
+ glace 	 лёд 	 material 
+ glace 	 лёд 	 nature 
+ glapir 	 кричать 	 verb 
+ golf 	 гольф 	 travelling 
+ gorge 	 глотка ; зев ; горло 	 anatomy 
+ goutte 	 капля 	 object 
+ gouvernement 	 правительство 	 society 
+ gouverner 	 править 	 verb 
+ goût 	 poпробовать 	 verb 
+ goût 	 вкус 	 nature 
+ grain 	 зерно 	 material 
+ graine 	 зерно ; семя 	 food 
+ grand 	 большой ; великий 	 adjective 
+ grand 	 высокий 	 adjective 
+ grand 	 крупный ; большой 	 adjective 
+ grand-père 	 дедушка 	 family 
+ gras 	 жир 	 material 
+ gratuit 	 бесплатный 	 adjective 
+ grave 	 серьёзный 	 adjective 
+ gris 	 серый 	 adjective 
+ gris 	 серый 	 color 
+ gros 	 жирный 	 adjective 
+ gros 	 толстый 	 adjective 
+ grossier 	 грубый 	 adjective 
+ groupe 	 группа 	 abstract 
+ guerre 	 война 	 society 
+ guitare 	 гитара 	 object 
+ gâteau 	 сладкое ; пирожное 	 food 
+ gène 	 ген 	 anatomy 
+ général 	 всеобщий ; общий 	 adjective 
+ général 	 генерал 	 profession 
+ généralement 	 обычно 	 adverb 
+ habile 	 разумный ; интеллигентный 	 adjective 
+ habituel 	 регулярный 	 adjective 
+ haine 	 ненависть 	 relations 
+ haut 	 вверх 	 adverb 
+ hauteur 	 высота 	 abstract 
+ herbe 	 трава 	 nature 
+ heure 	 час 	 time 
+ heureux 	 счастливый 	 adjective 
+ hindi 	 хинди 	 language 
+ histoire 	 история 	 society 
+ hiver 	 зима 	 nature 
+ homme 	 лицо ; человек 	 family 
+ homme 	 мужчина ; человек 	 family 
+ honorer 	 учитывать 	 verb 
+ horloge 	 часы 	 device 
+ huile 	 масло 	 material 
+ huit 	 восемь 	 number 
+ huitieme 	 восьмой 	 number 
+ humain 	 гуманный 	 adjective 
+ humidité 	 влажность 	 nature 
+ humour 	 юмор 	 communication 
+ hôpital 	 больница 	 city 
+ hôte 	 гость 	 travelling 
+ hôtel 	 гостиница ; отель 	 city 
+ ici 	 здесь ; тут 	 adverb 
+ ici 	 сюда 	 adverb 
+ identifier 	 опознать 	 verb 
+ il y a 	 перед 	 adjective 
+ ils 	 они 	 pronoun 
+ image 	 изображение 	 art 
+ image 	 имидж 	 art 
+ imiter 	 подражать 	 verb 
+ immeuble 	 здание 	 city 
+ immédiatement 	 немедленно 	 adverb 
+ impatient 	 нетерпеливый 	 adjective 
+ impliquer 	 включать 	 verb 
+ important 	 важный 	 adjective 
+ important 	 важный 	 adjective 
+ imprimer 	 напечатать 	 verb 
+ indigent 	 бедный 	 adjective 
+ indiquer 	 сигнализировать 	 verb 
+ individu 	 индивидуум 	 society 
+ individuel 	 единочный 	 adjective 
+ industrie 	 промышленность 	 society 
+ industriel 	 промышленный ; индустриальный 	 adjective 
+ infirmière 	 медсестра ; няня 	 profession 
+ information 	 сведениe ; информация 	 communication 
+ information 	 сведениe ; информация 	 communication 
+ inhabituel 	 необыкновенный ; необычный 	 adjective 
+ insecte 	 насекомые 	 animal 
+ instant 	 момент ; мгновение 	 mathematics 
+ institution 	 учреждение 	 society 
+ instrument 	 инструмент ; орудие 	 device 
+ intensifier 	 увеличить 	 verb 
+ international 	 международный 	 adjective 
+ internet 	 интернет 	 mathematics 
+ interview 	 разговор ; беседа ; диалог 	 communication 
+ intituler 	 назвать 	 verb 
+ intéressant 	 интересный 	 adjective 
+ intérêt 	 интерес 	 communication 
+ intérêt 	 процент 	 business 
+ invention 	 изобретение ; измышление ; вымысел 	 art 
+ investigation 	 обследование 	 abstract 
+ italien 	 итальянский язык 	 language 
+ jamais 	 никогда 	 adverb 
+ jambe 	 нога 	 anatomy 
+ janvier 	 январь 	 time 
+ japonais 	 японский язык 	 language 
+ jardin 	 сад 	 house 
+ jaune 	 жёлтый 	 color 
+ jeter 	 бросать ; кидать 	 verb 
+ jeu 	 игра 	 mathematics 
+ jeu 	 игра 	 sports 
+ jeudi 	 четверг 	 time 
+ jeune 	 молодой 	 adjective 
+ joindre 	 придать 	 verb 
+ joindre 	 соединить(ся) 	 verb 
+ jouer 	 играть 	 verb 
+ joueur 	 игрок 	 sports 
+ journal 	 газета 	 object 
+ journaliste 	 журналист ; газетный сотрудник 	 profession 
+ journée 	 день 	 nature 
+ juge 	 судья 	 profession 
+ juillet 	 июль 	 time 
+ juin 	 июнь 	 time 
+ jupe 	 юбка 	 clothes 
+ jusqu'à 	 до 	 conjunction 
+ la 	 ''not used'' 	 article 
+ labourer 	 пахать 	 verb 
+ lac 	 озеро 	 nature 
+ laid 	 безобразный ; некрасивый 	 adjective 
+ laine 	 волна ; шерсть 	 material 
+ laisser 	 оставить 	 verb 
+ laisser 	 оставить 	 verb 
+ laisser 	 уйти 	 verb 
+ lait 	 молоко 	 food 
+ lancer 	 бросание 	 sports 
+ langage 	 язык 	 communication 
+ langue 	 язык 	 anatomy 
+ langue 	 язык 	 linguistics 
+ langue 	 язык 	 linguistics 
+ large 	 широкий 	 adjective 
+ laver 	 вымыть 	 verb 
+ le 	 его 	 pronoun 
+ le long de 	 вдоль 	 adverb 
+ le moins 	 наименее 	 adverb 
+ lent 	 медленный 	 adjective 
+ lentement 	 медленно 	 adverb 
+ les 	 их 	 pronoun 
+ lettre 	 буква 	 linguistics 
+ lettre 	 письмо 	 object 
+ leur 	 их 	 pronoun 
+ lever 	 поднять 	 verb 
+ libre 	 свободный 	 adjective 
+ licencier 	 сократить 	 verb 
+ lieu 	 место 	 abstract 
+ ligne 	 черта ; линия 	 mathematics 
+ limite 	 граница ; лимит 	 mathematics 
+ lion 	 лев 	 animal 
+ liquide 	 жидкий 	 adjective 
+ liquide 	 жидкость 	 nature 
+ lire 	 читать 	 verb 
+ lissé 	 гладкий 	 adjective 
+ liste 	 перечень 	 abstract 
+ lit 	 кровать ; постель 	 house 
+ livre 	 книга 	 object 
+ local 	 местный 	 adjective 
+ loi 	 закон 	 society 
+ loin 	 далёкий 	 adjective 
+ long 	 длинный 	 adjective 
+ lourd 	 трудный 	 adjective 
+ lumière 	 свет 	 nature 
+ lundi 	 понедельник 	 time 
+ lune 	 месяц 	 nature 
+ lutte 	 борьба 	 abstract 
+ lutter 	 драться 	 verb 
+ l'un et l'autre 	 обе 	 adjective 
+ là 	 там 	 adverb 
+ lèvre 	 губа 	 anatomy 
+ légal 	 законный 	 adjective 
+ léger 	 лёгкий 	 adjective 
+ machine 	 станок 	 device 
+ mademoiselle 	 девушка ; девочка 	 family 
+ maigre 	 нежирный 	 adjective 
+ maigre 	 узкий 	 adjective 
+ main 	 рука 	 anatomy 
+ maintenant 	 сейчас 	 time 
+ maison 	 дом 	 house 
+ maison 	 дом 	 house 
+ maison 	 фирма ; торговый дом 	 business 
+ majeur 	 главный 	 adjective 
+ majeur 	 главный 	 adjective 
+ majorité 	 большинство 	 abstract 
+ majuscule 	 заглавная буква 	 linguistics 
+ mal 	 неправильный 	 adjective 
+ malade 	 больной 	 adjective 
+ maladie 	 болезнь 	 medicine 
+ maman 	 мамочка 	 family 
+ manger 	 есть 	 verb 
+ manifestement 	 очевидно 	 adverb 
+ manière 	 способ 	 abstract 
+ manière 	 способ ; метод ; стиль 	 mathematics 
+ manoeuvrer 	 управлять 	 verb 
+ manquer 	 запустить 	 verb 
+ manquer 	 промахнуться 	 verb 
+ manquer 	 упустить 	 verb 
+ manteau 	 пальто ; пиджак 	 clothes 
+ marche 	 ступень 	 house 
+ marcher 	 идти 	 verb 
+ marché 	 рынок ; базар 	 business 
+ marché 	 сделка 	 business 
+ mari 	 муж 	 family 
+ mariage 	 брак 	 family 
+ mariage 	 брак 	 family 
+ mariage 	 брак 	 society 
+ marin 	 матрос ; моряк 	 profession 
+ marié 	 женатый 	 adjective 
+ marque 	 марка 	 abstract 
+ marque 	 марка 	 abstract 
+ marron 	 коричневый 	 color 
+ marteau 	 молоток 	 object 
+ masse 	 количество 	 physics 
+ masse 	 масса 	 physics 
+ massue 	 дубинка 	 object 
+ matin 	 утро 	 time 
+ matière 	 вещество 	 material 
+ matériau 	 материал 	 material 
+ matériel 	 материальный 	 adjective 
+ mauvais 	 плохой 	 adjective 
+ maître 	 учитель 	 profession 
+ maîtrise 	 проверка 	 abstract 
+ me 	 меня 	 pronoun 
+ meilleur 	 лучший 	 adjective 
+ membre 	 член 	 society 
+ mensonge 	 ложь 	 communication 
+ menstruation 	 менструация 	 medicine 
+ mentir 	 лгать 	 verb 
+ menton 	 подбородок 	 anatomy 
+ menu 	 меню 	 object 
+ mer 	 море 	 nature 
+ mercredi 	 среда 	 time 
+ mesurage 	 измерение 	 art 
+ mesure 	 мероприятия 	 abstract 
+ mesurer 	 мерить 	 verb 
+ mettre 	 носить 	 verb 
+ mieux 	 лучше 	 adverb 
+ mieux 	 лучший 	 adjective 
+ milieu 	 окружение 	 nature 
+ milieu 	 середина ; средняя часть 	 mathematics 
+ milieu 	 среднее 	 mathematics 
+ militaire 	 военный 	 adjective 
+ militaire 	 солдат 	 profession 
+ milk-shake 	 коктейль 	 food 
+ mille 	 тысяча 	 number 
+ million 	 миллион 	 number 
+ mine 	 шахта 	 object 
+ ministre 	 министр 	 profession 
+ minuit 	 полночь 	 time 
+ minuscule 	 небольшой 	 adjective 
+ minute 	 минута 	 time 
+ miroir 	 зеркало 	 house 
+ mise 	 одежда ; платье 	 clothes 
+ misérable 	 скверный 	 adjective 
+ mobilier 	 мебель 	 house 
+ mode 	 мода 	 abstract 
+ moderne 	 современный 	 adjective 
+ moderne 	 современный 	 adjective 
+ modeste 	 малый 	 adjective 
+ modèle 	 образец 	 object 
+ moins 	 меньший 	 adjective 
+ mois 	 месяц 	 time 
+ mois 	 месяц 	 transport 
+ moitié 	 половина 	 mathematics 
+ moment 	 момент ; миг 	 time 
+ mon 	 мой 	 pronoun 
+ monde 	 свет ; мир 	 nature 
+ monnaie 	 мелочь 	 business 
+ montagne 	 гора 	 nature 
+ montant 	 итог ; сумма 	 mathematics 
+ montre 	 часы 	 object 
+ montrer 	 показать 	 verb 
+ morceau 	 кусок 	 abstract 
+ morceau 	 кусок 	 object 
+ mordre 	 куснуть 	 verb 
+ morsure 	 укус 	 medicine 
+ mort 	 покойник 	 society 
+ mort 	 смерть 	 nature 
+ mot 	 слово 	 linguistics 
+ moteur 	 двигатель 	 device 
+ mouche 	 муха 	 animal 
+ mouiller 	 намочить 	 verb 
+ mouillé 	 мокрый 	 adjective 
+ mourir 	 умереть 	 verb 
+ mouton 	 овца 	 animal 
+ mouvement 	 движение 	 physics 
+ mouvement 	 движение 	 physics 
+ mur 	 стена 	 house 
+ muscle 	 мускул ; мышца 	 anatomy 
+ musicien 	 музыкант 	 profession 
+ musique 	 музыка 	 art 
+ musée 	 музей 	 city 
+ mâle 	 мужественный 	 adjective 
+ mâle 	 мужской 	 adjective 
+ mâle 	 самец 	 society 
+ médical 	 лечебный 	 adjective 
+ mémoire 	 воспоминание 	 communication 
+ mémoire 	 память 	 communication 
+ mépriser 	 ненавидеть 	 verb 
+ métal 	 металл 	 material 
+ métallique 	 металлический 	 adjective 
+ méthode 	 процесс ; процедура 	 mathematics 
+ méthode 	 способ ; метод 	 mathematics 
+ métro 	 метро 	 transport 
+ même 	 одинаковый 	 adjective 
+ naissance 	 рождение 	 nature 
+ nation 	 народ ; нация 	 society 
+ national 	 национальный ; народный 	 adjective 
+ national 	 национальный ; народный 	 adjective 
+ nature 	 природа 	 nature 
+ naturel 	 натуральный 	 adjective 
+ navire 	 судно ; корабль 	 transport 
+ neige 	 снег 	 nature 
+ neige 	 снег 	 nature 
+ neiger 	 идёт снег 	 verb 
+ nerf 	 нерв 	 anatomy 
+ neuf 	 девять 	 number 
+ neuf 	 новый 	 adjective 
+ neuvième 	 девятый 	 number 
+ nez 	 нос 	 anatomy 
+ niveau 	 уровень 	 linguistics 
+ noeud 	 узел 	 object 
+ noir 	 чёрный 	 adjective 
+ nom 	 имя 	 linguistics 
+ nombre 	 количество ; число 	 linguistics 
+ nommer 	 назвать 	 verb 
+ non 	 нет 	 abstract 
+ non 	 нет 	 adverb 
+ nonobstant 	 несмотря 	 preposition 
+ nord 	 север 	 logistics 
+ nord 	 северный 	 adjective 
+ normal 	 нормальный 	 adjective 
+ normal 	 стандартный 	 adjective 
+ normalement 	 обычно 	 adverb 
+ note 	 заметка 	 communication 
+ note 	 нота 	 art 
+ note 	 отметка 	 education 
+ nourriture 	 блюдо ; питание 	 food 
+ nous 	 мы 	 pronoun 
+ nous 	 нас 	 pronoun 
+ nous 	 наш 	 pronoun 
+ nouvelles 	 новость 	 society 
+ novembre 	 ноябрь 	 time 
+ nuage 	 облако 	 nature 
+ nuit 	 ночь 	 nature 
+ numéro 	 номер ; выпуск 	 mathematics 
+ nécessaire 	 необходимый 	 adjective 
+ négociant 	 бизнесмен 	 profession 
+ objection 	 протест 	 communication 
+ obtenir 	 получать 	 verb 
+ occasion 	 возможность 	 abstract 
+ occupation 	 дело 	 abstract 
+ occupation 	 профессия ; работа 	 business 
+ octobre 	 октябрь 	 time 
+ odeur 	 запах 	 nature 
+ oeil 	 глаз 	 anatomy 
+ oeuf 	 яйцо 	 food 
+ oeuvre 	 дело 	 abstract 
+ offre 	 предложение 	 abstract 
+ offrir 	 предложить 	 verb 
+ oiseau 	 птица 	 animal 
+ ongle 	 ноготь 	 anatomy 
+ onze 	 одиннадцать 	 number 
+ onzième 	 одиннадцатый 	 number 
+ opposé 	 противоположный 	 adjective 
+ opération 	 операция 	 abstract 
+ opération 	 операция 	 medicine 
+ or 	 золото 	 material 
+ orange 	 апельсин 	 food 
+ orange 	 оранжевый 	 color 
+ orchestre 	 оркестр 	 art 
+ orchestre 	 оркестр 	 art 
+ ordinateur 	 компьютер 	 device 
+ ordonner 	 приказать 	 verb 
+ ordre 	 орден 	 society 
+ ordre 	 порядок 	 linguistics 
+ ordre 	 приказ ; команда 	 society 
+ oreille 	 ручка 	 object 
+ oreille 	 ухо 	 anatomy 
+ organisation 	 организация 	 society 
+ organisation 	 организация 	 society 
+ organiser 	 наметить 	 verb 
+ original 	 исходный ; оригинальный 	 adjective 
+ original 	 оригинал 	 object 
+ ornement 	 декорация 	 object 
+ orteil 	 палец на ноге 	 anatomy 
+ orthographe 	 правописание ; орфография 	 linguistics 
+ os 	 кость 	 anatomy 
+ ou 	 или 	 conjunction 
+ oublier 	 забыть ; забывать 	 verb 
+ ouest 	 запад 	 logistics 
+ ouest 	 западный 	 adjective 
+ oui 	 да 	 abstract 
+ ours 	 медведь 	 animal 
+ ouvert 	 открытый 	 adjective 
+ ouvert 	 открытый 	 adjective 
+ ouvrir 	 открыть 	 verb 
+ page 	 страница 	 object 
+ paiement 	 плата ; платёж ; уплата 	 business 
+ pain 	 хлеб 	 food 
+ pair 	 чётный 	 adjective 
+ paix 	 мир 	 abstract 
+ panier 	 корзина 	 object 
+ panneau 	 доска 	 object 
+ papa 	 папа ; отец 	 family 
+ papier 	 бумага 	 material 
+ paquet 	 пакет 	 object 
+ par 	 мимо 	 adverb 
+ parallèle 	 параллельный 	 adjective 
+ paraître 	 казаться 	 verb 
+ parc 	 парк ; сад 	 city 
+ pardonner 	 простить 	 verb 
+ parent 	 родитель 	 family 
+ parfois 	 иногда 	 adverb 
+ parler 	 говорить 	 verb 
+ partage 	 разделение 	 mathematics 
+ partager 	 разделять 	 verb 
+ particulier 	 определённый 	 adjective 
+ particulièrement 	 особенно 	 adverb 
+ partie 	 вечеринка 	 society 
+ partie 	 матч 	 sports 
+ partie 	 часть 	 abstract 
+ partie 	 часть 	 society 
+ pas 	 шаг ; поступь 	 mathematics 
+ passager 	 пассажир 	 transport 
+ passeport 	 паспорт 	 object 
+ passer 	 проходить 	 verb 
+ passion 	 любовь 	 relations 
+ passé 	 прошлый 	 adjective 
+ passée 	 за 	 adverb 
+ patient 	 пациент ; больной 	 medicine 
+ patient 	 терпеливый 	 adjective 
+ patron 	 модель ; макет 	 object 
+ pause 	 перерыв ; пауза 	 time 
+ pauvre 	 жалкий ; жалобный 	 adjective 
+ payer 	 платить 	 verb 
+ pays 	 страна 	 society 
+ peau 	 кожа 	 anatomy 
+ peine 	 старание 	 abstract 
+ peinture 	 краска 	 art 
+ peler 	 чистить 	 verb 
+ pellicule 	 фильм 	 object 
+ pellicule 	 фильм ; кинокартина 	 art 
+ pendant 	 в течение 	 preposition 
+ pensée 	 мысль 	 communication 
+ pente 	 склон 	 mathematics 
+ perdre 	 проиграть 	 verb 
+ perdre 	 терять 	 verb 
+ permettre 	 разрешить 	 verb 
+ personne 	 лицо ; человек 	 family 
+ personnel 	 личный 	 adjective 
+ personnel 	 персонал 	 society 
+ perte 	 утрата ; пропадание ; урон 	 business 
+ peser 	 взвешивать(ся) 	 verb 
+ petit 	 маленький 	 adjective 
+ petit 	 малый 	 adjective 
+ peu 	 немного ; мало 	 adjective 
+ peu 	 немного ; мало 	 adverb 
+ peuple 	 общественность 	 society 
+ peur 	 страх 	 relations 
+ peut-être 	 может быть 	 adverb 
+ photographe 	 фотограф 	 profession 
+ phrase 	 предложение 	 linguistics 
+ physique 	 телесный ; физический 	 adjective 
+ physique 	 физический 	 adjective 
+ pied 	 подошва 	 anatomy 
+ pilote 	 пилот 	 profession 
+ pivot 	 цапфа 	 object 
+ pièce 	 комната 	 house 
+ placard 	 шкаф 	 house 
+ place 	 кресло 	 house 
+ place 	 место 	 abstract 
+ plage 	 пляж 	 nature 
+ plaider 	 аргументировать 	 verb 
+ plaine 	 равнина 	 nature 
+ plaisir 	 удовольствие 	 abstract 
+ plan 	 план 	 abstract 
+ plan 	 плоский 	 adjective 
+ plante 	 растение 	 house 
+ plein 	 полный 	 adjective 
+ pleurer 	 плакать 	 verb 
+ pleuvoir 	 дождить ; идёт дождь 	 verb 
+ pli 	 загиб 	 object 
+ plomb 	 свинец 	 material 
+ pluie 	 дождь 	 nature 
+ pluie 	 дождь 	 nature 
+ plume 	 перо 	 object 
+ plume 	 ручка 	 object 
+ plus 	 более ; болше 	 adjective 
+ plus 	 дальше 	 adjective 
+ plutôt 	 лучше 	 adverb 
+ poche 	 мешок 	 object 
+ poids 	 вес 	 physics 
+ point 	 стежок 	 medicine 
+ point 	 точка 	 linguistics 
+ poisson 	 рыба 	 animal 
+ poitrine 	 грудная клетка ; грудь 	 anatomy 
+ poitrine 	 грудь 	 anatomy 
+ police 	 полиция 	 society 
+ policier 	 милиционер 	 profession 
+ polir 	 чистить 	 verb 
+ politicien 	 политик 	 profession 
+ politique 	 политика 	 society 
+ politique 	 политический 	 adjective 
+ pomme 	 яблоко 	 food 
+ pomme de terre 	 картофелина 	 food 
+ pompe 	 насос 	 device 
+ pomper 	 качать 	 verb 
+ pondre 	 класть 	 verb 
+ pont 	 мост 	 object 
+ populaire 	 популярный 	 adjective 
+ populaire 	 популярный 	 adjective 
+ population 	 население 	 society 
+ porc 	 свинья 	 animal 
+ port 	 почтовая марка 	 object 
+ porte 	 дверь ; створка 	 house 
+ porter 	 нести 	 verb 
+ porter 	 перенести 	 verb 
+ poser 	 сидеть 	 verb 
+ possesseur 	 собственник ; владелец ; обладатель 	 business 
+ possible 	 вероятный 	 adjective 
+ possible 	 возможный 	 adjective 
+ poste 	 позиция ; положение 	 linguistics 
+ poste 	 почта 	 communication 
+ poste 	 станция 	 society 
+ poster 	 послать ; отправить 	 verb 
+ pouce 	 большой палец 	 anatomy 
+ pourcentage 	 процент 	 mathematics 
+ pourquoi 	 почему 	 adverb 
+ pousser 	 побудить 	 verb 
+ pousser 	 толкнуть 	 verb 
+ poussière 	 порошок 	 material 
+ poussière 	 пыль 	 material 
+ poème 	 стихотворение ; поэма 	 art 
+ poésie 	 поэзия 	 art 
+ premier 	 передний 	 adjective 
+ prendre 	 схватить 	 verb 
+ presque 	 почти 	 adverb 
+ presser 	 сжать ; нажать 	 verb 
+ pression 	 давление 	 nature 
+ principe 	 правило 	 linguistics 
+ printemps 	 весна 	 nature 
+ prison 	 тюрьма ; заточение 	 city 
+ privé 	 скромный 	 adjective 
+ prix 	 оценка 	 transport 
+ prix 	 стоимость ; цена 	 business 
+ prix 	 такса 	 business 
+ prix 	 цена 	 transport 
+ probe 	 честный 	 adjective 
+ problème 	 проблема 	 abstract 
+ problème 	 проблема 	 mathematics 
+ processus 	 процесс 	 nature 
+ proche 	 близкий ; недалёкий 	 adjective 
+ procéder 	 относиться 	 verb 
+ production 	 производство 	 abstract 
+ produire 	 изготовить 	 verb 
+ produit 	 продукт 	 object 
+ professionnel 	 профессионал 	 profession 
+ professionnel 	 профессиональный 	 adjective 
+ profit 	 нажива ; получать доход 	 verb 
+ profit 	 польза 	 abstract 
+ profiter 	 преуспевать 	 verb 
+ programme 	 программа 	 abstract 
+ projet 	 проект 	 abstract 
+ projet 	 проект 	 abstract 
+ projeter 	 думать 	 verb 
+ promulguer 	 издать 	 verb 
+ prononciation 	 произношение 	 linguistics 
+ proposition 	 предложение 	 abstract 
+ proposition 	 проект 	 abstract 
+ propre 	 свой 	 adjective 
+ propre 	 чистый 	 adjective 
+ propriété 	 имущество 	 society 
+ propriété 	 способность 	 abstract 
+ protester 	 возражать ; протестовать 	 verb 
+ prototype 	 образец 	 linguistics 
+ prouver 	 доказать 	 verb 
+ précédent 	 предыдущий 	 adjective 
+ prématuré 	 ранний ; скорый 	 adjective 
+ préparer 	 приготовить 	 verb 
+ présent 	 настоящее 	 time 
+ présent 	 подарок 	 object 
+ présent 	 современный ; настойащий 	 adjective 
+ présenter 	 представить 	 verb 
+ présenter 	 привести 	 verb 
+ président 	 президент 	 profession 
+ prêt 	 готовый ; приготовленный 	 adjective 
+ public 	 общественный 	 travelling 
+ puissant 	 крепкий 	 adjective 
+ puits 	 колодец 	 object 
+ période 	 период 	 time 
+ pétrole 	 нефть 	 material 
+ qualité 	 качество 	 abstract 
+ quantité 	 количество 	 abstract 
+ quarante 	 сорок 	 number 
+ quatorze 	 четырнадцать 	 number 
+ quatre 	 четыре 	 number 
+ quatre-vingt-dix 	 девяносто 	 number 
+ quatre-vingts 	 восемьдесят 	 number 
+ quatrième 	 четвёртый 	 number 
+ que 	 кого 	 pronoun 
+ que 	 чем 	 conjunction 
+ quel 	 какой 	 pronoun 
+ quelque 	 несколько 	 adjective 
+ question 	 вопрос 	 linguistics 
+ question 	 проблема 	 communication 
+ questionnaire 	 формуляр 	 society 
+ queue 	 хвост 	 anatomy 
+ qui 	 кто 	 pronoun 
+ quinze 	 пятнадцать 	 number 
+ quoi 	 который 	 pronoun 
+ racine 	 корень 	 mathematics 
+ racine 	 корень 	 nature 
+ rail 	 рельс 	 transport 
+ raison 	 основание ; мотив 	 communication 
+ raison 	 причина 	 communication 
+ raisonner 	 рассуждать 	 verb 
+ rapide 	 быстрый 	 logistics 
+ rappeler 	 помнить 	 verb 
+ rapport 	 рапорт 	 abstract 
+ rayon 	 секция ; участок 	 mathematics 
+ recevoir 	 получить 	 verb 
+ recherche 	 исследование 	 abstract 
+ recherche 	 исследовать 	 verb 
+ record 	 рекорд 	 abstract 
+ recours 	 требование 	 society 
+ refuser 	 отказаться 	 verb 
+ regard 	 вид ; взгляд 	 communication 
+ regarder 	 смотреть 	 verb 
+ regarder 	 смотреть 	 verb 
+ relation 	 родство 	 society 
+ relation 	 соотношение 	 communication 
+ relever 	 приправить 	 verb 
+ religion 	 религия 	 society 
+ remercier 	 благодарить 	 verb 
+ remettre 	 вручить 	 verb 
+ remettre 	 передавать 	 verb 
+ remplacer 	 заменить 	 verb 
+ rencontre 	 встреча 	 communication 
+ rencontrer 	 встречать(ся) 	 verb 
+ rendez-vous 	 встреча ; свидание 	 relations 
+ rendre 	 вернуть 	 verb 
+ rendre 	 делать 	 verb 
+ repas 	 блюдо ; еда 	 food 
+ repos 	 отдых 	 abstract 
+ reposer 	 лежать 	 verb 
+ représentant 	 заместитель 	 profession 
+ représenter 	 символизировать 	 verb 
+ responsabilité 	 ответственность 	 abstract 
+ responsable 	 ответственный 	 adjective 
+ ressort 	 пружина 	 object 
+ restaurant 	 ресторан 	 city 
+ reste 	 остаток 	 business 
+ rester 	 остаться 	 verb 
+ retour 	 возврат 	 abstract 
+ revenu 	 оклад ; заработок ; плата 	 business 
+ revue 	 журнал 	 object 
+ rhume 	 простуда ; насморк 	 medicine 
+ rideau 	 занавеска 	 house 
+ rien 	 нуль ; ничто ; ничего 	 mathematics 
+ rigide 	 жёсткий ; негнущийся 	 adjective 
+ rire 	 смеяться 	 verb 
+ risquer 	 рисковать 	 verb 
+ rive 	 берег 	 nature 
+ riz 	 рис 	 food 
+ riz 	 рис 	 food 
+ roi 	 король 	 society 
+ rompre 	 разбить 	 verb 
+ rond 	 круглый 	 adjective 
+ rose 	 розоватый ; розовый 	 color 
+ roue 	 колесо 	 object 
+ rouge 	 красный 	 color 
+ rouleau 	 круг 	 object 
+ route 	 улица 	 city 
+ royal 	 королевский 	 adjective 
+ ruse 	 трюк 	 abstract 
+ russe 	 русский язык 	 language 
+ rythme 	 ритм 	 art 
+ règlement 	 правило ; предписание 	 linguistics 
+ réaction 	 реакция 	 abstract 
+ réaliser 	 достигать 	 verb 
+ récemment 	 недавно 	 adverb 
+ récent 	 недавний 	 adjective 
+ récompense 	 оплата 	 society 
+ récréation 	 пауза ; перерыв 	 abstract 
+ réduire 	 сократить 	 verb 
+ réellement 	 действительно 	 adverb 
+ réfléchir 	 думать 	 verb 
+ réfléchir 	 отражать 	 verb 
+ région 	 район 	 nature 
+ répondre 	 отвечать ; ответить 	 verb 
+ réponse 	 ответ 	 communication 
+ république 	 демократия ; республика 	 society 
+ résultat 	 результат 	 mathematics 
+ rétention 	 заключать в себе ; охватывать 	 verb 
+ révéler 	 разоблачить ; открыть 	 verb 
+ sa 	 его 	 pronoun 
+ sa 	 его 	 pronoun 
+ sable 	 песок 	 material 
+ sac 	 сумка ; сумочка 	 clothes 
+ sage 	 мудрый 	 adjective 
+ sain 	 здоровый 	 adjective 
+ saisir 	 взять ; брать 	 verb 
+ saisir 	 понимать 	 verb 
+ saison 	 времена года 	 nature 
+ salade 	 салат 	 food 
+ sale 	 грязный 	 adjective 
+ sale 	 грязный 	 adjective 
+ saler 	 солить 	 verb 
+ salle de bains 	 ванная 	 house 
+ salubre 	 здоровый 	 adjective 
+ salut 	 привет 	 linguistics 
+ salve 	 извержение 	 abstract 
+ samedi 	 суббота 	 time 
+ sandwich 	 сандвич ; бутерброд 	 food 
+ sang 	 кровь 	 anatomy 
+ santé 	 здоровье 	 abstract 
+ santé 	 здоровье 	 medicine 
+ sauce 	 соус 	 food 
+ saut 	 скачок ; прыжок 	 abstract 
+ sauter 	 прыгать ; скакать 	 verb 
+ savoir 	 знать 	 verb 
+ savon 	 мыло 	 material 
+ savonner 	 намылить 	 verb 
+ science 	 наука 	 society 
+ scientifique 	 учёный 	 profession 
+ scène 	 сцена 	 object 
+ se 	 себе 	 pronoun 
+ se 	 себя 	 pronoun 
+ se disputer 	 спорить 	 verb 
+ se reposer 	 отдыхать 	 verb 
+ sec 	 сухой 	 adjective 
+ seconde 	 секунда 	 time 
+ secousse 	 удар 	 transport 
+ secret 	 секрет ; тайна 	 communication 
+ secrétaire 	 секретарь ; секретарша 	 profession 
+ secteur 	 секция ; отделение 	 mathematics 
+ section 	 участок ; область ; район 	 art 
+ seize 	 шестнадцать 	 number 
+ sel 	 соль 	 food 
+ semaine 	 неделя 	 time 
+ semblable 	 подобный 	 adjective 
+ sentiment 	 ощущение 	 communication 
+ sentinelle 	 сторож 	 profession 
+ sentir 	 вонять 	 verb 
+ sentir 	 чувствовать 	 verb 
+ sentir 	 чуять 	 verb 
+ sept 	 семь 	 number 
+ septième 	 седьмой 	 number 
+ serpent 	 змея 	 animal 
+ serrure 	 замок 	 house 
+ serré 	 тесный 	 adjective 
+ service 	 услуга 	 sports 
+ servir 	 служить 	 verb 
+ serviteur 	 слуга 	 profession 
+ seul 	 единственный 	 adjective 
+ seul 	 сам 	 adverb 
+ seulement 	 просто ; только 	 adverb 
+ sexe 	 пол 	 nature 
+ sexe 	 секс 	 relations 
+ show 	 шоу 	 abstract 
+ si 	 если 	 conjunction 
+ si 	 либо 	 conjunction 
+ signaler 	 сообщать 	 verb 
+ signe 	 знак 	 linguistics 
+ silence 	 тишина 	 abstract 
+ simple 	 простой 	 adjective 
+ simple 	 холостой ; незамужняя 	 adjective 
+ sincère 	 искренний 	 adjective 
+ singe 	 обезьяна 	 animal 
+ sinistre 	 поломка 	 transport 
+ situation 	 ситуация 	 abstract 
+ six 	 шесть 	 number 
+ sixième 	 шестой 	 number 
+ siècle 	 век 	 time 
+ social 	 общественный 	 adjective 
+ société 	 общество 	 society 
+ société 	 предприятие 	 business 
+ soeur 	 сестра 	 family 
+ soie 	 шёлк ; шелк 	 material 
+ soir 	 вечер 	 time 
+ soit 	 либо 	 adverb 
+ soixante 	 шестьдесят 	 number 
+ soixante-dix 	 семьдесят 	 number 
+ sol 	 настил ; пол 	 house 
+ sol 	 почва ; земля 	 material 
+ soleil 	 солнце 	 nature 
+ solide 	 жёсткий 	 adjective 
+ solitaire 	 одинокий 	 adjective 
+ sommeil 	 сон 	 nature 
+ sommet 	 верхушка 	 abstract 
+ son 	 её 	 pronoun 
+ son 	 звук 	 nature 
+ sorte 	 вид 	 abstract 
+ sot 	 глупый 	 adjective 
+ souci 	 попечение 	 abstract 
+ soudain 	 неожиданный 	 adjective 
+ souffle 	 дыхание 	 anatomy 
+ souhait 	 желание 	 abstract 
+ soulager 	 помочь 	 verb 
+ soupe 	 суп 	 food 
+ source 	 источник 	 nature 
+ source 	 источник 	 transport 
+ sourire 	 улыбаться 	 verb 
+ sourire 	 улыбка 	 abstract 
+ soutenir 	 поддерживать 	 verb 
+ souvent 	 часто 	 adverb 
+ spécial 	 особенный 	 adjective 
+ spécifique 	 специфический 	 adjective 
+ structure 	 структура 	 linguistics 
+ stupide 	 глупый 	 adjective 
+ style 	 стиль 	 art 
+ subitement 	 вдруг 	 adverb 
+ succès 	 успех 	 society 
+ succès 	 хит 	 art 
+ sucre 	 сахар 	 food 
+ sucre 	 углевод 	 food 
+ sucrer 	 насахарить ; положить сахару 	 verb 
+ sucré 	 сладкое 	 adjective 
+ sud 	 юг 	 logistics 
+ suffisamment 	 довольно 	 adverb 
+ suggérer 	 предложить 	 verb 
+ suivant 	 следующий 	 adjective 
+ suivre 	 следовать 	 verb 
+ sujet 	 подчиненный 	 adjective 
+ sujet 	 сюжет ; тема 	 linguistics 
+ supermarché 	 супермаркет ; универсам 	 city 
+ supposer 	 предполагать 	 verb 
+ supprimer 	 убрать 	 verb 
+ sur 	 после ; потом 	 adjective 
+ surface 	 поверхность 	 mathematics 
+ surprendre 	 удивить 	 verb 
+ surprise 	 сюрприз 	 abstract 
+ système 	 система 	 linguistics 
+ sécher 	 высушить 	 verb 
+ séparée 	 отдельный 	 adjective 
+ série 	 множество 	 mathematics 
+ sérénité 	 спокойствие 	 abstract 
+ sûr 	 обеспеченный 	 adjective 
+ table 	 стол 	 house 
+ table 	 таблица 	 object 
+ tableau 	 картина 	 art 
+ taille 	 размер 	 physics 
+ tampon 	 печать ;штемпель 	 object 
+ tapis 	 ковёр 	 house 
+ tard 	 опоздавший 	 adjective 
+ tard 	 поздно 	 adverb 
+ te 	 себя 	 pronoun 
+ technologie 	 технология 	 abstract 
+ technologie 	 технология 	 society 
+ teinte 	 окрашенность ; цвет 	 art 
+ tel 	 такой 	 adverb 
+ temps 	 время 	 physics 
+ temps 	 момент 	 transport 
+ temps 	 погода 	 nature 
+ tendance 	 тенденция 	 abstract 
+ tenir 	 держать 	 verb 
+ tenir 	 сохранить 	 verb 
+ tennis 	 теннис 	 sports 
+ terminer 	 закончить ; докончить 	 verb 
+ terminer 	 кончать 	 verb 
+ terrain 	 поле 	 nature 
+ terre 	 земля 	 material 
+ terre 	 земля ; почва 	 nature 
+ testament 	 завещание 	 society 
+ thé 	 чай 	 food 
+ théorie 	 теория 	 education 
+ théâtre 	 театр 	 city 
+ tige 	 стебель 	 nature 
+ tirer 	 стрелять 	 verb 
+ tirer 	 тянуть 	 verb 
+ tiroir 	 ящик 	 house 
+ titre 	 надпись ; заголовок 	 society 
+ toilettes 	 уборная ; туалет 	 house 
+ toit 	 крыша 	 house 
+ tomate 	 помидор ; томат 	 food 
+ tomate 	 помидор ; томат 	 food 
+ tomber 	 падать ; упасть 	 verb 
+ touche 	 клавиша 	 object 
+ toucher 	 прикосновение 	 abstract 
+ toujours 	 всегда 	 adverb 
+ tourner 	 повернуть 	 verb 
+ tousser 	 кашлять 	 verb 
+ tout 	 все 	 pronoun 
+ tout 	 все ; бсё 	 adjective 
+ tout 	 целое 	 abstract 
+ toux 	 кашель 	 medicine 
+ train 	 поезд 	 transport 
+ traitement 	 обхождение 	 abstract 
+ traiter 	 выработать 	 verb 
+ traiter 	 лечить 	 verb 
+ trajet 	 поездка 	 transport 
+ tranquille 	 тихий 	 adjective 
+ transport 	 перевозка ; транспорт 	 transport 
+ transporter 	 доставить 	 verb 
+ travail 	 дело ; труда ; работа 	 business 
+ travail 	 работа 	 abstract 
+ travailler 	 обрабатывать 	 verb 
+ treize 	 тринадцать 	 number 
+ trente 	 тридцать 	 number 
+ triage 	 выбор 	 abstract 
+ tribunal 	 суд 	 society 
+ triste 	 грустный 	 adjective 
+ triste 	 печальный 	 adjective 
+ trois 	 три 	 number 
+ troisième 	 третий 	 mathematics 
+ tronc 	 торс 	 anatomy 
+ trou 	 дыра 	 abstract 
+ trouver 	 находить 	 verb 
+ trouver 	 обнаружить 	 verb 
+ très 	 очень 	 adverb 
+ tuyauterie 	 труба 	 object 
+ tâche 	 проект 	 abstract 
+ téléphone cellulaire 	 мобильный телефон ; мобильник 	 device 
+ téléphoner 	 звонить 	 verb 
+ téléviseur 	 телевизор 	 device 
+ tête 	 голова 	 anatomy 
+ tôt 	 скоро 	 adverb 
+ un 	 один 	 number 
+ union 	 союз 	 society 
+ unité 	 единица 	 mathematics 
+ université 	 университет ; вуз 	 city 
+ université 	 университет ; вуз 	 education 
+ usage 	 употребление 	 linguistics 
+ usine 	 завод 	 city 
+ usine 	 завод ; фабрика 	 city 
+ usuel 	 обычный 	 adjective 
+ usure 	 износ 	 abstract 
+ utilisateur 	 пользователь 	 society 
+ utiliser 	 использовать 	 verb 
+ vacance 	 каникулы 	 travelling 
+ vache 	 корова 	 animal 
+ vague 	 волна 	 nature 
+ vaincre 	 победить 	 verb 
+ valeur 	 ценность 	 art 
+ valise 	 чемодан 	 clothes 
+ vapeur 	 пар 	 physics 
+ vendre 	 продать 	 verb 
+ vendredi 	 пятница 	 time 
+ venin 	 яд ; отрава 	 material 
+ venir 	 приходить 	 verb 
+ vent 	 ветер 	 nature 
+ vente 	 продажа ; сбыт 	 business 
+ verre 	 стакан 	 food 
+ verre 	 стекло 	 material 
+ vers 	 на 	 preposition 
+ vert 	 зелёный 	 color 
+ veste 	 куртка ; пиджак 	 clothes 
+ viande 	 мясо 	 food 
+ victoire 	 победа 	 sports 
+ vie 	 жизнь 	 nature 
+ vie 	 жизнь 	 time 
+ vieux 	 старый 	 adjective 
+ vif 	 живой 	 adjective 
+ village 	 деревня 	 society 
+ village 	 деревня 	 society 
+ ville 	 город 	 society 
+ ville 	 мегаполис 	 society 
+ vin 	 вино 	 food 
+ vingt 	 двадцать 	 number 
+ violent 	 насильственный 	 adjective 
+ violent 	 резкий 	 adjective 
+ violet 	 фиолетовый ; тёмно-лиловый 	 color 
+ visage 	 лицо 	 anatomy 
+ visite 	 визит 	 abstract 
+ visiter 	 посетить 	 verb 
+ visser 	 привинтить 	 verb 
+ vite 	 быстро 	 adverb 
+ vivre 	 жить 	 verb 
+ voile 	 парус 	 object 
+ voilure 	 лезвие 	 object 
+ voir 	 видеть 	 verb 
+ voire 	 даже 	 adverb 
+ voisin 	 сосед 	 family 
+ voix 	 голос 	 communication 
+ vol 	 летание ; полёт 	 transport 
+ voler 	 красть ; воровать 	 verb 
+ voler 	 летать 	 verb 
+ volonté 	 воля 	 abstract 
+ volonté 	 воля 	 society 
+ vouloir 	 хотеть 	 verb 
+ vrai 	 действительный 	 adjective 
+ vrai 	 правильный 	 adjective 
+ vrai 	 правильный ; верный 	 adjective 
+ vraiment 	 действительно ; серьезно 	 adverb 
+ vraisemblablement 	 вероятно 	 adverb 
+ weekend 	 выходных 	 time 
+ zone 	 диапазон 	 abstract 
+ États-Unis 	 США ; Соединенные Штаты Америки 	 country 
+ à 	 внутри 	 adverb 
+ âge 	 возраст 	 time 
+ âge 	 возраст 	 time 
+ ça 	 это 	 pronoun 
+ écart 	 отклонение 	 mathematics 
+ échange 	 замена 	 abstract 
+ école 	 школа 	 city 
+ économe 	 экономический 	 adjective 
+ économie 	 хозяйство ; экономика 	 business 
+ économique 	 дешевый 	 adjective 
+ économique 	 экономический 	 adjective 
+ écraser 	 разгромить 	 verb 
+ écraser 	 смять 	 verb 
+ écrire 	 писать 	 verb 
+ écriture 	 почерк 	 linguistics 
+ écrivain 	 писатель 	 profession 
+ écrou 	 гайка 	 object 
+ éducation 	 воспитание 	 society 
+ égal 	 равный ; одинаковый 	 adjective 
+ égal 	 ровный 	 adjective 
+ égaliser 	 выравнить 	 verb 
+ église 	 церковь ; храм 	 city 
+ élection 	 выборы 	 mathematics 
+ électrique 	 электрический 	 adjective 
+ élever 	 воспитать 	 verb 
+ éliminer 	 убить 	 verb 
+ élégant 	 элегантный 	 adjective 
+ élément 	 элемент 	 mathematics 
+ élément chimique 	 элемент 	 material 
+ éléphant 	 слон 	 animal 
+ énergie 	 энергия 	 nature 
+ épais 	 толстый 	 adjective 
+ épargner 	 копить 	 verb 
+ épingle 	 булавка 	 object 
+ épouser 	 жениться 	 verb 
+ éprouver 	 ощущать ; чуствовать 	 verb 
+ équilibre 	 баланц 	 physics 
+ équipe 	 команда 	 society 
+ établir 	 основать 	 verb 
+ étage 	 этаж 	 house 
+ étape 	 фаза 	 time 
+ état 	 состояние 	 mathematics 
+ état 	 страна 	 society 
+ état 	 страна ; государство 	 society 
+ étoffe 	 ткань 	 material 
+ étoile 	 звезда 	 nature 
+ étranger 	 иностранный 	 adjective 
+ étroit 	 узкий 	 adjective 
+ étudiant 	 студент ; ученик 	 profession 
+ étudier 	 изучать 	 verb 
+ étudier 	 учить(ся) 	 verb 
+ été 	 лето 	 nature 
+ évaluer 	 оценить 	 verb 
+ éveillé 	 бдительный 	 adjective 
+ évidence 	 улика 	 abstract 
+ évier 	 лохань 	 house 
+ éviter 	 уклониться ; избежать 	 verb 
+ évolution 	 эволюция ; развитие 	 nature 
+ événement 	 случай 	 abstract 
+ événement 	 событие 	 abstract 
+ être debout 	 стоять 	 verb 
+ être d'accord 	 согласиться 	 verb 
+ île 	 остров 	 nature 
