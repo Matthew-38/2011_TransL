@@ -11,7 +11,7 @@ The Tkinter library is needed to run this program
 
 In a Linux console, enter:
 
-  $ python3 main.py
+    $ python3 main.py
 
 The program will initialise the GUI mode, but the console remains with output in the background - which can be used for debugging. 
 
@@ -44,7 +44,7 @@ En 2011, j'étais bien passioné par l'apprentissage des langues et j'avais comm
 
 Dans une console Linux, saissez :
 
-  $ python3 main.py
+    $ python3 main.py
   
 La programme initialize dans le mode graphique, mais la console reste avec des informations de debugging. 
 Ça marche aussi sous Windows avec Python 3
