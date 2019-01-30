@@ -1,3 +1,39 @@
+# TransL - A transliteration and text composition tool for polyglots
+This is an old project, so you can compare my code (I haven't touched it since 2011). Also it shows my usage of the GUI Tkinter, unicode features and text manipulation, etc.
+
+[Version Française en bas]
+
+# Background
+In 2011, I was passionate about language learning and I had started to learn Russian and Esperanto. For my learning, I wanted to have penpals who were native speakers of the languages I was learning, via the internet. To write them in the target language, especially in Russian, I needed to write in different alphabets. I did not yet have a Russian keyboard (the project "Keyboard-layout-script" then replaces this one). This program had therefore the aime to do transliteration while I typed on the keyboard. A bit like Lexilogos (https://www.lexilogos.com/keyboard/russian.htm) - indeed this was my source of inspiration, but I wanted to make my own version, and for it to work offline (I then lived in a remote area with poor internet connection).
+
+# Usage
+The Tkinter library is needed to run this program
+
+In a Linux console, enter:
+
+  $ python3 main.py
+
+The program will initialise the GUI mode, but the console remains with output in the background - which can be used for debugging. 
+
+It also works under Windows with Python 3
+
+# Features
+The main text area to enter text. The target language can be chosen above. Special letters can be chosen below. To the right there is a dictionary feature. You can enter a word in any language (of those supported) and it will be translated into the target language. The dictionary, however, is limited (see below).
+
+# Limitations and Bugs
+
+1. The dictionaries are very limited, so there are several words which are not found. Also, it only accepts head words ("have" is accepted, but not "has", "had").
+2. There are bugs with uncaught exceptions in the console if we click on "Open" or "Save" and then cancel the process.
+3. The code is ugly. I programmed it in 2011 and I have not touched it since. This makes it more difficult to understand and maintain (if ever I want to come back to it).
+4. The GUI is oldfashioned - it is Tkinter. But my aime was not to make it beautiful, but useful.
+5. It never passed version Alpha - with the console which gives all sorts of debugging messages. And these have no meaning for people who don't know the code.
+6. All the files (images, dictionaries) are a little disorganised in the main folder. 
+
+
+############################################################################################
+
+# Version Française
+
 # TransL
 Ancien projet pour comparer (je n'ai pas touché le code depuis 2011). Aussi ça démontre l'usage de GUI Tkinter, des fichiers en unicode,  etc.
 
